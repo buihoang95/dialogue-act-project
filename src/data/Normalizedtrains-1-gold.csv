@@ -1,0 +1,105 @@
+Data
+tôi có thể giúp gì cho anh:::offer
+vâng:::acceptOffer
+tôi muố:::stalling
+tôi muốn xác định số lượng tối đa toa chở cam tôi có thể lấy từ bath lúc 7 giờ sáng mai:::inform
+nên:::turnKeep
+voc_breath hm ... nên:::stalling
+tôi đoán tất cả các toa đều phải đi qua corning:::inform
+vì nhà máy nước cam ở đó:::inform
+voc_breath:::turnKeep:stalling
+nhà máy cam:::selfCorrection
+so:::turnKeep
+thế từ corning cách bath bao nhiêu cây:::setQuestion:turnAssign
+2 tiếng đồng hồ:::answer
+và sẽ mất thêm 1 tiếng để chất hàng lên toa đúng không:::checkQuestion:turnAssign
+phải rồi:::confirm
+okay:::autoPositive:turnTake
+thế:::turnKeep
+hm thế:::stalling
+mỗi chuyến sẽ mất ít nhất tầm 3 tiếng đồng hồ rồi:::checkQuestion
+um:::turnKeep:stalling
+vâng:::confirm
+chúng tôi có thể dỡ số lượng hàng từ tàu trong một giờ:::inform
+vì vậy:::turnKeep
+chúng tôi tối đa dỡ được 3 toa hàng trong một giờ:::inform
+vâng:::autoPositive
+okay:::autoPositive
+okay:::autoPositive
+thế:::turnKeep
+ta có thể làm một việc:::suggest
+oh:::selfError
+voc_breath thế voc_breath:::turnKeep:stalling
+tôi nghĩ chúng ta nên xem số toa ta sẽ thực sự lấy từ corning trong 4 tiếng:::suggest
+um:::turnKeep:stalling
+từ corning trong 4 tiếng um bao xa từ avon đến bath:::setQuestion
+đến corning:::selfCorrection
+voc_click voc_breath:::autoPositive:turnTake
+tầm 6 tiếng:::answer
+sẽ nhanh hơn qua dansville:::inform
+okay:::autoPositive
+từ avon:::autoPositive
+ôi không:::selfError
+tôi đã nghĩ ta có thể nhận 2 toa khi ở bath:::inform
+mm:::autoPositive
+nhưng tôi nghĩ rằng ta không thể đưa chúng lên:::inform
+voc_breath:::turnKeep:stalling
+chúng sẽ không đến:::inform:selfCorrection
+nếu không:::retraction
+từ elmira cách bath bao xa voc_breath:::setQuestion
+hai tiếng đồng hồ:::answer
+ôi thật àh:::autoPositive
+thế:::turnKeep
+tôi có thể lấy động cơ e:::inform
+voc_breath:::turnKeep:stalling
+nó sẽ đến bath lấy hai toa hàng:::inform
+đưa đến corn:::retraction
+bao lâu từ bath đến corning:::setQuestion
+tôi đoán chắc tầm 1 tiếng:::checkQuestion
+hai tiếng ạ:::answer
+ồ đợi một chút:::autoPositive
+tôi nghĩ từ elmira qua đến corning đến bath bao lâu:::setQuestion
+voc_breath:::stalling
+4 tiếng ạ:::answer
+ồ 4 tiếng cơ à:::autoPositive
+vậy chúng tôi sẽ bó tay khi hai toa đó ở bath:::inform
+tôi không nghĩ ta lấy số toa lớn nhất chở cam đến bath vào lúc 7 giờ sáng tôi không nghĩ ta có thể dùng hai toa đó ở bath:::inform
+tôi khôn:::question
+voc_breath:::turnKeep:stalling
+bởi vì tàu sẽ không đến bath đúng giờ được:::inform
+chính xác ạ:::agreement
+được rồi:::autoPositive:turnTake
+voc_breath:::turnKeep
+chúng tôi có 3 toa hàng ở dansville:::inform
+thế:::turnKeep
+từ avon đến dansville bao xa vậy:::setQuestion
+3 tiếng ạ:::answer
+3 tiếng:::autoPositive
+thế từ dansville đến corning:::setQuestion
+1 tiếng:::answer
+vâng:::autoPositive:turnTake
+thế chúng tôi có thể dùng 3 toa hàng đúng không:::checkQuestion:turnAssign
+mm-hm:::confirm
+okay:::autoPositive:turnTake
+vậy là 3 toa:::inform
+okay:::turnKeep
+vậy động cơ e 1 từ avon sẽ đi dansville lấy 3 toa hàng rồi đến corning chất chúng lên và đưa chúng trở lại bath:::inform
+được đấy:::turnKeep
+nghe có vẻ tốt đấy:::inform
+voc_breath so:::turnKeep
+thế tôi nghĩ chúng tôi muốn lấy luôn động cơ e hai với hai toa hàng từ elmira và đưa đến corning:::inform
+vậy từ elmira đến corning là hai tiếng:::checkQuestion
+mm-hm:::confirm
+okay:::autoPositive:turnTake
+voc_breath và:::turnKeep
+okay:::turnKeep
+voc_breath thế:::turnKeep:stalling
+yeah nghe được đấy:::inform
+mm-hm:::agreement
+thế:::turnTake
+anh nhắc lại giúp tôi với:::request:turnAssign
+okay:::acceptRequest:turnAccept
+động cơ 1 đến dansville lây ba toa đến corning sẽ được chất cam và đến bath động cơ e hai lấy hai toa ở elmira đến corning nơi chúng sẽ được chất cam và sẽ đưa trở về bath:::inform
+okay:::alloPositive
+thế là tối đa được 5 toa:::inform
+okay:::interactionStructuring

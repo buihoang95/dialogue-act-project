@@ -1,0 +1,150 @@
+q1ec6-fs1,p1,p2,phải rồi,turnTake:opening
+q1ec6-fs2,p2,p1,voc_breath,autoPositive:alloPositive
+q1ec6-fs3,p1,p2,đi về phía nam và bạn sẽ vượt qua một số vách đá bên phải của bạn,instruct
+q1ec6-fs4,p2,p1,được rồi,acceptRequest
+q1ec6-fs5,p2,p1,đúng rồi,acceptRequest
+q1ec6-fs6,p1,p2,và tiếp tục đi xuống hướng nam,instruct
+q1ec6-fs7,p2,p1,mmhmm,acceptRequest
+q1ec6-fs8,p1,p2,qua một xưởng bên phải bạn,instruct
+q1ec6-fs9,p2,p1,vượt qua gì vậy,setQuestion
+q1ec6-fs10,p1,p2,một cái xưởng,answer
+q1ec6-fs11,p1,p2,được rồi,turnKeep
+q1ec6-fs12,p1,p2,nonvocal tiếp tục đi theo hướng bên phải,instruct
+q1ec6-fs13,p1,p2,phải rồi,autoPositive:turnTake
+q1ec6-fs14,p1,p2,và rồi lại vòng theo hướng đông,instruct
+q1ec6-fs15,p2,p1,đi xuống một cánh đồng lúa mỳ à,checkQuestion
+q1ec6-fs16,p2,p1,vậy tôi có phải đi thẳng không,checkQuestion
+q1ec6-fs17,p1,p2,không phải đi xuống xa vậy vậy đâu,disconfirm
+q1ec6-fs18,p2,p1,không phải xuống xa như vậy,autoPositive
+q1ec6-fs19,p1,p2,không,alloPositive
+q1ec6-fs20,p2,p1,phải rồi,acceptRequest:autoPositive
+q1ec6-fs21,p2,p1,phải đi vòng,autoPositive
+q1ec6-fs22,p1,p2,phải đi vòng,alloPositive
+q1ec6-fs23,p1,p2,và sau đó quay lại,instruct
+q1ec6-fs24,p1,p2,sau đó bạn sẽ đi theo hướng bắc,instruct
+q1ec6-fs25,p2,p1,phải rồi,acceptRequest
+q1ec6-fs26,p1,p2,phải rồi,autoPositive
+q1ec6-fs27,p1,p2,bạn đang ở,checkQuestion
+q1ec6-fs28,p2,p1,và tôi như đang đi giữa những vách núi và rừng thông,choiceQuestion
+q1ec6-fs29,p1,p2,ồ,autoPositive
+q1ec6-fs30,p1,p2,bạn vượt qua rừng thông,answer
+q1ec6-fs31,p1,p2,rừng thông bên phải bạn,inform
+q1ec6-fs32,p2,p1,phải rồi,autoPositive
+q1ec6-fs33,p2,p1,được rồi,acceptRequest
+q1ec6-fs34,p1,p2,và bạn tiếp tục đi qua nó,instruct
+q1ec6-fs35,p1,p2,cho đến khi bạn vừa đi đến đầu của rừng thông,instruct
+q1ec6-fs36,p2,p1,phải rồi,autoPositive
+q1ec6-fs37,p2,p1,được rồi,acceptRequest
+q1ec6-fs38,p1,p2,và rồi lại đi hướng đông tiếp,instruct
+q1ec6-fs39,p2,p1,đi lại hướng đông,autoPositive
+q1ec6-fs40,p1,p2,đi lại hướng đông,alloPositive
+q1ec6-fs41,p2,p1,phải rồi,autoPositive
+q1ec6-fs42,p2,p1,được rồi,acceptRequest
+q1ec6-fs43,p2,p1,được rồi,autoPositive:turnRelease
+q1ec6-fs44,p2,p1,xin lỗi,
+q1ec6-fs45,p1,p2,được rồi,autoPositive:alloPositive
+q1ec6-fs46,p2,p1,được rồi,autoPositive
+q1ec6-fs47,p1,p2,phải rồi,autoPositive:alloPositive:turnTake
+q1ec6-fs48,p1,p2,hướng đông,instruct
+q1ec6-fs49,p1,p2,đi thêm một chút,inform
+q1ec6-fs50,p1,p2,ừmmm,turnKeep:stalling
+q1ec6-fs51,p1,p2,và bắt đầu đi theo hướng nam,instruct
+q1ec6-fs52,p2,p1,phải rồi,autoPositive
+q1ec6-fs53,p2,p1,được rồi,acceptRequest
+q1ec6-fs54,p1,p2,rừng thông đang ở trên đường của bạn,inform
+q1ec6-fs55,p2,p1,ehm,autoNegative:turnTake:stalling
+q1ec6-fs56,p2,p1,đúng rồi,agreement
+q1ec6-fs57,p2,p1,uh-huh,agreement
+q1ec6-fs58,p1,p2,phải rồi,autoPositive:alloPositive
+q1ec6-fs59,p2,p1,phải rồi,acceptRequest
+q1ec6-fs60,p1,p2,bạn tiếp tục đi xuống tiếp rừng thông,instruct
+q1ec6-fs61,p2,p1,phải rồi,acceptRequest
+q1ec6-fs62,p1,p2,và sau đó bắt đầu đi theo hướng nam,instruct
+q1ec6-fs63,p2,p1,okay,acceptRequest
+q1ec6-fs64,p1,p2,sau đó bạn đi theo lại hướng đông,instruct
+q1ec6-fs65,p1,p2,và,turnKeep:stalling
+q1ec6-fs66,p1,p2,và bạn đi vòng quanh một cái tiệm bánh,instruct
+q1ec6-fs67,p2,p1,yeah,acceptRequest
+q1ec6-fs68,p1,p2,phải rồi,autoPositive:alloPositive
+q1ec6-fs69,p2,p1,tôi sẽ đi theo hướng đông xuống tiệm bánh,checkQuestion
+q1ec6-fs70,p1,p2,xuống tiệm bánh,confirm
+q1ec6-fs71,p2,p1,phải rồi,autoPositive
+q1ec6-fs72,p1,p2,uh-huh phải rồi,alloPositive
+q1ec6-fs73,p2,p1,được rồi,acceptRequest
+q1ec6-fs74,p1,p2,và sau đó đi lại về hướng tây,instruct
+q1ec6-fs75,p2,p1,whoa whoa,autoNegative
+q1ec6-fs76,p2,p1,đợi một chút,pausing
+q1ec6-fs77,p2,p1,phải rồi,autoPositive
+q1ec6-fs78,p2,p1,tôi đi xuống khu rừng thông,inform
+q1ec6-fs79,p2,p1,tôi sẽ đi thẳng xuống hướng phải,inform
+q1ec6-fs80,p1,p2,phải rồi,agreement
+q1ec6-fs81,p2,p1,đi thẳng xuống,selfCorrection
+q1ec6-fs82,p2,p1,rồi bạn,checkQuestion
+q1ec6-fs83,p1,p2,cho đến khi bạn không,inform
+q1ec6-fs84,p1,p2,cho đến đi bạn ở phía trên của tiệm bánh,inform
+q1ec6-fs85,p2,p1,à phải rồi,autoPositive
+q1ec6-fs86,p1,p2,phải rồi,alloPositive
+q1ec6-fs87,p2,p1,xin lỗi,
+q1ec6-fs88,p2,p1,phải rồi,autoPositive
+q1ec6-fs89,p2,p1,được rồi,acceptRequest
+q1ec6-fs90,p1,p2,đi vòng một chút cho đến đi bạn ở dưới nó,instruct
+q1ec6-fs91,p1,p2,phải rồi,autoPositive:turnKeep
+q1ec6-fs92,p1,p2,sau đó đi theo hướng tây,instruct
+q1ec6-fs93,p2,p1,phải rồi,autoPositive
+q1ec6-fs94,p2,p1,được rồi tôi đã hiểu,acceptRequest
+q1ec6-fs95,p1,p2,phải rồi,autoPositive
+q1ec6-fs96,p1,p2,và sau đó đi xuống hướng nam,instruct
+q1ec6-fs97,p2,p1,được rồi,acceptRequest
+q1ec6-fs98,p1,p2,nó là một cái nhà hàng,inform
+q1ec6-fs99,p2,p1,yeah,agreement
+q1ec6-fs100,p2,p1,chính là nó,checkQuestion
+q1ec6-fs101,p1,p2,phải rồi,confirm
+q1ec6-fs102,p2,p1,uh-huh,autoPositive
+q1ec6-fs103,p1,p2,và nó có một,inform
+q1ec6-fs104,p1,p2,bạn có thể đi vòng,propositionalQuestion
+q1ec6-fs105,p1,p2,đi vòng theo nhà hàng,instruct
+q1ec6-fs106,p2,p1,yeah,answer
+q1ec6-fs107,p2,p1,phải rồi,acceptRequest
+q1ec6-fs108,p1,p2,vậy bạn sẽ đi theo hướng tây,checkQuestion
+q1ec6-fs109,p2,p1,uh-huh,acceptRequest
+q1ec6-fs110,p2,p1,được,confirm
+q1ec6-fs111,p1,p2,phải rồi,autoPositive:alloPositive:turnTake
+q1ec6-fs112,p1,p2,và bạn sẽ đi theo hướng tây nam,instruct
+q1ec6-fs113,p1,p2,um,turnKeep:stalling
+q1ec6-fs114,p2,p1,mmhmm,acceptRequest
+q1ec6-fs115,p1,p2,ở giữa cánh đồng lúa mỳ và cái nhà kho,inform
+q1ec6-fs116,p1,p2,ở giữa chúng,inform
+q1ec6-fs117,p2,p1,phải rồi,autoPositive
+q1ec6-fs118,p2,p1,được rồi,acceptRequest
+q1ec6-fs119,p1,p2,phải rồi,autoPositive
+q1ec6-fs120,p1,p2,bạn đi đúng đó,instruct
+q1ec6-fs121,p2,p1,yep,autoPositive:turnAssign
+q1ec6-fs122,p1,p2,và sau đó đi theo hướng tây,instruct
+q1ec6-fs123,p2,p1,phải rồi,acceptRequest
+q1ec6-fs124,p1,p2,vậy thì bạn sẽ ở giữa chúng,checkQuestion
+q1ec6-fs125,p2,p1,ở giữa,confirm:alloPositive
+q1ec6-fs126,p1,p2,um,turnKeep:stalling
+q1ec6-fs127,p2,p1,phải rồi,autoPositive
+q1ec6-fs128,p1,p2,mmhmm,autoPositive:alloPositive
+q1ec6-fs129,p2,p1,được rồi,acceptRequest
+q1ec6-fs130,p1,p2,và sau đó đi theo hướng tây nam theo cạnh của bản đồ,instruct
+q1ec6-fs131,p2,p1,phải rồi,autoPositive
+q1ec6-fs132,p2,p1,được rồi,acceptRequest
+q1ec6-fs133,p1,p2,phải rồi,autoPositive:alloPositive
+q1ec6-fs134,p1,p2,và sau đó là huớng nam,instruct
+q1ec6-fs135,p2,p1,mm,autoPositive
+q1ec6-fs136,p2,p1,phải rồi,acceptRequest
+q1ec6-fs137,p1,p2,và sau đó bạn sẽ đi theo hướng đông,instruct
+q1ec6-fs138,p1,p2,um,turnKeep:stalling
+q1ec6-fs139,p1,p2,bạn sẽ đến một ngọn hải đăng,instruct
+q1ec6-fs140,p2,p1,vậy phải đi xuống các hang động,checkQuestion
+q1ec6-fs141,,,,
+q1ec6-fs142,p1,p2,sau đó đi theo hướng đông cho đến khi bạn đến ngọn hải đăng,instruct
+q1ec6-fs143,p2,p1,phải rồi,autoPositive
+q1ec6-fs144,p2,p1,được rồi,acceptRequest
+q1ec6-fs145,p1,p2,phải rồi,autoPositive:alloPositive
+q1ec6-fs146,p1,p2,đó là kết thúc,inform
+q1ec6-fs147,p2,p1,trên hay dưới,choiceQuestion
+q1ec6-fs148,p2,p1,thật là thú vị,autoPositive
+q1ec6-fs149,p1,p2,ở bên cạnh,answer
+q1ec6-fs150,p1,p2,voc_laugh,autoPositive

@@ -1,0 +1,108 @@
+Data
+chào cậu:::opening:returnGreeting
+uh:::turnTake:stalling
+cậu tên gì thế:::setQuestion
+tớ tên là gregor linn:::answer
+rất vui được gặp cậu:::autoPositive:initialGreeting
+tớ cũng rất vui khi gặp cậu:::autoPositive:returnGreeting
+uh:::turnTake:stalling
+hôm nay cậu thế nào:::setQuestion
+mh:::turnAccept
+tớ cũng ổn:::answer
+tớ cũng thế:::autoPositive:inform
+uh:::turnKeep:stalling
+chơi trò chơi đi:::suggest
+đầu tiên tớ sẽ nói luật chơi cho cậu:::inform:interactionStructuring
+tớ là một người rất nổi tiếng:::inform
+ờ:::autoPositive
+uh:::turnKeep:stalling
+cậu phải đoán tên của tớ:::instruct
+được thôi:::autoPositive
+cậu có thể hỏi bao nhiêu câu tùy ý ngoại trừ hỏi tên tớ là gì:::instruct
+hiểu rồi:::autoPositive
+cậu không nhất thiết phải hỏi câu hỏi lựa chọn:::instruct
+cậu có thể hỏi câu hỏi mở cũng được:::instruct
+tớ hiểu rồi:::inform:autoPositive
+cậu được thử 10 lần:::inform
+và sau 10 lần hoặc ít hơn nếu cậu đoán đúng tên tớ:::inform
+cậu sẽ thắng trò chơi:::inform
+còn không thì cậu thua:::inform
+okay:::autoPositive
+và:::turnGrab
+mhm:::autoPositive:turnRelease
+cậu vừa nói gì àh:::setQuestion
+ừh là:::turnKeep:stalling
+là:::selfCorrection
+uhm:::turnAccept:stalling
+cậu nhắc lại câu hỏi được không:::autoNegative
+cậu nói rõ lại câu hỏi được không:::autoNegative
+uhm:::turnTake:stalling
+cậu sẽ trả lời có hoặc không hoặc:::choiceQuestion
+uh:::turnKeep:stalling
+không:::answer:turnGrab
+tớ sẽ trả lời có hoặc không nói cậu hỏi câu hỏi lựa chọn:::inform
+tớ chắc chắn:::selfCorrection
+okay:::autoPositive
+uhm:::turnKeep:stalling
+nếu cậu hỏi câu hỏi mở tớ sẽ cố trả lời nó:::inform
+uh:::turnKeep:stalling
+mặc dù tớ không nhất thiết phải trả lời câu đấy:::inform
+okay:::autoPositive
+uhm:::turnKeep:stalling
+được rồi:::interactionStructuring
+cậu hiểu luật chưa:::propositionalQuestion
+yup:::confirm
+cậu muốn tớ nhắc lại gì không:::offer
+muốn không:::selfCorrection
+thôi:::declineOffer
+tớ nghĩ là tớ hiểu hết rồi:::inform
+mh:::turnKeep:stalling
+tốt:::autoPositive
+và một điều quan trọng nữa:::interactionStructuring
+và một điều quan trọng nữa:::inform
+tớ sẽ chỉ trở thành người nổi tiếng nữ giới:::inform
+uh:::turnKeep:stalling
+àh ok:::autoPositive
+mhm:::alloPositive
+được rồi:::autoPositive:interactionStructuring
+được rồi uh:::turnKeep
+uh:::stalling
+thế bắt đầu nào:::suggest
+câu hỏi đầu tiên là gì:::setQuestion
+cậu còn sống không:::propositionalQuestion
+không tớ không còn:::answer
+mhm:::autoPositive:turnTake
+uhm:::turnKeep:stalling
+uh:::turnTake:stalling
+cậu là người nước đức à:::propositionalQuestion
+không tớ không phải người đức:::answer
+uhm:::turnTake:stalling
+cậu có phải là người mỹ không:::propositionalQuestion
+không tớ không phải người mỹ:::answer
+uh:::turnTake:stalling
+cậu làm gì khi còn sống:::setQuestion
+ehm:::turnTake:stalling
+để tớ nghĩ một chút:::pausing
+uhm:::turnKeep:stalling
+tớ là:::answer
+tớ là công chúa:::answer
+tớ đã:::selfCorrection
+khi tớ còn sống:::answer
+và cậu đến từ đâu:::setQuestion
+tớ là người anh:::answer
+okay:::autoPositive
+uhm:::turnKeep:stalling
+uh:::turnKeep:stalling
+cậu mất ở đâu:::setQuestion
+chờ tý:::turnKeep:pausing
+uhm:::turnKeep:stalling
+tớ mất ở paris:::answer
+mhm:::autoPositive
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+cậu là công chúa diana đúng không:::guess
+uh:::turnKeep:stalling
+đúng rồi:::confirm
+đó là câu trả lời chính xác:::inform
+giỏi lắm:::alloPositive:closing:congratulation
+okay:::autoPositive:closing

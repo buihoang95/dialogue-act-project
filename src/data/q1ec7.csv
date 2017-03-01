@@ -1,0 +1,75 @@
+q1ec7-fs1,p1,p2,được,turnTake:opening
+q1ec7-fs2,p1,p2,phải rồi,autoPositive:alloPositive:turnKeep:opening
+q1ec7-fs3,p1,p2,tôi đang bắt đầu đi từ phía trước nơi cắm trại dành cho xe rv,interactionStructuring
+q1ec7-fs4,p1,p2,phía trước,selfCorrection
+q1ec7-fs5,p2,p1,mmhmm,autoPositive
+q1ec7-fs6,p1,p2,được,autoPositive:turnTake
+q1ec7-fs7,p2,p1,mmhmm,autoPositive
+q1ec7-fs8,p1,p2,phải rồi,autoPositive:turnTake
+q1ec7-fs9,p1,p2,và chúng ta sẽ đi thẳng xuống phía nam,instruct
+q1ec7-fs10,p1,p2,thẳng,selfCorrection
+q1ec7-fs11,p1,p2,với nơi cắm trại dành cho xe rv ở phía bên tay phải,instruct
+q1ec7-fs12,p2,p1,được,acceptRequest:autoPositive
+q1ec7-fs13,p1,p2,được,autoPositive:turnTake
+q1ec7-fs14,p1,p2,và bạn sẽ đi xuống phía dưới và sau đó đi theo hình chữ u,instruct
+q1ec7-fs15,p2,p1,uh-huh,acceptRequest:autoPositive
+q1ec7-fs16,p1,p2,và chúng ta sẽ đi lên,instruct
+q1ec7-fs17,p1,p2,and were going to have the old,instruct
+q1ec7-fs18,p2,p1,ehm,turnTake:stalling
+q1ec7-fs19,p2,p1,có phải chúng ta đang đi,propositionalQuestion
+q1ec7-fs20,p2,p1,có phải chúng ta đang đi tới phía dưới hàng rào,propositionalQuestion
+q1ec7-fs21,p2,p1,có phải chúng ta đang đi,selfCorrection
+q1ec7-fs22,p1,p2,phía dưới của cái gì  cơ,autoNegative
+q1ec7-fs23,p2,p1,cái cọc,autoPositive:answer
+q1ec7-fs24,p1,p2,hàng rào,checkQuestion:completion
+q1ec7-fs25,p2,p1,hàng rào,autoPositive:alloPositive
+q1ec7-fs26,p1,p2,tôi không thấy cái nào cả vì vậy,inform
+q1ec7-fs27,p1,p2,tôi sẽ nói rằng,inform
+q1ec7-fs28,p1,p2,ở đâu có hàng rào,setQuestion
+q1ec7-fs29,p2,p1,hàng rào ở phía dưới cối xay,answer
+q1ec7-fs30,p2,p1,cái mà ở dưới nơi cắm trại dành cho xe rv,inform
+q1ec7-fs31,p1,p2,phải được rồi,autoPositive:turnTake
+q1ec7-fs32,p1,p2,vậy bạn muốn cái cối xay cũ ở phía bên tay phải nên,instruct
+q1ec7-fs33,p1,p2,nếu hàng rào ở phía dưới cái cối xay cũ bạn muốn giữ nó ở phía bên tay phải,instruct
+q1ec7-fs34,p1,p2,nếu cái hàng rào đó ở phái dưới cái cối xay,instruct
+q1ec7-fs35,p2,p1,được rồi,acceptRequest
+q1ec7-fs36,p1,p2,được rồi,autoPositive:turnTake
+q1ec7-fs37,p1,p2,vậy bạn đi lên và sau đó bạn đi lên phía trước cái cối xay cũ,instruct
+q1ec7-fs38,p1,p2,và rẽ phải,instruct
+q1ec7-fs39,p2,p1,cái cối xay cũ,autoPositive
+q1ec7-fs40,p1,p2,cái cối xay cũ,alloPositive
+q1ec7-fs41,p2,p1,ôi phải rồitôi vừa mới tới chỗ cối xay,inform
+q1ec7-fs42,p1,p2,cối xay,correction:alloNegative
+q1ec7-fs43,p1,p2,bạn mới chỉ tới chỗ cối xay,autoPositive
+q1ec7-fs44,p1,p2,phải được rồi,autoPositive
+q1ec7-fs45,p2,p1,uh-huh,alloPositive
+q1ec7-fs46,p1,p2,nhưng cứ tiếp tục vượt qua chỗ đó,instruct
+q1ec7-fs47,p2,p1,vậy tôi sẽ đi xuống phía dưới hàng rào,propositionalQuestion
+q1ec7-fs48,p1,p2,phải rồi,autoPositive:turnTake
+q1ec7-fs49,p1,p2,chúng ta đã đi xuống dưới từ nơi cắm trại dành cho xe rv và chúng tôi đang đi theo hình chữ u,instruct
+q1ec7-fs50,p2,p1,mmhmm,autoPositive
+q1ec7-fs51,p2,p1,mmhmm,autoPositive
+q1ec7-fs52,p1,p2,được rồi,autoPositive
+q1ec7-fs53,p1,p2,và sau đó bạn sẽ tiến về phía bắc đúng không,instruct
+q1ec7-fs54,p1,p2,đúng không,feedbackElicitation
+q1ec7-fs55,p2,p1,chờ đã cái hình dạng ở ngay bên dưới cối xay mà ngay bên dưới nơi cắm trại dành cho xe rv ở đâu,pausing
+q1ec7-fs56,p2,p1,,setQuestion
+q1ec7-fs57,p2,p1,ngay bên dưới cái cối xay,propositionalQuestion
+q1ec7-fs58,p2,p1,ngay bên dưới nơi cắm trại dành cho xe rv,propositionalQuestion
+q1ec7-fs59,p1,p2,không không,answer
+q1ec7-fs60,p1,p2,yeah,answer
+q1ec7-fs61,p2,p1,phải,autoPositive
+q1ec7-fs62,p1,p2,nơi cắm trại dành cho xe rv nằmngay trên nền của chữ u,inform
+q1ec7-fs63,p1,p2,ở trước,selfCorrection
+q1ec7-fs64,p2,p1,ở trước,autoPositive
+q1ec7-fs65,p1,p2,the,selfCorrection
+q1ec7-fs66,p2,p1,phải,autoPositive
+q1ec7-fs67,p2,p1,được rồi phải phải phải,autoPositive
+q1ec7-fs68,p1,p2,phải được rồi,autoPositive
+q1ec7-fs69,p1,p2,và bạn đi lên,instruct
+q1ec7-fs70,p1,p2,và cái cối xay cũ,inform
+q1ec7-fs71,p1,p2,vâng cái cối xay cũ của tôi ở bên phải nên cái cối xay của bạn và hàng rào sẽ ở bên phía tay phải,inform
+q1ec7-fs72,p1,p2,nên cái cối xay của bạn và hàng rào sẽ ở bên phía tay phải,inform
+q1ec7-fs73,p2,p1,phải,agreement:autoPositive
+q1ec7-fs74,p1,p2,được rồi phải phải phải,feedbackElicitation
+q1ec7-fs75,p2,p1,uh-huh,autoPositive

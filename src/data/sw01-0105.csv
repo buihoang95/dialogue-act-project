@@ -1,0 +1,146 @@
+sw01-0105-fs1,A,B,jimmy,turnAssign
+sw01-0105-fs2,A,B,bạn làm thế nào để đọc được các tin tức mới,setQuestion
+sw01-0105-fs3,B,A,ừm thì,turnTake:stalling
+sw01-0105-fs4,B,A,tôi ...,selfCorrection
+sw01-0105-fs5,B,A,uh,stalling
+sw01-0105-fs6,B,A,tôi xem bản tin truyền hình quốc gia,answer
+sw01-0105-fs7,B,A,uh,stalling
+sw01-0105-fs8,B,A,và tôi cũng đọc một đến hai tờ báo mỗi ngày,answer
+sw01-0105-fs9,B,A,và,turnKeep
+sw01-0105-fs10,B,A,tôi là một người nghiện tin tức,inform
+sw01-0105-fs11,B,A,rất là nhiều,selfCorrection
+sw01-0105-fs12,B,A,và,turnKeep
+sw01-0105-fs13,B,A,tôi mở cnn rất nhiều,answer
+sw01-0105-fs14,A,B,oh  wow,autoPositive
+sw01-0105-fs15,A,B,vậy,turnKeep
+sw01-0105-fs16,A,B,bạn nói tin tức buổi sáng buổi tối hoặc là tin quốc gia là khi nào,setQuestion
+sw01-0105-fs17,B,A,uh,turnTake:stalling
+sw01-0105-fs18,B,A,buổi tối lúc 6 giờ 30 tôi nghĩ vậy tôi xem các tin tức quốc gia,answer
+sw01-0105-fs19,A,B,oh,turnTake:stalling
+sw01-0105-fs20,A,B,được rồi,autoPositive
+sw01-0105-fs21,A,B,ừm thì,turnKeep:stalling
+sw01-0105-fs22,A,B,tôi thực ra là một người nghiện đọc tin hoặc là xem cnn rất nhiều,inform
+sw01-0105-fs23,A,B,xem,selfCorrection
+sw01-0105-fs24,A,B,nhưng mà,turnKeep
+sw01-0105-fs25,A,B,tôi không đăng kí truyền hình cáp,inform
+sw01-0105-fs26,A,B,tôi không tôi không,stalling
+sw01-0105-fs27,B,A,uh-huh,autoPositive
+sw01-0105-fs28,A,B,bởi bởi vì,stalling
+sw01-0105-fs29,A,B,bởi vì dịch vụ kém và cũng bởi vì tôi sử dụng united way,inform
+sw01-0105-fs30,A,B,uh,stalling
+sw01-0105-fs31,A,B,ừm,turnKeep:stalling
+sw01-0105-fs32,A,B,tôi uh tôi,stalling
+sw01-0105-fs33,A,B,vì vậy,turnKeep
+sw01-0105-fs34,A,B,tôi nhận ra rằng số tiền tôi bỏ ra cho nó,inform
+sw01-0105-fs35,B,A,uh-huh,autoPositive
+sw01-0105-fs36,B,A,ngược lại với số tiền cho truyền hình cáp,checkQuestion
+sw01-0105-fs37,A,B,yeah,confirm
+sw01-0105-fs38,A,B,tôi nhận lấy 1 chứng nghiện voc_laugh,inform
+sw01-0105-fs39,A,B,uh,stalling
+sw01-0105-fs40,B,A,voc_laugh,autoPositive
+sw01-0105-fs41,A,B,hoặc mộ thứ gì đó,inform
+sw01-0105-fs42,B,A,đúng rồi,agreement
+sw01-0105-fs43,A,B,ừm,turnTake
+sw01-0105-fs44,A,B,tôi,retraction
+sw01-0105-fs45,B,A,uh,stalling
+sw01-0105-fs46,B,A,tôi tôi,retraction
+sw01-0105-fs47,B,A,tổng quan chất lượng thông tin mà bạn có hầu hết tôi phải nói rằng nó thực sự thấp,inform
+sw01-0105-fs48,B,A,oh oh,stalling
+sw01-0105-fs49,B,A,uh,stalling
+sw01-0105-fs50,B,A,nó,retraction
+sw01-0105-fs51,B,A,thông thường những thông tin bạn nhận được khá là không đầy đủ,inform
+sw01-0105-fs52,B,A,và,turnKeep
+sw01-0105-fs53,B,A,đó là lí do mà tôi thử và có rất nhiều nguồn nhất có thể,inform
+sw01-0105-fs55,B,A,bởi vì nếu bạn nghe cùng 1 câu chuyện từ 3 nguồn khác nhau thì bạn sẽ thấy bức tranh rõ ràng hơn bạn sẽ thấy,inform
+sw01-0105-fs56,B,A,cái mà ...,stalling
+sw01-0105-fs57,B,a,nhưng mà,turnKeep
+sw01-0105-fs58,B,A,do đó bạn biết đó thật khó để nói rằng những gì bạn nghe được thực tế là vậy,inform
+sw01-0105-fs59,A,B,oh,autoPositive:stalling
+sw01-0105-fs60,A,B,cái gì,turnTake
+sw01-0105-fs61,A,B,cái gì cái gì,stalling
+sw01-0105-fs62,A,B,bạn đọc những tạp chí gì,setQuestion
+sw01-0105-fs63,B,A,à,turnTake
+sw01-0105-fs64,B,A,tôi đọc những tạp chí địa phương,answer
+sw01-0105-fs65,B,A,uh,stalling
+sw01-0105-fs66,B,A,và,turnKeep
+sw01-0105-fs67,B,A,và tôi cũng thường đọc mội số những báo chuyên ngành như chicago tribune new york times hoặc thứ gì đó tương tự,answer
+sw01-0105-fs68,B,A,uh,stalling
+sw01-0105-fs69,A,B,uh-huh,autoPositive
+sw01-0105-fs70,A,B,có một khoảng thời gian tôi cũng đăng kí new york time một vài tờ khác,inform
+sw01-0105-fs71,A,B,tôi tôi uhm,stalling
+sw01-0105-fs72,A,B,a- thực ra,stalling
+sw01-0105-fs73,A,B,uh bạn biết đấy,stalling
+sw01-0105-fs74,A,B,thực ra thì,turnKeep
+sw01-0105-fs75,A,B,bởi vì tài chính cô ấy đã thất nghiệp trong 1 khoảng thời gian,inform
+sw01-0105-fs76,A,B,vì vậy cô ấy rất muốn đọc báo quảng cáo,inform
+sw01-0105-fs80,B,A,uh-huh,autoPositive
+sw01-0105-fs81,A,B,à các tờ báo thường xuyên cố gắng cạnh tranh rất nhiều nguồn thông tin với những tờ báo khác,inform
+sw01-0105-fs82,A,B,họ tr- the những tờ báo,selfCorrection
+sw01-0105-fs83,A,B,những tờ báo- uh thông tin,stalling:selfCorrection
+sw01-0105-fs84,B,A,phải rồi,autoPositive
+sw01-0105-fs85,A,B,và,turnTake
+sw01-0105-fs86,A,B,tôi không biết,inform
+sw01-0105-fs87,A,B,new york times được đó,inform
+sw01-0105-fs88,A,B,nhưng mà,turnKeep
+sw01-0105-fs89,A,B,uh,stalling
+sw01-0105-fs90,A,B,nhưng khi bạn đọc rất nhiều tờ báo chất lượng của những bài viết chắc chắn đã đi xuống trong 10 năm trở lại đây,inform
+sw01-0105-fs91,A,B,the the,stalling
+sw01-0105-fs92,A,B,nhưng mà,turnKeep
+sw01-0105-fs93,B,A,uh-huh,autoPositive
+sw01-0105-fs94,A,B,ý tôi là,stalling
+sw01-0105-fs95,A,B,họ họ,stalling
+sw01-0105-fs96,A,B,họ viết nó nhưng trình độ học sinh lớp 6,inform
+sw01-0105-fs97,A,B,nhưng tôi thề nó như là lớp 2 hoặc lớp 3,inform
+sw01-0105-fs98,B,A,phải rồi,autoPositive
+sw01-0105-fs99,B,A,voc_laugh,autoPositive
+sw01-0105-fs100,B,A,rất kém,autoPositive
+sw01-0105-fs101,A,B,voc_throat_clearing,turnTake
+sw01-0105-fs102,A,B,nhưng tôi không biết,inform
+sw01-0105-fs103,A,B,uh,turnKeep:stalling
+sw01-0105-fs104,B,A,phải rồi,agreement
+sw01-0105-fs105,B,A,tôi tôi,stalling
+sw01-0105-fs106,B,A,tôi rất là thích nrp,inform
+sw01-0105-fs107,A,B,nó rất tốt,agreement
+sw01-0105-fs108,A,B,uh,stalling
+sw01-0105-fs109,A,B,và,turnKeep
+sw01-0105-fs110,A,B,on on uh,stalling
+sw01-0105-fs111,A,B,tôi thích nghe những thông tin đó khi tôi có cơ hội khi ở trên xe,inform
+sw01-0105-fs112,A,B,to to,stalling
+sw01-0105-fs113,B,A,phải rồi,agreement
+sw01-0105-fs114,B,A,đúng rồi,agreement
+sw01-0105-fs115,B,A,tôi cũng rất nhớ nrp,inform
+sw01-0105-fs116,B,A,tôi thực sự thích họ vì họ đưa ra thay vì như tờ báo của bạn hoặc truyền hình tin tức của bạn nơi bạn nhận được một lời giới thiệu năm phút hoặc một lời giới thiệu mười đoạn họ thực sự đi vào chiều sâu về các chủ đề mà tôi nghĩ là tốt,inform
+sw01-0105-fs117,B,A,uh,stalling
+sw01-0105-fs118,A,B,uh,turnTake:stalling
+sw01-0105-fs119,B,A,và,turnTake
+sw01-0105-fs120,B,A,họ cũng,retraction
+sw01-0105-fs121,B,A,biên tập của họ tốt hơn nhiều so với như bạn nói những trang báo hoặc những thứ tương tự,inform
+sw01-0105-fs122,A,B,đúng rồi,turnTake
+sw01-0105-fs123,A,B,mcneil neil,selfCorrection
+sw01-0105-fs124,A,B,neil and lehrer họ rất giỏi,inform
+sw01-0105-fs125,A,B,tôi đoán là 1 trong số họ đã rời đi,inform
+sw01-0105-fs126,A,B,họ đã rời đi một trong số họ đã rời đi,selfCorrection
+sw01-0105-fs127,B,A,uh-huh,autoPositive
+sw01-0105-fs128,A,B,uh,turnTake:stalling
+sw01-0105-fs129,A,B,họ họ,stalling
+sw01-0105-fs130,A,B,uh,turnKeep:stalling
+sw01-0105-fs131,A,B,ôi đoán một năm trước đây có lẽ bạn đang xem cnn rất nhiều phải không?,checkQuestion
+sw01-0105-fs132,B,A,đúng rồi,confirm
+sw01-0105-fs133,B,A,yeah,confirm
+sw01-0105-fs134,A,B,đã có sự bắt đầu,inform
+sw01-0105-fs135,B,A,đúng vậy,agreement
+sw01-0105-fs136,B,A,uh,turnTake:stalling
+sw01-0105-fs137,B,A,tôi không biết,stalling
+sw01-0105-fs138,A,B,nhưng tôi đoán nó vẫn còn cường điệu một tí,inform
+sw01-0105-fs139,A,B,nó vẫn nhiều vẫn nhiều,selfCorrection
+sw01-0105-fs140,A,B,nhìn vào smith,suggest
+sw01-0105-fs142,B,A,uh-huh,autoPositive
+sw01-0105-fs143,A,B,ý tôi là nó thật là hài hước,inform
+sw01-0105-fs144,B,A,yeah,agreement
+sw01-0105-fs145,B,A,nhưng mà,turnKeep
+sw01-0105-fs146,B,A,nhưng sau đó bạn cũng có những thứ mà họ phát sóng các buổi điều trần clarence thomas về cơ bản toàn bộ chiều dài của họ mà tôi nghĩ là thực sự tốt,inform
+sw01-0105-fs148,B,A,uh,stalling
+sw01-0105-fs149,B,A,r- thực sự,stalling
+sw01-0105-fs150,A,B,ồ phải rồi nrp đã làm nó phải ròi,agreement
+sw01-0105-fs151,A,B,tôi đã có một số khách truy cập ông chỉ tôi không biết gắn bó với đó chỉ nghe nó liên tục,inform
+sw01-0105-fs152,A,B,uh,stalling

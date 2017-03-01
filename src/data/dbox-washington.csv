@@ -1,0 +1,129 @@
+dbox-washington-fs1,S,A,chào,opening:initialGreeting
+dbox-washington-fs2,A,S,xin chào,opening:returnGreeting
+dbox-washington-fs3,S,A,uhm,turnTake:stalling
+dbox-washington-fs4,S,A,chào buổi chiều chút là buổi tối,initialGreeting
+dbox-washington-fs5,S,A,uhm,turnKeep:stalling
+dbox-washington-fs6,S,A,cậu tên là gì,setQuestion
+dbox-washington-fs7,A,S,tớ tên là nikolina,answer:initialSelfIntroduction
+dbox-washington-fs8,S,A,chào nikolina rất vui khi gặp cậu,initialGreeting
+dbox-washington-fs9,S,A,nikolina,selfCorrection
+dbox-washington-fs10,A,S,rất vui khi gặp cậu,returnGreeting
+dbox-washington-fs11,S,A,uhm,turnTake:stalling
+dbox-washington-fs12,S,A,thế,stalling:interactionStructuring
+dbox-washington-fs13,S,A,cậu hôm này thế nào,setQuestion
+dbox-washington-fs14,A,S,tốt,answer
+dbox-washington-fs15,A,S,cảm ơn,thanking
+dbox-washington-fs16,S,A,được rồi,autoPositive:turnTake
+dbox-washington-fs17,S,A,được rồi vậy,interactionStructuring
+dbox-washington-fs18,S,A,hôm nay chúng ta sẽ chơi một trò chơi và sau đây là luật chơi,inform
+dbox-washington-fs19,S,A,tớ là một người rất nổi tiếng,inform
+dbox-washington-fs20,S,A,và cậu cần phải đoán đúng tên của tớ,inform
+dbox-washington-fs21,S,A,cậu có thể hỏi câu hỏi nào cậu muốn cũng được trừ hỏi trực tiếp tên tớ là gì,instruct
+dbox-washington-fs22,S,A,uhm,turnKeep:stalling
+dbox-washington-fs23,S,A,cậu có tối đa 10 lần hỏi,inform
+dbox-washington-fs24,S,A,và cậu phải đoán trúng tên tớ,instruct
+dbox-washington-fs25,S,A,cậu có thể hỏi bất cứ câu nào cậu muốn,instruct
+dbox-washington-fs26,S,A,nhưng cậu chỉ có một lần đoán tên tớ thôi,instruct
+dbox-washington-fs27,S,A,uhm,turnKeep:stalling
+dbox-washington-fs28,S,A,nếu cậu đoán trúng thì cậu sẽ thắng,inform
+dbox-washington-fs29,S,A,nếu cậu đoán không trúng hoặc chọn chuyển qua thì sẽ thua,inform
+dbox-washington-fs30,S,A,uhm,turnKeep:stalling
+dbox-washington-fs31,S,A,và ta sẽ chuyển tới vòng tiếp theo,inform
+dbox-washington-fs32,S,A,cậu có hiểu và cảm thấy thoải mái với luật chơi này không,propositionalQuestion
+dbox-washington-fs33,S,A,uh,turnKeep:stalling
+dbox-washington-fs34,A,S,yeah yeah,answer
+dbox-washington-fs35,A,S,thế tên cậu là tên của một người nổi tiếng,checkQuestion
+dbox-washington-fs36,A,S,yeah,feedbackElicitation
+dbox-washington-fs37,A,S,okay,autoPositive
+dbox-washington-fs38,S,A,ừh,confirm
+dbox-washington-fs39,S,A,tớ là một người nổi tiếng và,inform
+dbox-washington-fs40,A,S,tớ không chắc tớ chơi giỏi đâu,inform
+dbox-washington-fs41,A,S,tớ không chắc,turnGrab
+dbox-washington-fs42,A,S,tớ trong mảng này,turnGrab
+dbox-washington-fs43,S,A,và tớ luôn là con trai,inform
+dbox-washington-fs44,A,S,okay okay,autoPositive
+dbox-washington-fs45,A,S,tốt tốt,autoPositive
+dbox-washington-fs46,S,A,được rồi,turnTake:interactionStructuring
+dbox-washington-fs47,S,A,thế uhm,turnKeep:stalling
+dbox-washington-fs48,S,A,bắt đầu thôi,suggest
+dbox-washington-fs49,S,A,và câu hỏi đầu tiên của cậu,request
+dbox-washington-fs50,S,A,câu hỏi đầu tiên của cậu là gì,setQuestion
+dbox-washington-fs51,A,S,câu hỏi đầu tiên à,autoPositive
+dbox-washington-fs52,A,S,vậy,turnKeep:stalling
+dbox-washington-fs53,A,S,cậu làm nghề gì,setQuestion
+dbox-washington-fs54,S,A,tớ là một nhà lãnh đạo,answer
+dbox-washington-fs55,A,S,một nhà lãnh đạo à,autoPositive
+dbox-washington-fs56,A,S,uhm,turnKeep:stalling
+dbox-washington-fs57,A,S,quốc tịch của cậu là gì,setQuestion
+dbox-washington-fs58,S,A,tớ là người mỹ,answer
+dbox-washington-fs59,A,S,người mỹ,autoPositive
+dbox-washington-fs60,A,S,cậu còn sống không,propositionalQuestion
+dbox-washington-fs61,S,A,tớ không còn sống đâu,answer
+dbox-washington-fs62,A,S,cậu không còn sống,autoPositive:stalling
+dbox-washington-fs63,A,S,okay,autoPositive:turnKeep:stalling
+dbox-washington-fs64,A,S,thế,turnKeep:stalling
+dbox-washington-fs65,A,S,cậu có phải là,propositionalQuestion
+dbox-washington-fs66,A,S,cậu có phải là người lãnh đạo một công ty không,propositionalQuestion
+dbox-washington-fs67,A,S,có phải cậu dẫn đầu,selfCorrection
+dbox-washington-fs68,S,A,tớ không lãnh đạo một công ty,answer
+dbox-washington-fs69,S,A,và tớ muốn cậu biết rằng cậu không bị giới hạn là chỉ hỏi câu hỏi đúng sai,instruct
+dbox-washington-fs70,S,A,cậu có thể hỏi cái gì cũng được,instruct
+dbox-washington-fs71,A,S,okay,autoPositive
+dbox-washington-fs72,A,S,so,turnKeep:stalling
+dbox-washington-fs73,A,S,cậu không lãnh đạo một công ty,autoPositive
+dbox-washington-fs74,A,S,vậy,turnKeep:stalling
+dbox-washington-fs75,A,S,hm,turnKeep:stalling
+dbox-washington-fs76,A,S,cậu sinh ra lúc nào,setQuestion
+dbox-washington-fs77,S,A,tớ sinh vào ngày 22 tháng 2 năm 1732,answer
+dbox-washington-fs78,A,S,1732,autoPositive
+dbox-washington-fs79,A,S,ok,autoPositive:turnKeep
+dbox-washington-fs80,A,S,eehm,turnKeep:stalling
+dbox-washington-fs81,A,S,có phải là nhà chính trị không,propositionalQuestion
+dbox-washington-fs82,S,A,tớ là một nhà chính trị,answer
+dbox-washington-fs83,A,S,okay,autoPositive
+dbox-washington-fs84,A,S,vậy thì không phải khoản của tớ rồi,inform
+dbox-washington-fs85,A,S,nhưng tớ vẫn sẽ thử đoán nhé,promise
+dbox-washington-fs86,A,S,một nhà chính trị,autoPositive
+dbox-washington-fs87,A,S,vậy,stalling
+dbox-washington-fs88,A,S,vậy,turnTake
+dbox-washington-fs89,A,S,khi nào cậu ở trong chính phủ,setQuestion
+dbox-washington-fs90,S,A,uhm,turnAccept:stalling
+dbox-washington-fs91,S,A,xem nào,turnKeep:pausing
+dbox-washington-fs92,S,A,uh,turnKeep:stalling
+dbox-washington-fs93,S,A,nó chắc là,answer
+dbox-washington-fs94,S,A,okay,autoPositive:turnKeep
+dbox-washington-fs95,S,A,uhm,turnKeep:stalling
+dbox-washington-fs96,S,A,tớ về hưu tổng thống vào năm 1797,answer
+dbox-washington-fs97,S,A,tớ hết nhiệm kỳ,selfCorrection
+dbox-washington-fs98,A,S,97,autoPositive
+dbox-washington-fs99,A,S,george washington,guess
+dbox-washington-fs100,S,A,đó là câu trả lời cuối cùng của cậu chưa,propositionalQuestion
+dbox-washington-fs101,A,S,uhm,turnAccept:stalling
+dbox-washington-fs102,A,S,97,autoPositive:stalling
+dbox-washington-fs103,A,S,uhm,turnKeep:stalling
+dbox-washington-fs104,A,S,washington hoặc bill clinton,guess
+dbox-washington-fs105,A,S,tớ không chắc bà ấy còn sống không,inform
+dbox-washington-fs106,S,A,thế thì hãy thử đoán xem,request
+dbox-washington-fs107,S,A,hoặc hỏi thêm câu hỏi,request
+dbox-washington-fs108,S,A,cậu còn bốn câu nữa,inform
+dbox-washington-fs109,A,S,thế,turnKeep:interactionStructuring
+dbox-washington-fs110,A,S,cậu có từng có tình cảm với monica lewinsky không,propositionalQuestion
+dbox-washington-fs111,S,A,tớ không hề,answer
+dbox-washington-fs112,A,S,thế cậu không phải là bill clinton,guess
+dbox-washington-fs113,S,A,uhm,turnAccept:stalling
+dbox-washington-fs114,S,A,tớ không phải là bill clinton,disconfirm
+dbox-washington-fs115,A,S,chính xác uuh,autoPositive
+dbox-washington-fs116,S,A,tớ là george washington,inform
+dbox-washington-fs117,A,S,oh,autoPositive
+dbox-washington-fs118,A,S,lần đầu tớ đoán đúng rồi,inform
+dbox-washington-fs119,A,S,ok,autoPositive
+dbox-washington-fs120,S,A,ừh,agreement
+dbox-washington-fs121,A,S,cậu làm tớ bối rối,inform
+dbox-washington-fs122,S,A,tớ xin lỗi nhưng,apology
+dbox-washington-fs123,S,A,tớ xin lỗi nhưng,selfCorrection
+dbox-washington-fs124,S,A,tớ xin lỗi,apology
+dbox-washington-fs125,S,A,nhưng cậu sẽ làm tốt hơn vào các lần tiếp theo,inform
+dbox-washington-fs126,S,A,cậu sẽ làm tốt hơn chúng ta còn nhiều vòng mà,closing
+dbox-washington-fs127,S,A,chúng ta còn nhiều vòng lắm,inform
+dbox-washington-fs128,A,S,okay mong là vậy mong là vậy,autoPositive
+dbox-washington-fs129,A,S,okay,acceptApology

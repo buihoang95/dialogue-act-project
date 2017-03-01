@@ -1,0 +1,129 @@
+Data
+xin chào:::opening:returnGreeting
+uhm:::turnTake:stalling
+chào buổi chiều chút là buổi tối:::initialGreeting
+uhm:::turnKeep:stalling
+cậu tên là gì:::setQuestion
+tớ tên là nikolina:::answer:initialSelfIntroduction
+chào nikolina rất vui khi gặp cậu:::initialGreeting
+nikolina:::selfCorrection
+rất vui khi gặp cậu:::returnGreeting
+uhm:::turnTake:stalling
+thế:::stalling:interactionStructuring
+cậu hôm này thế nào:::setQuestion
+tốt:::answer
+cảm ơn:::thanking
+được rồi:::autoPositive:turnTake
+được rồi vậy:::interactionStructuring
+hôm nay chúng ta sẽ chơi một trò chơi và sau đây là luật chơi:::inform
+tớ là một người rất nổi tiếng:::inform
+và cậu cần phải đoán đúng tên của tớ:::inform
+cậu có thể hỏi câu hỏi nào cậu muốn cũng được trừ hỏi trực tiếp tên tớ là gì:::instruct
+uhm:::turnKeep:stalling
+cậu có tối đa 10 lần hỏi:::inform
+và cậu phải đoán trúng tên tớ:::instruct
+cậu có thể hỏi bất cứ câu nào cậu muốn:::instruct
+nhưng cậu chỉ có một lần đoán tên tớ thôi:::instruct
+uhm:::turnKeep:stalling
+nếu cậu đoán trúng thì cậu sẽ thắng:::inform
+nếu cậu đoán không trúng hoặc chọn chuyển qua thì sẽ thua:::inform
+uhm:::turnKeep:stalling
+và ta sẽ chuyển tới vòng tiếp theo:::inform
+cậu có hiểu và cảm thấy thoải mái với luật chơi này không:::propositionalQuestion
+uh:::turnKeep:stalling
+yeah yeah:::answer
+thế tên cậu là tên của một người nổi tiếng:::checkQuestion
+yeah:::feedbackElicitation
+okay:::autoPositive
+ừh:::confirm
+tớ là một người nổi tiếng và:::inform
+tớ không chắc tớ chơi giỏi đâu:::inform
+tớ không chắc:::turnGrab
+tớ trong mảng này:::turnGrab
+và tớ luôn là con trai:::inform
+okay okay:::autoPositive
+tốt tốt:::autoPositive
+được rồi:::turnTake:interactionStructuring
+thế uhm:::turnKeep:stalling
+bắt đầu thôi:::suggest
+và câu hỏi đầu tiên của cậu:::request
+câu hỏi đầu tiên của cậu là gì:::setQuestion
+câu hỏi đầu tiên à:::autoPositive
+vậy:::turnKeep:stalling
+cậu làm nghề gì:::setQuestion
+tớ là một nhà lãnh đạo:::answer
+một nhà lãnh đạo à:::autoPositive
+uhm:::turnKeep:stalling
+quốc tịch của cậu là gì:::setQuestion
+tớ là người mỹ:::answer
+người mỹ:::autoPositive
+cậu còn sống không:::propositionalQuestion
+tớ không còn sống đâu:::answer
+cậu không còn sống:::autoPositive:stalling
+okay:::autoPositive:turnKeep:stalling
+thế:::turnKeep:stalling
+cậu có phải là:::propositionalQuestion
+cậu có phải là người lãnh đạo một công ty không:::propositionalQuestion
+có phải cậu dẫn đầu:::selfCorrection
+tớ không lãnh đạo một công ty:::answer
+và tớ muốn cậu biết rằng cậu không bị giới hạn là chỉ hỏi câu hỏi đúng sai:::instruct
+cậu có thể hỏi cái gì cũng được:::instruct
+okay:::autoPositive
+so:::turnKeep:stalling
+cậu không lãnh đạo một công ty:::autoPositive
+vậy:::turnKeep:stalling
+hm:::turnKeep:stalling
+cậu sinh ra lúc nào:::setQuestion
+tớ sinh vào ngày 22 tháng 2 năm 1732:::answer
+1732:::autoPositive
+ok:::autoPositive:turnKeep
+eehm:::turnKeep:stalling
+có phải là nhà chính trị không:::propositionalQuestion
+tớ là một nhà chính trị:::answer
+okay:::autoPositive
+vậy thì không phải khoản của tớ rồi:::inform
+nhưng tớ vẫn sẽ thử đoán nhé:::promise
+một nhà chính trị:::autoPositive
+vậy:::stalling
+vậy:::turnTake
+khi nào cậu ở trong chính phủ:::setQuestion
+uhm:::turnAccept:stalling
+xem nào:::turnKeep:pausing
+uh:::turnKeep:stalling
+nó chắc là:::answer
+okay:::autoPositive:turnKeep
+uhm:::turnKeep:stalling
+tớ về hưu tổng thống vào năm 1797:::answer
+tớ hết nhiệm kỳ:::selfCorrection
+97:::autoPositive
+george washington:::guess
+đó là câu trả lời cuối cùng của cậu chưa:::propositionalQuestion
+uhm:::turnAccept:stalling
+97:::autoPositive:stalling
+uhm:::turnKeep:stalling
+washington hoặc bill clinton:::guess
+tớ không chắc bà ấy còn sống không:::inform
+thế thì hãy thử đoán xem:::request
+hoặc hỏi thêm câu hỏi:::request
+cậu còn bốn câu nữa:::inform
+thế:::turnKeep:interactionStructuring
+cậu có từng có tình cảm với monica lewinsky không:::propositionalQuestion
+tớ không hề:::answer
+thế cậu không phải là bill clinton:::guess
+uhm:::turnAccept:stalling
+tớ không phải là bill clinton:::disconfirm
+chính xác uuh:::autoPositive
+tớ là george washington:::inform
+oh:::autoPositive
+lần đầu tớ đoán đúng rồi:::inform
+ok:::autoPositive
+ừh:::agreement
+cậu làm tớ bối rối:::inform
+tớ xin lỗi nhưng:::apology
+tớ xin lỗi nhưng:::selfCorrection
+tớ xin lỗi:::apology
+nhưng cậu sẽ làm tốt hơn vào các lần tiếp theo:::inform
+cậu sẽ làm tốt hơn chúng ta còn nhiều vòng mà:::closing
+chúng ta còn nhiều vòng lắm:::inform
+okay mong là vậy mong là vậy:::autoPositive
+okay:::acceptApology

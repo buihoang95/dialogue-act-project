@@ -1,0 +1,109 @@
+dbox-diana-fs1,S,A,xin chào,opening:initialGreeting
+dbox-diana-fs2,A,S,chào cậu,opening:returnGreeting
+dbox-diana-fs3,S,A,uh,turnTake:stalling
+dbox-diana-fs4,S,A,cậu tên gì thế,setQuestion
+dbox-diana-fs5,A,S,tớ tên là gregor linn,answer
+dbox-diana-fs6,S,A,rất vui được gặp cậu,autoPositive:initialGreeting
+dbox-diana-fs7,A,S,tớ cũng rất vui khi gặp cậu,autoPositive:returnGreeting
+dbox-diana-fs8,S,A,uh,turnTake:stalling
+dbox-diana-fs9,S,A,hôm nay cậu thế nào,setQuestion
+dbox-diana-fs10,A,S,mh,turnAccept
+dbox-diana-fs11,A,S,tớ cũng ổn,answer
+dbox-diana-fs12,S,A,tớ cũng thế,autoPositive:inform
+dbox-diana-fs13,S,A,uh,turnKeep:stalling
+dbox-diana-fs14,S,A,chơi trò chơi đi,suggest
+dbox-diana-fs15,S,A,đầu tiên tớ sẽ nói luật chơi cho cậu,inform:interactionStructuring
+dbox-diana-fs16,S,A,tớ là một người rất nổi tiếng,inform
+dbox-diana-fs17,A,S,ờ,autoPositive
+dbox-diana-fs18,S,A,uh,turnKeep:stalling
+dbox-diana-fs19,S,A,cậu phải đoán tên của tớ,instruct
+dbox-diana-fs20,A,S,được thôi,autoPositive
+dbox-diana-fs21,S,A,cậu có thể hỏi bao nhiêu câu tùy ý ngoại trừ hỏi tên tớ là gì,instruct
+dbox-diana-fs22,A,S,hiểu rồi,autoPositive
+dbox-diana-fs23,S,A,cậu không nhất thiết phải hỏi câu hỏi lựa chọn,instruct
+dbox-diana-fs24,S,A,cậu có thể hỏi câu hỏi mở cũng được,instruct
+dbox-diana-fs25,A,S,tớ hiểu rồi,inform:autoPositive
+dbox-diana-fs26,S,A,cậu được thử 10 lần,inform
+dbox-diana-fs27,S,A,và sau 10 lần hoặc ít hơn nếu cậu đoán đúng tên tớ,inform
+dbox-diana-fs28,S,A,cậu sẽ thắng trò chơi,inform
+dbox-diana-fs29,S,A,còn không thì cậu thua,inform
+dbox-diana-fs30,A,S,okay,autoPositive
+dbox-diana-fs31,A,S,và,turnGrab
+dbox-diana-fs32,S,A,cậu nên,
+dbox-diana-fs33,S,A,mhm,autoPositive:turnRelease
+dbox-diana-fs34,A,S,cậu vừa nói gì àh,setQuestion
+dbox-diana-fs35,A,S,ừh là,turnKeep:stalling
+dbox-diana-fs36,A,S,là,selfCorrection
+dbox-diana-fs37,S,A,uhm,turnAccept:stalling
+dbox-diana-fs38,S,A,cậu nhắc lại câu hỏi được không,autoNegative
+dbox-diana-fs39,S,A,cậu nói rõ lại câu hỏi được không,autoNegative
+dbox-diana-fs40,A,S,uhm,turnTake:stalling
+dbox-diana-fs41,A,S,cậu sẽ trả lời có hoặc không hoặc,choiceQuestion
+dbox-diana-fs42,A,S,uh,turnKeep:stalling
+dbox-diana-fs43,S,A,không,answer:turnGrab
+dbox-diana-fs44,S,A,tớ sẽ trả lời có hoặc không nói cậu hỏi câu hỏi lựa chọn,inform
+dbox-diana-fs45,S,A,tớ chắc chắn,selfCorrection
+dbox-diana-fs46,A,S,okay,autoPositive
+dbox-diana-fs47,S,A,uhm,turnKeep:stalling
+dbox-diana-fs48,S,A,nếu cậu hỏi câu hỏi mở tớ sẽ cố trả lời nó,inform
+dbox-diana-fs49,S,A,uh,turnKeep:stalling
+dbox-diana-fs50,S,A,mặc dù tớ không nhất thiết phải trả lời câu đấy,inform
+dbox-diana-fs51,A,S,okay,autoPositive
+dbox-diana-fs52,S,A,uhm,turnKeep:stalling
+dbox-diana-fs53,S,A,được rồi,interactionStructuring
+dbox-diana-fs54,S,A,cậu hiểu luật chưa,propositionalQuestion
+dbox-diana-fs55,A,S,yup,confirm
+dbox-diana-fs56,S,A,cậu muốn tớ nhắc lại gì không,offer
+dbox-diana-fs57,S,A,muốn không,selfCorrection
+dbox-diana-fs58,A,S,thôi,declineOffer
+dbox-diana-fs59,A,S,tớ nghĩ là tớ hiểu hết rồi,inform
+dbox-diana-fs60,A,S,mh,turnKeep:stalling
+dbox-diana-fs61,S,A,tốt,autoPositive
+dbox-diana-fs62,S,A,và một điều quan trọng nữa,interactionStructuring
+dbox-diana-fs63,S,A,và một điều quan trọng nữa,inform
+dbox-diana-fs64,S,A,tớ sẽ chỉ trở thành người nổi tiếng nữ giới,inform
+dbox-diana-fs65,S,A,uh,turnKeep:stalling
+dbox-diana-fs66,A,S,àh ok,autoPositive
+dbox-diana-fs67,S,A,mhm,alloPositive
+dbox-diana-fs68,S,A,được rồi,autoPositive:interactionStructuring
+dbox-diana-fs69,S,A,được rồi uh,turnKeep
+dbox-diana-fs70,S,A,uh,stalling
+dbox-diana-fs71,S,A,thế bắt đầu nào,suggest
+dbox-diana-fs72,S,A,câu hỏi đầu tiên là gì,setQuestion
+dbox-diana-fs73,A,S,cậu còn sống không,propositionalQuestion
+dbox-diana-fs74,S,A,không tớ không còn,answer
+dbox-diana-fs75,A,S,mhm,autoPositive:turnTake
+dbox-diana-fs76,A,S,uhm,turnKeep:stalling
+dbox-diana-fs77,S,A,uh,turnTake:stalling
+dbox-diana-fs78,A,S,cậu là người nước đức à,propositionalQuestion
+dbox-diana-fs79,S,A,không tớ không phải người đức,answer
+dbox-diana-fs80,A,S,uhm,turnTake:stalling
+dbox-diana-fs81,A,S,cậu có phải là người mỹ không,propositionalQuestion
+dbox-diana-fs82,S,A,không tớ không phải người mỹ,answer
+dbox-diana-fs83,A,S,uh,turnTake:stalling
+dbox-diana-fs84,A,S,cậu làm gì khi còn sống,setQuestion
+dbox-diana-fs85,S,A,ehm,turnTake:stalling
+dbox-diana-fs86,S,A,để tớ nghĩ một chút,pausing
+dbox-diana-fs87,S,A,uhm,turnKeep:stalling
+dbox-diana-fs88,S,A,tớ là,answer
+dbox-diana-fs89,S,A,tớ là công chúa,answer
+dbox-diana-fs90,S,A,tớ đã,selfCorrection
+dbox-diana-fs91,S,A,khi tớ còn sống,answer
+dbox-diana-fs92,A,S,và cậu đến từ đâu,setQuestion
+dbox-diana-fs93,S,A,tớ là người anh,answer
+dbox-diana-fs94,A,S,okay,autoPositive
+dbox-diana-fs95,A,S,uhm,turnKeep:stalling
+dbox-diana-fs96,A,S,uh,turnKeep:stalling
+dbox-diana-fs97,A,S,cậu mất ở đâu,setQuestion
+dbox-diana-fs98,S,A,chờ tý,turnKeep:pausing
+dbox-diana-fs99,S,A,uhm,turnKeep:stalling
+dbox-diana-fs100,S,A,tớ mất ở paris,answer
+dbox-diana-fs101,A,S,mhm,autoPositive
+dbox-diana-fs102,A,S,uhm,turnKeep:stalling
+dbox-diana-fs103,A,S,uhm,turnKeep:stalling
+dbox-diana-fs104,A,S,cậu là công chúa diana đúng không,guess
+dbox-diana-fs105,A,S,uh,turnKeep:stalling
+dbox-diana-fs106,S,A,đúng rồi,confirm
+dbox-diana-fs107,S,A,đó là câu trả lời chính xác,inform
+dbox-diana-fs108,S,A,giỏi lắm,alloPositive:closing:congratulation
+dbox-diana-fs109,A,S,okay,autoPositive:closing

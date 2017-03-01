@@ -1,0 +1,111 @@
+trains1-fs1,S,U,xin chào,opening:initialGreeting
+trains1-fs2,S,U,tôi có thể giúp gì cho anh,offer
+trains1-fs3,U,S,vâng,acceptOffer
+trains1-fs4,U,S,tôi muố-,stalling
+trains1-fs5,U,S,tôi muốn xác định số lượng tối đa toa chở cam tôi có thể lấy từ bath lúc 7 giờ sáng mai,inform
+trains1-fs6,U,S,nên,turnKeep
+trains1-fs7,U,S,voc_breath hm ... nên,stalling
+trains1-fs8,U,S,tôi đoán tất cả các toa đều phải đi qua corning,inform
+trains1-fs9,U,S,vì nhà máy nước cam ở đó,inform
+trains1-fs10,U,S,voc_breath,turnKeep:stalling
+trains1-fs11,U,S,nhà máy cam,selfCorrection
+trains1-fs12,U,S,so,turnKeep
+trains1-fs13,U,S,thế từ corning cách bath bao nhiêu cây,setQuestion:turnAssign
+trains1-fs14,S,U,2 tiếng đồng hồ,answer
+trains1-fs15,U,S,và sẽ mất thêm 1 tiếng để chất hàng lên toa đúng không,checkQuestion:turnAssign
+trains1-fs16,S,U,phải rồi,confirm
+trains1-fs17,U,S,okay,autoPositive:turnTake
+trains1-fs18,U,S,thế,turnKeep
+trains1-fs19,U,S,... hm thế,stalling
+trains1-fs20,U,S,mỗi chuyến sẽ mất ít nhất tầm 3 tiếng đồng hồ rồi,checkQuestion
+trains1-fs21,U,S,... um,turnKeep:stalling
+trains1-fs22,S,U,vâng,confirm
+trains1-fs23,S,U,chúng tôi có thể dỡ số lượng hàng từ tàu trong một giờ,inform
+trains1-fs24,S,U,vì vậy,turnKeep
+trains1-fs25,S,U,chúng tôi tối đa dỡ được 3 toa hàng trong một giờ,inform
+trains1-fs26,U,S,vâng,autoPositive
+trains1-fs27,U,S,okay,autoPositive
+trains1-fs28,U,S,okay,autoPositive
+trains1-fs29,U,S,thế,turnKeep
+trains1-fs30,U,S,ta có thể làm một việc,suggest
+trains1-fs31,U,S,oh,selfError
+trains1-fs32,U,S,voc_breath thế voc_breath,turnKeep:stalling
+trains1-fs33,U,S,tôi nghĩ chúng ta nên xem số toa ta sẽ thực sự lấy từ corning trong 4 tiếng,suggest
+trains1-fs34,U,S,um,turnKeep:stalling
+trains1-fs35,U,S,từ corning trong 4 tiếng um bao xa từ avon đến bath,setQuestion
+trains1-fs36,U,S,đến corning,selfCorrection
+trains1-fs37,S,U,voc_click voc_breath,autoPositive:turnTake
+trains1-fs38,S,U,tầm 6 tiếng,answer
+trains1-fs39,S,U,sẽ nhanh hơn qua dansville,inform
+trains1-fs40,U,S,okay,autoPositive
+trains1-fs41,U,S,từ avon,autoPositive
+trains1-fs42,U,S,ôi không,selfError
+trains1-fs43,U,S,tôi đã nghĩ ta có thể nhận 2 toa khi ở bath,inform
+trains1-fs44,U,S,v- tôi đang nghĩ,
+trains1-fs45,S,U,mm,autoPositive
+trains1-fs46,U,S,nhưng tôi nghĩ rằng ta không thể đưa chúng lên,inform
+trains1-fs47,U,S,voc_breath,turnKeep:stalling
+trains1-fs48,U,S,chúng sẽ không đến,inform:selfCorrection
+trains1-fs49,U,S,nếu không,retraction
+trains1-fs50,U,S,từ elmira cách bath bao xa voc_breath,setQuestion
+trains1-fs51,S,U,hai tiếng đồng hồ,answer
+trains1-fs52,U,S,ôi thật àh,autoPositive
+trains1-fs53,U,S,thế,turnKeep
+trains1-fs54,U,S,tôi có thể lấy động cơ e,inform
+trains1-fs55,U,S,voc_breath,turnKeep:stalling
+trains1-fs56,U,S,nó sẽ đến bath lấy hai toa hàng,inform
+trains1-fs57,U,S,đưa đến corn-,retraction
+trains1-fs58,U,S,bao lâu từ bath đến corning,setQuestion
+trains1-fs59,U,S,tôi đoán chắc tầm 1 tiếng,checkQuestion
+trains1-fs60,S,U,hai tiếng ạ,answer
+trains1-fs61,U,S,ồ đợi một chút,autoPositive
+trains1-fs62,U,S,tôi nghĩ từ elmira qua đến corning đến bath bao lâu,setQuestion
+trains1-fs63,U,S,voc_breath,stalling
+trains1-fs64,S,U,4 tiếng ạ,answer
+trains1-fs65,U,S,ồ 4 tiếng cơ à,autoPositive
+trains1-fs66,U,S,vậy chúng tôi sẽ bó tay khi hai toa đó ở bath,inform
+trains1-fs67,U,S,đợ-,
+trains1-fs68,U,S,tho-,
+trains1-fs69,U,S,tôi không nghĩ ta lấy số toa lớn nhất chở cam đến bath vào lúc 7 giờ sáng tôi không nghĩ ta có thể dùng hai toa đó ở bath,inform
+trains1-fs70,U,S,tôi khôn-,question
+trains1-fs71,U,S,nê-,
+trains1-fs72,U,S,voc_breath,turnKeep:stalling
+trains1-fs73,U,S,bởi vì ta sẽ,
+trains1-fs74,U,S,bởi vì tàu sẽ không đến bath đúng giờ được,inform
+trains1-fs75,S,U,chính xác ạ,agreement
+trains1-fs76,U,S,được rồi,autoPositive:turnTake
+trains1-fs77,U,S,voc_breath,turnKeep
+trains1-fs78,U,S,chúng tôi có 3 toa hàng ở dansville,inform
+trains1-fs79,U,S,thế,turnKeep
+trains1-fs80,U,S,từ avon đến dansville bao xa vậy,setQuestion
+trains1-fs81,S,U,3 tiếng ạ,answer
+trains1-fs82,U,S,3 tiếng,autoPositive
+trains1-fs83,U,S,thế từ dansville đến corning,setQuestion
+trains1-fs84,S,U,1 tiếng,answer
+trains1-fs85,U,S,vâng,autoPositive:turnTake
+trains1-fs86,U,S,thế chúng tôi có thể dùng 3 toa hàng đúng không,checkQuestion:turnAssign
+trains1-fs87,S,U,mm-hm,confirm
+trains1-fs88,U,S,okay,autoPositive:turnTake
+trains1-fs89,U,S,vậy là 3 toa,inform
+trains1-fs90,U,S,okay,turnKeep
+trains1-fs91,U,S,vậy động cơ e 1 từ avon sẽ đi dansville lấy 3 toa hàng rồi đến corning chất chúng lên và đưa chúng trở lại bath,inform
+trains1-fs92,U,S,được đấy,turnKeep
+trains1-fs93,U,S,nghe có vẻ tốt đấy,inform
+trains1-fs94,U,S,voc_breath so,turnKeep
+trains1-fs95,U,S,thế tôi nghĩ chúng tôi muốn lấy luôn động cơ e hai với hai toa hàng từ elmira và đưa đến corning,inform
+trains1-fs96,U,S,vậy từ elmira đến corning là hai tiếng,checkQuestion
+trains1-fs97,S,U,mm-hm,confirm
+trains1-fs98,U,S,okay,autoPositive:turnTake
+trains1-fs99,U,S,voc_breath và,turnKeep
+trains1-fs100,U,S,okay,turnKeep
+trains1-fs101,U,S,voc_breath thế,turnKeep:stalling
+trains1-fs102,U,S,yeah nghe được đấy,inform
+trains1-fs103,S,U,mm-hm,agreement
+trains1-fs104,U,S,thế,turnTake
+trains1-fs105,U,S,hã-,
+trains1-fs106,U,S,anh nhắc lại giúp tôi với,request:turnAssign
+trains1-fs107,S,U,okay,acceptRequest:turnAccept
+trains1-fs108,S,U,động cơ 1 đến dansville lây ba toa đến corning sẽ được chất cam và đến bath động cơ e hai lấy hai toa ở elmira đến corning nơi chúng sẽ được chất cam và sẽ đưa trở về bath,inform
+trains1-fs109,U,S,okay,alloPositive
+trains1-fs110,U,S,thế là tối đa được 5 toa,inform
+trains1-fs111,U,S,okay,interactionStructuring

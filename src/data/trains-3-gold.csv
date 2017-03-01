@@ -1,0 +1,41 @@
+trains3-fs1,S,U,xin chào,opening
+trains3-fs2,S,U,tôi giúp gì được anh ạ,offer
+trains3-fs3,U,S,vâng,acceptOffer
+trains3-fs4,U,S,tôi muốn đặt một chuyến tàu chở hàng từ corning và chuyển tới elmira,inform
+trains3-fs5,S,U,được ạ,autoPositive
+trains3-fs6,U,S,và từ elmỉa tôi muốn chở nước cam lên tàu hàng,inform
+trains3-fs7,S,U,mm-hm,autoPositive
+trains3-fs8,U,S,tôi muốn sau đó chuyến tàu sẽ từ quay trở lại từ elmỉra về corning,inform
+trains3-fs9,U,S,chuyến chuyến,stalling
+trains3-fs10,S,U,được thôi ạ,autoPositive
+trains3-fs11,U,S,thế từ corning chuyến nào nhanh nhất để đến avon,setQuestion
+trains3-fs12,S,U,uh,stalling
+trains3-fs13,S,U,qua dansville ạ,answer
+trains3-fs14,U,S,okay,autoPositive
+trains3-fs15,U,S,vậy tôi muốn đặt tàu chở nước cam từ dansville về tới avon,inform
+trains3-fs16,S,U,vâng,autoPositive
+trains3-fs17,S,U,um,turnKeep:stalling
+trains3-fs18,S,U,loại động cơ nào anh muốn sử dụng,setQuestion
+trains3-fs19,U,S,động cơ e hai,answer
+trains3-fs20,S,U,được rồi,autoPositive
+trains3-fs21,U,S,vâng,turnTake:stalling
+trains3-fs22,U,S,e hai có phải ...,
+trains3-fs23,U,S,loại nào ...,
+trains3-fs24,U,S,động cơ còn lại có nhanh hơn không,propositionalQuestion
+trains3-fs25,S,U,uh,stalling
+trains3-fs26,S,U,cả hai đều cả hai như nhau,selfCorrection
+trains3-fs27,S,U,không cả hai như nhau,answer
+trains3-fs28,U,S,okay,autoPositive
+trains3-fs29,U,S,vậy tôi sẽ lấy lại e hai,inform
+trains3-fs30,S,U,vâng,autoPositive
+trains3-fs31,U,S,và,turnTake
+trains3-fs32,U,S,và tàu hàng chạy nhanh như nhau,setQuestion
+trains3-fs33,S,U,vâng,confirm
+trains3-fs34,S,U,okay,interactionStructuring
+trains3-fs35,S,U,vậy uh,stalling
+trains3-fs36,S,U,kế hoạch là anh sẽ lấy động cơ e hai đến corning từ elmira đưa nước cam lên và về avon,checkQuestion
+trains3-fs37,U,S,chính xác,confirm
+trains3-fs38,U,S,sẽ mất bao lâu thế,setQuestion
+trains3-fs39,S,U,11 tiếng đồng hồ,answer
+trains3-fs40,U,S,okay,interactionStructuring
+trains3-fs41,U,S,tôi như vậy là đã xong,interactionStructuring

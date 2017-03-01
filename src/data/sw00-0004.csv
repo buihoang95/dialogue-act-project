@@ -1,0 +1,104 @@
+sw00-0004-fs1,A,B,phải rồi,opening
+sw00-0004-fs2,A,B,uh,turnKeep:stalling
+sw00-0004-fs3,A,B,thực ra tôi sống ở châu âu trong vài năm,inform
+sw00-0004-fs4,A,B,tôi sống ở Đức,inform
+sw00-0004-fs5,A,B,và ở Đức họ không có hệ thống bồi thẩm đoàn,inform
+sw00-0004-fs6,A,B,về cơ bản họ chỉ có ba bồi thẩm đoàn,inform
+sw00-0004-fs7,A,B,uh,stalling
+sw00-0004-fs8,A,B,khi bạn đến đây,inform
+sw00-0004-fs9,A,B,các luật sư công tố sẽ đưa ra bằng chứng của mình,inform
+sw00-0004-fs10,A,B,bạn phủ nhận luật sư công tố các bằng chứng của họ,inform
+sw00-0004-fs11,A,B,ba người họ sẽ đưa ra bằng chứng đi xuống chỉ ra nó và sau đó quay lại và nói cho dù bạn có phạm tội hay không,inform
+sw00-0004-fs12,B,A,ou ou our,turnTake:stalling
+sw00-0004-fs13,B,A,hệ thống luật lệ của chúng tôi hỗn loạn hơn cả vậy,inform
+sw00-0004-fs14,A,B,voc_laugh,autoPositive
+sw00-0004-fs15,B,A,tôi nghĩ rằng những gì họ cần làm là họ cần phải bằng cách nào đó để lấy tiền,inform
+sw00-0004-fs16,B,A,voc_breath,stalling
+sw00-0004-fs17,B,A,ý tôi là,stalling
+sw00-0004-fs18,B,A,khi một người đàn ông đã ký một tuyên bố nói rằng anh ta có tội,inform
+sw00-0004-fs19,B,A,a a a,stalling
+sw00-0004-fs20,B,A,họ có một tập thể gọi là all day,inform
+sw00-0004-fs21,B,A,a a,stalling
+sw00-0004-fs22,B,A,họ đều là tội phạm,inform
+sw00-0004-fs23,A,B,uh-huh,autoPositive
+sw00-0004-fs24,B,A,tất cả bọn họ đều thú tội,inform
+sw00-0004-fs25,B,A,họ đi đến một nơi thử nghiệm bởi bồi thẩm đoàn,inform
+sw00-0004-fs26,B,A,họ thử những người đó trong vòng 22 năm kể từ khi tôi còn là một đứa trẻ,inform
+sw00-0004-fs27,A,B,wow,autoPositive
+sw00-0004-fs28,B,A,và,turnTake
+sw00-0004-fs29,B,A,những gì họ làm được là họ đã mua những chiếc xe mercedes rồi lại xe mercedes,inform
+sw00-0004-fs30,B,A,không có điều gì được thực hiện bằng công lý cho dù bất kì điều gì,inform
+sw00-0004-fs31,A,B,voc_breath,turnTake
+sw00-0004-fs32,A,B,voc_breath đó nó là vậy đó,stalling
+sw00-0004-fs33,A,B,nó là một trong những thứ,autoPositive
+sw00-0004-fs34,A,B,ý tôi là uh uh,stalling
+sw00-0004-fs35,A,B,tôi phải nhìn vào nó,inform
+sw00-0004-fs36,A,B,nếu mà,stalling
+sw00-0004-fs37,A,B,chỉ là,selfCorrection
+sw00-0004-fs38,A,B,uh,stalling
+sw00-0004-fs39,A,B,nếu họ đã làm điều đó chỉ với các thẩm phán cảnh sát phải làm việc tốt hơn rất nhiều và đảm bảo rằng bằng chứng của họ là kín,inform
+sw00-0004-fs40,A,B,vì các thẩm phán ngồi trong các loại công cụ ngày qua ngày họ biết tất cả các thủ tục,inform
+sw00-0004-fs41,A,B,họ sẽ biết điều gì là tốt điều gì không,inform
+sw00-0004-fs42,A,B,họ có khả năng để nói tôi xin lỗi,inform
+sw00-0004-fs43,A,B,bạn không thể sử dụng chúng như là một bằng chứng,inform
+sw00-0004-fs44,A,B,uh,stalling
+sw00-0004-fs45,A,B,bạn biết đó,stalling
+sw00-0004-fs46,A,B,bởi vì nó có thể là hợp pháp hoặc không,inform
+sw00-0004-fs47,A,B,và,turnKeep
+sw00-0004-fs48,A,B,bạn biết,stalling
+sw00-0004-fs49,A,B,bạn sẽ không phải trình bày mà luật sư sẽ đứng lên và trình bày với bồi thẩm đoàn,inform
+sw00-0004-fs50,A,B,uh uh,stalling
+sw00-0004-fs51,A,B,về,stalling
+sw00-0004-fs52,A,B,oh,stalling
+sw00-0004-fs53,A,B,và sau đó bồi thẩm đoàn nói không bỏ qua nó,inform
+sw00-0004-fs54,A,B,bỏ qua,stalling
+sw00-0004-fs55,A,B,và bồi thẩm đoàn sẽ không bỏ qua các bằng chứng đó,inform
+sw00-0004-fs56,B,A,uh,stalling
+sw00-0004-fs57,B,A,đúng rồi,agreement
+sw00-0004-fs58,B,A,tôi tôi tôi,turnKeep:stalling
+sw00-0004-fs59,B,A,tôi nghĩ hệ thống luật lệ là để bảo vệ lợi ích của mình,inform
+sw00-0004-fs60,A,B,nó có thể rất tốt,agreement
+sw00-0004-fs61,B,A,tôi tôi,turnKeep:stalling
+sw00-0004-fs62,B,A,tôi rất là coi thường nó,inform
+sw00-0004-fs63,A,B,uh,turnTake:stalling
+sw00-0004-fs65,B,A,uh,stalling
+sw00-0004-fs66,B,A,điều tôi thích thú là sở cảnh sát,inform
+sw00-0004-fs67,B,A,voc_breath họ không tập trung vào những tên tội phạm,inform
+sw00-0004-fs68,B,A,hệ thống luật lệ là để tập trung vào người dân,inform
+sw00-0004-fs69,B,a,bởi vì tôi và bạn đều có lịch làm việc,inform
+sw00-0004-fs70,B,A,chúng ta có thể gọi nó là làm việc,inform
+sw00-0004-fs71,B,A,chúng ta có số an sinh xã hội,inform
+sw00-0004-fs72,B,A,họ có thể theo dõi chúng ta,inform
+sw00-0004-fs73,B,A,chúng ta có điện thoại,inform
+sw00-0004-fs74,B,A,sau đó chúng ta có phiếu sec,inform
+sw00-0004-fs75,B,A,tội phạm thì không có những thứ đó,inform
+sw00-0004-fs76,B,a,chúng thực sự rất khó để bắt,inform
+sw00-0004-fs77,B,A,và nếu họ làm bắt chúng họ không nhận được bất kỳ khoản tiền nào từ chúng trong khi chúng tôi sẽ viết một tấm séc,inform
+sw00-0004-fs78,B,A,chúng ta,selfCorrection
+sw00-0004-fs79,A,B,đúng vậy,agreement
+sw00-0004-fs80,B,A,vậy bạn nghĩ họ sẽ tập trung nỗ lực vào những nơi nào,inform
+sw00-0004-fs81,A,B,đúng rồi,agreement
+sw00-0004-fs83,B,A,họ tập trung vào người dân không phải là tội phạm,inform
+sw00-0004-fs84,A,B,ồ,turnGrab
+sw00-0004-fs85,A,B,bạn sẽ thay đổi nó thế nào,setQuestion
+sw00-0004-fs86,B,A,voc_throat_clearing,turnTake
+sw00-0004-fs87,B,A,voc_throat_clearing bạn biết đó,stalling
+sw00-0004-fs88,B,A,nó là,retraction
+sw00-0004-fs89,B,A,tôi sẽ giải quyết vấn đề đó,inform
+sw00-0004-fs90,B,A,nhưng tôi,inform
+sw00-0004-fs91,A,B,voc_laugh,autoPositive
+sw00-0004-fs92,B,A,voc_laugh,alloPositive
+sw00-0004-fs93,A,B,để chi tiết cho người khác cũng được,completion
+sw00-0004-fs94,A,B,huh,checkQuestion
+sw00-0004-fs95,B,A,đúng rồi,confirm
+sw00-0004-fs96,B,A,rồi sẽ để lại chi tiết bạn sẽ làm gì,inform
+sw00-0004-fs97,B,A,tôi nghĩ sẽ bắt đầu với những gì bạn muốn,inform
+sw00-0004-fs99,B,A,như ở vùng atlanta tỉ lệ tội phạm là con số rất lớn,inform
+sw00-0004-fs100,B,A,bạn ra ngoài phố và họ sẽ đưa cho bạn tấm vé phạt tốc độ,inform
+sw00-0004-fs101,A,B,,agreement
+sw00-0004-fs102,B,A,tôi nghĩ một cách nào đó bạn phải đi ra khỏi đó,inform
+sw00-0004-fs103,A,B,ừm thì,turnGrab
+sw00-0004-fs104,A,B,bạn biết đấy uh,stalling
+sw00-0004-fs105,A,B,nói chuyện với luật sư nó có thể rất tốt nhưng nó sẽ mất một khoản phí,inform
+sw00-0004-fs106,A,B,bạn biết đáy,stalling
+sw00-0004-fs108,A,B,a uh a,stalling

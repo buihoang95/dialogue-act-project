@@ -1,0 +1,147 @@
+Data
+voc_breath:::autoPositive:alloPositive
+đi về phía nam và bạn sẽ vượt qua một số vách đá bên phải của bạn:::instruct
+được rồi:::acceptRequest
+đúng rồi:::acceptRequest
+và tiếp tục đi xuống hướng nam:::instruct
+mmhmm:::acceptRequest
+qua một xưởng bên phải bạn:::instruct
+vượt qua gì vậy:::setQuestion
+một cái xưởng:::answer
+được rồi:::turnKeep
+nonvocal tiếp tục đi theo hướng bên phải:::instruct
+phải rồi:::autoPositive:turnTake
+và rồi lại vòng theo hướng đông:::instruct
+đi xuống một cánh đồng lúa mỳ à:::checkQuestion
+vậy tôi có phải đi thẳng không:::checkQuestion
+không phải đi xuống xa vậy vậy đâu:::disconfirm
+không phải xuống xa như vậy:::autoPositive
+không:::alloPositive
+phải rồi:::acceptRequest:autoPositive
+phải đi vòng:::autoPositive
+phải đi vòng:::alloPositive
+và sau đó quay lại:::instruct
+sau đó bạn sẽ đi theo hướng bắc:::instruct
+phải rồi:::acceptRequest
+phải rồi:::autoPositive
+bạn đang ở:::checkQuestion
+và tôi như đang đi giữa những vách núi và rừng thông:::choiceQuestion
+ồ:::autoPositive
+bạn vượt qua rừng thông:::answer
+rừng thông bên phải bạn:::inform
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+và bạn tiếp tục đi qua nó:::instruct
+cho đến khi bạn vừa đi đến đầu của rừng thông:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+và rồi lại đi hướng đông tiếp:::instruct
+đi lại hướng đông:::autoPositive
+đi lại hướng đông:::alloPositive
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+được rồi:::autoPositive:turnRelease
+được rồi:::autoPositive:alloPositive
+được rồi:::autoPositive
+phải rồi:::autoPositive:alloPositive:turnTake
+hướng đông:::instruct
+đi thêm một chút:::inform
+ừmmm:::turnKeep:stalling
+và bắt đầu đi theo hướng nam:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+rừng thông đang ở trên đường của bạn:::inform
+ehm:::autoNegative:turnTake:stalling
+đúng rồi:::agreement
+uh-huh:::agreement
+phải rồi:::autoPositive:alloPositive
+phải rồi:::acceptRequest
+bạn tiếp tục đi xuống tiếp rừng thông:::instruct
+phải rồi:::acceptRequest
+và sau đó bắt đầu đi theo hướng nam:::instruct
+okay:::acceptRequest
+sau đó bạn đi theo lại hướng đông:::instruct
+và:::turnKeep:stalling
+và bạn đi vòng quanh một cái tiệm bánh:::instruct
+yeah:::acceptRequest
+phải rồi:::autoPositive:alloPositive
+tôi sẽ đi theo hướng đông xuống tiệm bánh:::checkQuestion
+xuống tiệm bánh:::confirm
+phải rồi:::autoPositive
+uh-huh phải rồi:::alloPositive
+được rồi:::acceptRequest
+và sau đó đi lại về hướng tây:::instruct
+whoa whoa:::autoNegative
+đợi một chút:::pausing
+phải rồi:::autoPositive
+tôi đi xuống khu rừng thông:::inform
+tôi sẽ đi thẳng xuống hướng phải:::inform
+phải rồi:::agreement
+đi thẳng xuống:::selfCorrection
+rồi bạn:::checkQuestion
+cho đến khi bạn không:::inform
+cho đến đi bạn ở phía trên của tiệm bánh:::inform
+à phải rồi:::autoPositive
+phải rồi:::alloPositive
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+đi vòng một chút cho đến đi bạn ở dưới nó:::instruct
+phải rồi:::autoPositive:turnKeep
+sau đó đi theo hướng tây:::instruct
+phải rồi:::autoPositive
+được rồi tôi đã hiểu:::acceptRequest
+phải rồi:::autoPositive
+và sau đó đi xuống hướng nam:::instruct
+được rồi:::acceptRequest
+nó là một cái nhà hàng:::inform
+yeah:::agreement
+chính là nó:::checkQuestion
+phải rồi:::confirm
+uh-huh:::autoPositive
+và nó có một:::inform
+bạn có thể đi vòng:::propositionalQuestion
+đi vòng theo nhà hàng:::instruct
+yeah:::answer
+phải rồi:::acceptRequest
+vậy bạn sẽ đi theo hướng tây:::checkQuestion
+uh-huh:::acceptRequest
+được:::confirm
+phải rồi:::autoPositive:alloPositive:turnTake
+và bạn sẽ đi theo hướng tây nam:::instruct
+um:::turnKeep:stalling
+mmhmm:::acceptRequest
+ở giữa cánh đồng lúa mỳ và cái nhà kho:::inform
+ở giữa chúng:::inform
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+phải rồi:::autoPositive
+bạn đi đúng đó:::instruct
+yep:::autoPositive:turnAssign
+và sau đó đi theo hướng tây:::instruct
+phải rồi:::acceptRequest
+vậy thì bạn sẽ ở giữa chúng:::checkQuestion
+ở giữa:::confirm:alloPositive
+um:::turnKeep:stalling
+phải rồi:::autoPositive
+mmhmm:::autoPositive:alloPositive
+được rồi:::acceptRequest
+và sau đó đi theo hướng tây nam theo cạnh của bản đồ:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+phải rồi:::autoPositive:alloPositive
+và sau đó là huớng nam:::instruct
+mm:::autoPositive
+phải rồi:::acceptRequest
+và sau đó bạn sẽ đi theo hướng đông:::instruct
+um:::turnKeep:stalling
+bạn sẽ đến một ngọn hải đăng:::instruct
+vậy phải đi xuống các hang động:::checkQuestion
+sau đó đi theo hướng đông cho đến khi bạn đến ngọn hải đăng:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+phải rồi:::autoPositive:alloPositive
+đó là kết thúc:::inform
+trên hay dưới:::choiceQuestion
+thật là thú vị:::autoPositive
+ở bên cạnh:::answer
+voc_laugh:::autoPositive

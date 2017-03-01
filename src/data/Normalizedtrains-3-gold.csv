@@ -1,0 +1,39 @@
+Data
+tôi giúp gì được anh ạ:::offer
+vâng:::acceptOffer
+tôi muốn đặt một chuyến tàu chở hàng từ corning và chuyển tới elmira:::inform
+được ạ:::autoPositive
+và từ elmỉa tôi muốn chở nước cam lên tàu hàng:::inform
+mm-hm:::autoPositive
+tôi muốn sau đó chuyến tàu sẽ từ quay trở lại từ elmỉra về corning:::inform
+chuyến chuyến:::stalling
+được thôi ạ:::autoPositive
+thế từ corning chuyến nào nhanh nhất để đến avon:::setQuestion
+uh:::stalling
+qua dansville ạ:::answer
+okay:::autoPositive
+vậy tôi muốn đặt tàu chở nước cam từ dansville về tới avon:::inform
+vâng:::autoPositive
+um:::turnKeep:stalling
+loại động cơ nào anh muốn sử dụng:::setQuestion
+động cơ e hai:::answer
+được rồi:::autoPositive
+vâng:::turnTake:stalling
+động cơ còn lại có nhanh hơn không:::propositionalQuestion
+uh:::stalling
+cả hai đều cả hai như nhau:::selfCorrection
+không cả hai như nhau:::answer
+okay:::autoPositive
+vậy tôi sẽ lấy lại e hai:::inform
+vâng:::autoPositive
+và:::turnTake
+và tàu hàng chạy nhanh như nhau:::setQuestion
+vâng:::confirm
+okay:::interactionStructuring
+vậy uh:::stalling
+kế hoạch là anh sẽ lấy động cơ e hai đến corning từ elmira đưa nước cam lên và về avon:::checkQuestion
+chính xác:::confirm
+sẽ mất bao lâu thế:::setQuestion
+11 tiếng đồng hồ:::answer
+okay:::interactionStructuring
+tôi như vậy là đã xong:::interactionStructuring
