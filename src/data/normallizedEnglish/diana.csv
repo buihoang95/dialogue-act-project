@@ -1,0 +1,109 @@
+gl-diana-fs1,p1,p2,good afternoon,opening:initGreeting
+gl-diana-fs2,p2,p1,hello,opening:returnGreeting
+gl-diana-fs3,p1,p2,uh,turnTake:stalling
+gl-diana-fs4,p1,p2,whats your name,setQuestion
+gl-diana-fs5,p2,p1,my name is gregor linn,setAnswer
+gl-diana-fs6,p1,p2,nice to meet you,autoPositive:initGreeting
+gl-diana-fs7,p2,p1,nice to meet you,autoPositive:returnGreeting
+gl-diana-fs8,p1,p2,uh,turnTake:stalling
+gl-diana-fs9,p1,p2,how are you doing today,setQuestion
+gl-diana-fs10,p2,p1,mh,turnAccept
+gl-diana-fs11,p2,p1,fine,setAnswer
+gl-diana-fs12,p1,p2,im doing well too,autoPositive:inform
+gl-diana-fs13,p1,p2,uh,turnKeep:stalling
+gl-diana-fs14,p1,p2,lets play,
+gl-diana-fs15,p1,p2,so first ill tell you the rules,interactionStructuring
+gl-diana-fs16,p1,p2,i am a very famous person,
+gl-diana-fs17,p2,p1,okay,autoPositive
+gl-diana-fs18,p1,p2,uh,turnKeep:stalling
+gl-diana-fs19,p1,p2,you need to guess my name,
+gl-diana-fs20,p2,p1,okay,autoPositive
+gl-diana-fs21,p1,p2,you can ask several questions except for one about my name,
+gl-diana-fs22,p2,p1,okay,autoPositive
+gl-diana-fs23,p1,p2,you do not have to ask yes or no questions,
+gl-diana-fs24,p1,p2,you can also ask open-ended questions,
+gl-diana-fs25,p2,p1,okay i understand,autoPositive
+gl-diana-fs26,p1,p2,you have ten tries,
+gl-diana-fs27,p1,p2,and if after ten questions or earlier you guess my name correctly,
+gl-diana-fs28,p1,p2,you have won the game,
+gl-diana-fs29,p1,p2,if not youve lost the game,
+gl-diana-fs30,p2,p1,okay,autoPositive
+gl-diana-fs31,p2,p1,and,turnGrab
+gl-diana-fs32,p1,p2,you should,
+gl-diana-fs33,p1,p2,mhm,autoPositive:turnRelease
+gl-diana-fs34,p2,p1,what is it what you answer,
+gl-diana-fs35,p2,p1,uh is,turnKeep:stalling
+gl-diana-fs36,p2,p1,is,selfCorrection
+gl-diana-fs37,p1,p2,uhm,turnAccept:stalling
+gl-diana-fs38,p1,p2,could you repeat the questions,autoNegative
+gl-diana-fs39,p1,p2,could you clarify the question,autoNegative
+gl-diana-fs40,p2,p1,uhm,turnTake:stalling
+gl-diana-fs41,p2,p1,are you just saying yes or no or,
+gl-diana-fs42,p2,p1,uh,turnKeep:stalling
+gl-diana-fs43,p1,p2,no,turnGrab
+gl-diana-fs44,p1,p2,i will if you ask me yes or no question i will say yes or no,
+gl-diana-fs45,p1,p2,i will,selfCorrection
+gl-diana-fs46,p2,p1,okay,autoPositive
+gl-diana-fs47,p1,p2,uhm,turnKeep:stalling
+gl-diana-fs48,p1,p2,if you ask me a more open-ended question i will try to answer the question,
+gl-diana-fs49,p1,p2,uh,turnKeep:stalling
+gl-diana-fs50,p1,p2,i wont always have an answer to your question though,
+gl-diana-fs51,p2,p1,okay,autoPositive
+gl-diana-fs52,p1,p2,uhm,turnKeep:stalling
+gl-diana-fs53,p1,p2,alright,interactionStructuring
+gl-diana-fs54,p1,p2,do you understand the rules,
+gl-diana-fs55,p2,p1,yeah,
+gl-diana-fs56,p1,p2,would you like me to repeat anything,
+gl-diana-fs57,p1,p2,would you,selfCorrection
+gl-diana-fs58,p2,p1,no,
+gl-diana-fs59,p2,p1,i think i understood everything,
+gl-diana-fs60,p2,p1,mh,turnKeep:stalling
+gl-diana-fs61,p1,p2,alright,autoPositive
+gl-diana-fs62,p1,p2,alright and one more important thing,interactionStructuring
+gl-diana-fs63,p1,p2,and one more important thing,
+gl-diana-fs64,p1,p2,i will only be female famous people,
+gl-diana-fs65,p1,p2,uh,turnKeep:stalling
+gl-diana-fs66,p2,p1,ah okay,autoPositive
+gl-diana-fs67,p1,p2,mhm,alloPositive
+gl-diana-fs68,p1,p2,alright,autoPositive:interactionStructuring
+gl-diana-fs69,p1,p2,alright uh,turnKeep
+gl-diana-fs70,p1,p2,uh,stalling
+gl-diana-fs71,p1,p2,so lets start,suggest
+gl-diana-fs72,p1,p2,what is your first question,setQuestion
+gl-diana-fs73,p2,p1,are you still alive,propositionalQuestion
+gl-diana-fs74,p1,p2,no i am not,propositionalAnswer
+gl-diana-fs75,p2,p1,mhm,autoPositive:turnTake
+gl-diana-fs76,p2,p1,uhm,turnKeep:stalling
+gl-diana-fs77,p1,p2,uh,turnTake:stalling
+gl-diana-fs78,p2,p1,are you from germany,propositionalQuestion
+gl-diana-fs79,p1,p2,no i am not from germany,propositionalAnswer
+gl-diana-fs80,p2,p1,uhm,turnTake:stalling
+gl-diana-fs81,p2,p1,are you from america,propositionalQuestion
+gl-diana-fs82,p1,p2,no i am not from america,propositionalAnswer
+gl-diana-fs83,p2,p1,uh,turnTake:stalling
+gl-diana-fs84,p2,p1,what were you doing when you were alive,setQuestion
+gl-diana-fs85,p1,p2,ehm,turnTake:stalling
+gl-diana-fs86,p1,p2,let me think for a minute,pausing
+gl-diana-fs87,p1,p2,uhm,turnKeep:stalling
+gl-diana-fs88,p1,p2,i was,setAnswer
+gl-diana-fs89,p1,p2,i was a princess,setAnswer
+gl-diana-fs90,p1,p2,i was,selfCorrection
+gl-diana-fs91,p1,p2,when i was alive,setAnswer
+gl-diana-fs92,p2,p1,and where are you from,setQuestion
+gl-diana-fs93,p1,p2,i am from england,setAnswer
+gl-diana-fs94,p2,p1,okay,autoPositive
+gl-diana-fs95,p2,p1,uhm,turnKeep:stalling
+gl-diana-fs96,p2,p1,uh,turnKeep:stalling
+gl-diana-fs97,p2,p1,where did you die,setQuestion
+gl-diana-fs98,p1,p2,just a second,turnKeep:pausing
+gl-diana-fs99,p1,p2,uhm,turnKeep:stalling
+gl-diana-fs100,p1,p2,i died in paris,setAnswer
+gl-diana-fs101,p2,p1,mhm,autoPositive
+gl-diana-fs102,p2,p1,uhm,turnKeep:stalling
+gl-diana-fs103,p2,p1,uhm,turnKeep:stalling
+gl-diana-fs104,p2,p1,you are princess diana,guess
+gl-diana-fs105,p2,p1,uh,turnKeep:stalling
+gl-diana-fs106,p1,p2,yes,confirm
+gl-diana-fs107,p1,p2,that is the correct answer,inform
+gl-diana-fs108,p1,p2,good job,alloPositive:closing:congratulation
+gl-diana-fs109,p2,p1,okay,autoPositive:closing

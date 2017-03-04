@@ -1,0 +1,379 @@
+sw02-0224-fs1,A,B,okay,opening
+sw02-0224-fs2,B,A,all right,autoPositive
+sw02-0224-fs3,B,A,uh,turnKeep:stalling
+sw02-0224-fs4,B,A,do you have any friends that have children,propositionalQuestion
+sw02-0224-fs5,A,B,i do have friends that have children,answer
+sw02-0224-fs6,A,B,yes,answer
+sw02-0224-fs7,B,A,and what do they say about finding adequate child care?,setQuestion
+sw02-0224-fs8,B,A,i think that may be the key word,inform
+sw02-0224-fs9,A,B,i think that's correct,agreement
+sw02-0224-fs10,A,B,they're relatively nonexistent from what i hear from my friends,inform
+sw02-0224-fs11,A,B,uh,stalling
+sw02-0224-fs12,A,B,from uh from,stalling
+sw02-0224-fs13,A,B,it seems like even when they have consulted day care centers that are reputable that are sort of like a chain if i can use that word still you have to deal with the people that happen to be operating it locally,inform
+sw02-0224-fs14,A,B,uh,stalling
+sw02-0224-fs15,B,A,right,autoPositive
+sw02-0224-fs16,A,B,uh,stalling
+sw02-0224-fs17,A,B,you know,stalling
+sw02-0224-fs18,A,B,and,turnKeep
+sw02-0224-fs19,A,B,uh,stalling
+sw02-0224-fs20,A,B,it's just a matter of trust you know,inform
+sw02-0224-fs21,A,B,of of,stalling
+sw02-0224-fs22,A,B,i think they feel that these people are under qualified basically and  underpaid,inform
+sw02-0224-fs23,A,B,um,stalling
+sw02-0224-fs24,A,B,and,turnKeep
+sw02-0224-fs25,A,B,i think that sort of goes hand in hand,inform
+sw02-0224-fs26,A,B,it's it's,stalling
+sw02-0224-fs27,A,B,so it's difficult for them,inform
+sw02-0224-fs28,B,A,well,turnTake
+sw02-0224-fs29,B,A,we certainly found that to be true,agreement
+sw02-0224-fs30,A,B,huh-uh,autoPositive
+sw02-0224-fs31,B,A,uh,stalling
+sw02-0224-fs32,B,A,indeed we've -,retraction
+sw02-0224-fs33,B,A,our children are now eleven and nine,inform
+sw02-0224-fs34,A,B,huh-uh,autoPositive
+sw02-0224-fs35,B,A,and,turnKeep
+sw02-0224-fs36,B,A,we moved away from institutionalized child care --,inform
+sw02-0224-fs37,A,B,huh-uh,autoPositive
+sw02-0224-fs38,B,A,if we can call those chain kind of things like that uh by that name,Inform
+sw02-0224-fs39,A,B,right,autoPositive
+sw02-0224-fs40,B,A,uh,stalling
+sw02-0224-fs41,B,A,like that by that name,selfCorrection
+sw02-0224-fs42,A,B,right,autoPositive
+sw02-0224-fs43,B,A,and found that more creative avenues were the right answer for us,inform
+sw02-0224-fs44,B,A,uh,stalling
+sw02-0224-fs45,A,B,huh-uh,autoPositive
+sw02-0224-fs46,A,B,huh-uh,autoPositive
+sw02-0224-fs47,B,A,uh,stalling
+sw02-0224-fs48,B,A,at one point in time we've had au pairs,inform
+sw02-0224-fs49,A,B,huh-uh,autoPositive
+sw02-0224-fs50,B,A,by trading services with them,inform
+sw02-0224-fs51,A,B,huh-uh,autoPositive
+sw02-0224-fs52,B,A,and,turnKeep
+sw02-0224-fs53,B,A,that worked for a while,inform
+sw02-0224-fs54,B,A,but adequate ones were really tough to find,inform
+sw02-0224-fs55,B,A,they were really adequate ones were really,selfCorrection
+sw02-0224-fs56,A,B,i'm sure that's true,Agreement
+sw02-0224-fs57,B,A,it takes that mixture of a very mature college student who wants to do something and yet is willing to give the time and the interest to the children,inform
+sw02-0224-fs58,A,B,huh-uh,autoPositive
+sw02-0224-fs59,A,B,right,autoPositive
+sw02-0224-fs60,A,B,right,autoPositive
+sw02-0224-fs61,A,B,i do have a friend she and her roommate became live-in care givers,inform
+sw02-0224-fs62,A,B,uh uh,stalling
+sw02-0224-fs63,A,B,that -,retraction
+sw02-0224-fs64,A,B,she and her roommate became live-in care givers,inform
+sw02-0224-fs65,A,B,and,turnKeep
+sw02-0224-fs66,A,B,they loved it,inform
+sw02-0224-fs67,A,B,they had stayed with this family from the time these children were small four or five years old up until they were well into grade school,inform
+sw02-0224-fs68,A,B,you know,stalling
+sw02-0224-fs69,A,B,and,turnKeep
+sw02-0224-fs70,A,B,uh,stalling
+sw02-0224-fs71,A,B,she was paid very well because the parents trusted them,inform
+sw02-0224-fs72,A,B,they the parents,selfCorrection
+sw02-0224-fs73,A,B,and,turnKeep
+sw02-0224-fs74,A,B,they had done such a good job,inform
+sw02-0224-fs75,A,B,you know,stalling
+sw02-0224-fs76,A,B,so i can see where someone in a position like that in a live-in capacity would definitely be the way to go if you're lucky enough to have the financial  to be able to do that,inform
+sw02-0224-fs77,A,B,um,stalling
+sw02-0224-fs78,A,B,you know,stalling
+sw02-0224-fs79,A,B,you're you're,stalling
+sw02-0224-fs80,B,A,well,turnTake
+sw02-0224-fs81,B,A,that's true,Agreement
+sw02-0224-fs82,A,B,yeah,autoPositive
+sw02-0224-fs83,B,A,and  that's something that we're struggling with now,inform
+sw02-0224-fs84,A,B,yeah,autoPositive
+sw02-0224-fs85,A,B,i think it's just a matter of priorities,inform
+sw02-0224-fs86,A,B,it's a terrible thing to say when you're speaking of children in that way,inform
+sw02-0224-fs87,A,B,it's uh you know it's,stalling
+sw02-0224-fs88,A,B,but  you still have to be realistic as well i think,inform
+sw02-0224-fs89,B,A,oh,turnTake:stalling
+sw02-0224-fs90,B,A,yeah,agreement
+sw02-0224-fs91,A,B,yeah,autoPositive
+sw02-0224-fs92,A,B,yeah,autoPositive
+sw02-0224-fs93,B,A,much as other cultures disagree our lives don't revolve around our children,inform
+sw02-0224-fs94,A,B,yeah,autoPositive
+sw02-0224-fs95,A,B,yeah,autoPositive
+sw02-0224-fs96,A,B,and,turnKeep
+sw02-0224-fs97,A,B,that's bad to have to admit too,inform
+sw02-0224-fs98,A,B,that's that's that's,stalling
+sw02-0224-fs99,A,B,but it's just there's so much pressure when you're talking about two people that work outside the home,inform
+sw02-0224-fs100,A,B,uh you know,stalling
+sw02-0224-fs101,A,B,and and,stalling
+sw02-0224-fs102,A,B,i think that is one reason why i continue to be without children,inform
+sw02-0224-fs103,A,B,i -,retraction
+sw02-0224-fs104,A,B,it's just such a responsibility,inform
+sw02-0224-fs105,A,B,and and,stalling
+sw02-0224-fs106,A,B,when i've had friends that have said - when you hear people say,selfCorrection
+sw02-0224-fs107,A,B,when you hear people say it alters your life forever please take heed <laughter>,inform
+sw02-0224-fs108,A,B,it it,stalling
+sw02-0224-fs109,A,B,well i realize that's true,inform
+sw02-0224-fs110,A,B,so it's such a responsibility,inform
+sw02-0224-fs111,A,B,uh,stalling
+sw02-0224-fs112,B,A,well,turnTake
+sw02-0224-fs113,B,A,it certainly is,agreement
+sw02-0224-fs114,B,A,uh,stalling
+sw02-0224-fs115,B,A,if i can  )  the other side of the coin for a moment,request
+sw02-0224-fs116,A,B,huh-uh,autoPositive
+sw02-0224-fs117,B,A,it is such an honor and a thrill to be a parent that most of the time it's worth it,inform
+sw02-0224-fs118,A,B,oh,stalling
+sw02-0224-fs119,A,B,yeah,autoPositive
+sw02-0224-fs120,A,B,huh-uh,autoPositive
+sw02-0224-fs121,A,B,yeah <laughter>,autoPositive
+sw02-0224-fs122,A,B,most of the time <laughter>,agreement
+sw02-0224-fs123,B,A,well,turnTake
+sw02-0224-fs124,B,A,i just have to be honest about it,inform
+sw02-0224-fs125,B,A,it's not always worth it,inform
+sw02-0224-fs126,A,B,yeah,autoPositive
+sw02-0224-fs127,A,B,oh,stalling
+sw02-0224-fs128,A,B,sure,autoPositive
+sw02-0224-fs129,A,B,sure,autoPositive
+sw02-0224-fs130,A,B,sure,autoPositive
+sw02-0224-fs131,A,B,sure,autoPositive
+sw02-0224-fs132,B,A,there are those times when i think gee  if i didn't have children i could be out playing  )  or golf,inform
+sw02-0224-fs133,A,B,right,autoPositive:turnTake
+sw02-0224-fs134,A,B,right,autoPositive
+sw02-0224-fs135,A,B,right,autoPositive
+sw02-0224-fs136,A,B,right,autoPositive
+sw02-0224-fs137,A,B,but,turnKeep
+sw02-0224-fs138,A,B,it's funny,inform
+sw02-0224-fs139,A,B,you know,stalling
+sw02-0224-fs140,A,B,i did i had,selfCorrection
+sw02-0224-fs141,A,B,you know,stalling
+sw02-0224-fs142,A,B,i had a friend that said before we always said we don't want children because we can't go off on the spur of the moment or this or that and the other,inform
+sw02-0224-fs143,A,B,and,turnKeep
+sw02-0224-fs144,A,B,she got older,inform
+sw02-0224-fs145,A,B,and,turnKeep
+sw02-0224-fs146,A,B,she said we never do those things anyway,inform
+sw02-0224-fs147,A,B,but you know,stalling
+sw02-0224-fs148,A,B,so,turnKeep
+sw02-0224-fs149,A,B,why <laughter> why,stalling
+sw02-0224-fs150,A,B,you know,stalling
+sw02-0224-fs151,A,B,why am i waiting,inform
+sw02-0224-fs152,A,B,it's its,stalling
+sw02-0224-fs153,A,B,it's just the way your attitude changes,inform
+sw02-0224-fs154,A,B,and,turnKeep
+sw02-0224-fs155,A,B,you mature i suppose,inform
+sw02-0224-fs156,A,B,but the thing about the child care i have friends that struggle financially and they both do have to work,inform
+sw02-0224-fs157,A,B,i you know i,stalling
+sw02-0224-fs158,A,B,and and,stalling
+sw02-0224-fs159,A,B,it's a matter not necessarily that she might want to stay home or he as well,inform
+sw02-0224-fs160,A,B,uh,stalling
+sw02-0224-fs161,A,B,but you know  they need the money,inform
+sw02-0224-fs162,A,B,and when i seen some of my friends that have taken that six week old baby you know to someone else it's just i can imagine how emotional  it must be and multiplied by the fact that you don't really trust the person  or you're uncomfortable with the situation as far as child care,inform
+sw02-0224-fs163,A,B,uh,stalling
+sw02-0224-fs164,A,B,and and you know,stalling
+sw02-0224-fs165,A,B,um,stalling
+sw02-0224-fs166,A,B,it's just a scary thing,inform
+sw02-0224-fs167,B,A,well,turnTake
+sw02-0224-fs168,B,A,we were lucky when our children were that age,inform
+sw02-0224-fs169,B,A,and,turnKeep
+sw02-0224-fs170,B,A,having lived in a community for a while we knew the person to whom we were entrusting our children,inform
+sw02-0224-fs171,B,A,and,selfCorrection
+sw02-0224-fs172,A,B,huh-uh,autoPositive
+sw02-0224-fs173,A,B,that's a big plus,autoPositive
+sw02-0224-fs174,B,A,and felt that feeling of safety,inform
+sw02-0224-fs175,B,A,that that,stalling
+sw02-0224-fs176,A,B,right,autoPositive
+sw02-0224-fs177,A,B,right,autoPositive
+sw02-0224-fs178,B,A,and,turnKeep
+sw02-0224-fs179,B,A,were leaving them  )  small children,inform
+sw02-0224-fs180,A,B,huh-uh,autoPositive
+sw02-0224-fs181,B,A,but,turnKeep
+sw02-0224-fs182,B,A,we also learned something from that experience as our children got older,inform
+sw02-0224-fs183,A,B,yeah,autoPositive
+sw02-0224-fs184,B,A,it's that care givers are not omniscient --,inform
+sw02-0224-fs185,A,B,huh-uh,autoPositive
+sw02-0224-fs186,B,A,-- they are not all things to all people --,inform
+sw02-0224-fs187,A,B,right,autoPositive
+sw02-0224-fs188,B,A,-- or all children,inform
+sw02-0224-fs189,A,B,right,autoPositive
+sw02-0224-fs190,A,B,right,autoPositive
+sw02-0224-fs191,A,B,yeah,autoPositive
+sw02-0224-fs192,B,A,the ones that are good with babies tend not to be good with toddlers,inform
+sw02-0224-fs193,A,B,huh-uh,autoPositive
+sw02-0224-fs194,A,B,huh-uh,autoPositive
+sw02-0224-fs195,A,B,i don't know,stalling
+sw02-0224-fs196,A,B,i think your patience level needs to increase as the child gets older <laughter>,inform
+sw02-0224-fs197,A,B,must needs to,selfCorrection
+sw02-0224-fs198,A,B,i think that might be part of the problem with some people you know,inform
+sw02-0224-fs199,A,B,taking care of a baby i know is not an easy thing,inform
+sw02-0224-fs200,A,B,but when you have them in their little feet are moving,inform
+sw02-0224-fs201,A,B,their their,stalling
+sw02-0224-fs202,A,B,and,turnKeep
+sw02-0224-fs203,A,B,you have to chase them down constantly,inform
+sw02-0224-fs204,A,B,i'm sure that's a whole new ball game,inform
+sw02-0224-fs205,B,A,oh,stalling
+sw02-0224-fs206,B,A,yeah,autoPositive
+sw02-0224-fs207,B,A,yeah,autoPositive
+sw02-0224-fs208,B,A,i have a nine year old that i would trade happily for a baby,inform
+sw02-0224-fs209,A,B,<laughter> oh  really,autoPositive
+sw02-0224-fs210,A,B,well,turnTake
+sw02-0224-fs211,A,B,you sound like you're pretty well passed the worst of it as far as worrying about -,inform
+sw02-0224-fs212,A,B,worrying about since they're both in school you don't have to worry about,selfCorrection
+sw02-0224-fs213,A,B,since they're both in school you don't have to worry about a full-time person to take care of them  <<voices fading in and out>>,inform
+sw02-0224-fs214,B,A,oh,turnTake:stalling
+sw02-0224-fs215,B,A,you don't know what happens after they get in school,inform
+sw02-0224-fs216,A,B,<laughter> that's something altogether different,inform
+sw02-0224-fs217,A,B,uh,stalling
+sw02-0224-fs218,B,A,oh,turnTake:stalling
+sw02-0224-fs219,B,A,yes,agreement
+sw02-0224-fs220,B,A,now we have one takes piano lessons,inform
+sw02-0224-fs221,B,A,uh,stalling
+sw02-0224-fs222,A,B,huh-uh,autoPositive
+sw02-0224-fs223,B,A,somewhere  on one afternoon,inform
+sw02-0224-fs224,B,A,and,turnKeep
+sw02-0224-fs225,B,A,the other one of course can't do the same thing,inform
+sw02-0224-fs226,A,B,oh,stalling
+sw02-0224-fs227,A,B,of course not,agreement
+sw02-0224-fs228,B,A,it has to be somewhere else,inform
+sw02-0224-fs229,B,A,and  no  it's not adequate to sit and wait,inform
+sw02-0224-fs230,A,B,<laughter>  you can't do that,agreement
+sw02-0224-fs231,A,B,no,agreement
+sw02-0224-fs232,B,A,no,agreement
+sw02-0224-fs233,A,B,no,agreement
+sw02-0224-fs234,A,B,no,agreement
+sw02-0224-fs235,B,A,that just -,retraction
+sw02-0224-fs236,B,A,that will not do,agreement
+sw02-0224-fs237,A,B,that's out of the question,agreement
+sw02-0224-fs238,A,B,i'm sure,agreement
+sw02-0224-fs239,B,A,of course,agreement
+sw02-0224-fs240,B,A,but,turnKeep
+sw02-0224-fs241,B,A,we are helping  you know,inform
+sw02-0224-fs242,A,B,right,autoPositive
+sw02-0224-fs243,A,B,right,autoPositive
+sw02-0224-fs244,B,A,we are being cooperative,inform
+sw02-0224-fs245,B,A,what's wrong with you,setQuestion
+sw02-0224-fs246,A,B,right,autoPositive
+sw02-0224-fs247,A,B,right,autoPositive
+sw02-0224-fs248,B,A,you don't understand this,inform
+sw02-0224-fs249,A,B,huh-uh,autoPositive
+sw02-0224-fs250,B,A,that's just the way their minds work,inform
+sw02-0224-fs251,B,A,and,turnKeep
+sw02-0224-fs252,B,A,it's almost everyday,inform
+sw02-0224-fs253,A,B,that's amazing,autoPositive
+sw02-0224-fs254,A,B,it's amazing that people actually -,inform
+sw02-0224-fs255,A,B,the stamina that you must draw from yourself to deal with it,inform
+sw02-0224-fs256,A,B,you know,stalling
+sw02-0224-fs257,A,B,it must be interesting,inform
+sw02-0224-fs258,A,B,i guess you find out that you're a much stronger person than you thought maybe,inform
+sw02-0224-fs259,B,A,well,turnTake
+sw02-0224-fs260,B,A,i've been finding out that i really am a nice person,inform
+sw02-0224-fs261,B,A,)  hit for many years -,inform
+sw02-0224-fs262,A,B,<laughter>,autoPositive
+sw02-0224-fs263,B,A,) because  i didn't need it,inform
+sw02-0224-fs264,A,B,<laughter>  huh-uh,autoPositive
+sw02-0224-fs265,B,A,and,turnKeep
+sw02-0224-fs266,B,A,now i need it,inform
+sw02-0224-fs267,A,B,now it's just a reservoir that you tend to regularly i'm sure,inform
+sw02-0224-fs268,B,A,yeah,autoPositive
+sw02-0224-fs269,B,A,and,turnKeep
+sw02-0224-fs270,B,A,it stays low a lot <laughter>,inform
+sw02-0224-fs271,A,B,<laughter>,autoPositive
+sw02-0224-fs272,B,A,<laughter>,autoPositive
+sw02-0224-fs273,A,B,well,turnTake
+sw02-0224-fs274,A,B,do you feel comfortable with them coming home after school until you and your wife get home,propositionalQuestion
+sw02-0224-fs275,A,B,um,stalling
+sw02-0224-fs276,B,A,absolutely not,answer:turnGrab
+sw02-0224-fs277,A,B,no,autoPositive
+sw02-0224-fs278,A,B,yeah,autoPositive
+sw02-0224-fs279,B,A,i mean one of them i would leave unsupervised any time any place any where,inform
+sw02-0224-fs280,B,A,i would i would,stalling
+sw02-0224-fs281,A,B,huh-uh,autoPositive
+sw02-0224-fs282,B,A,uh,stalling
+sw02-0224-fs283,B,A,the other one i wouldn't leave unsupervised two minutes,inform
+sw02-0224-fs284,A,B,yeah,autoPositive
+sw02-0224-fs285,A,B,yeah,autoPositive
+sw02-0224-fs286,A,B,that's just a difference in kids i suppose,inform
+sw02-0224-fs287,B,A,that's true,autoPositive
+sw02-0224-fs288,A,B,yeah,autoPositive
+sw02-0224-fs289,B,A,one leads the other,checkQuestion
+sw02-0224-fs290,A,B,huh-uh,confirm
+sw02-0224-fs291,A,B,yeah,confirm
+sw02-0224-fs292,B,A,and  uh  -,turnTake:stalling
+sw02-0224-fs293,A,B,and,turnTake
+sw02-0224-fs294,A,B,it's it's,stalling
+sw02-0224-fs295,A,B,it's the one that's going downhill,inform
+sw02-0224-fs296,A,B,is it is it,stalling
+sw02-0224-fs297,A,B,is it the one that needs more supervision that has a bad influence on the older or more mature one,propositionalQuestion
+sw02-0224-fs298,A,B,needs needs,stalling
+sw02-0224-fs299,B,A,of course,answer
+sw02-0224-fs300,A,B,yeah <laughter>,autoPositive
+sw02-0224-fs301,A,B,how unfortunate <laughter>,inform
+sw02-0224-fs302,B,A,you don't think you don't think,stalling
+sw02-0224-fs303,B,A,you don't think that good prevails,checkQuestion
+sw02-0224-fs304,A,B,well,turnTake
+sw02-0224-fs305,A,B,i i i'm,stalling
+sw02-0224-fs306,A,B,i'm living in a dream world,inform
+sw02-0224-fs307,A,B,what do i know,inform
+sw02-0224-fs308,A,B,as i said i don't have kids,inform
+sw02-0224-fs309,A,B,and,turnKeep
+sw02-0224-fs310,A,B,i'm an only child,inform
+sw02-0224-fs311,A,B,so  i've never been around children,inform
+sw02-0224-fs312,A,B,so i'm sort of at a loss where that's concerned,inform
+sw02-0224-fs313,A,B,uh,stalling
+sw02-0224-fs314,A,B,but i do hear my friends talk about it,inform
+sw02-0224-fs315,B,A,we we're,stalling
+sw02-0224-fs316,B,A,we're having such fun,inform
+sw02-0224-fs317,B,A,my wife and i were both only children,inform
+sw02-0224-fs318,A,B,huh-uh,autoPositive
+sw02-0224-fs319,B,A,and,turnKeep
+sw02-0224-fs320,B,A,we just couldn't wait to have two children so they would be such friends,inform
+sw02-0224-fs321,A,B,yeah <laughter>,autoPositive
+sw02-0224-fs322,B,A,wrong,inform
+sw02-0224-fs323,A,B,<laughter>  that's like world war three every minute <laughter>,inform
+sw02-0224-fs324,A,B,i don't know,stalling
+sw02-0224-fs325,A,B,i i i,stalling
+sw02-0224-fs326,A,B,i have to admit i was selfish as a child,inform
+sw02-0224-fs327,A,B,self- selfish,selfCorrection
+sw02-0224-fs328,A,B,i didn't want a brother or sister,inform
+sw02-0224-fs329,A,B,and,turnKeep
+sw02-0224-fs330,A,B,now that i'm older of course it's different,inform
+sw02-0224-fs331,A,B,you know,stalling
+sw02-0224-fs332,A,B,i think about wouldn't it be nice,inform
+sw02-0224-fs333,A,B,uh,stalling
+sw02-0224-fs334,A,B,but uh anyway  -,stalling
+sw02-0224-fs335,B,A,just make good friends,suggest
+sw02-0224-fs336,A,B,yeah oh,autoPositive
+sw02-0224-fs337,A,B,i have wonderful friends,inform
+sw02-0224-fs338,A,B,that's true,autoPositive
+sw02-0224-fs339,A,B,my best friend is one child of ten,inform
+sw02-0224-fs340,A,B,and so,turnKeep
+sw02-0224-fs341,A,B,they just sort of adopted me as their eleventh child,inform
+sw02-0224-fs342,A,B,you know,stalling
+sw02-0224-fs343,A,B,so that worked out pretty well,inform
+sw02-0224-fs344,A,B,she never had to worry about taking anybody to child care because there was always somebody there older to deal with them,inform
+sw02-0224-fs345,A,B,so i guess that's an alternative,inform
+sw02-0224-fs346,A,B,if you could just have a whole bunch <laughter>,inform
+sw02-0224-fs347,A,B,um,stalling
+sw02-0224-fs348,B,A,have enough,completion
+sw02-0224-fs349,B,A,<laughter>,autoPositive
+sw02-0224-fs350,A,B,by the time the youngest ones are there you'll have older one to take care of them,inform
+sw02-0224-fs351,B,A,that's true,autoPositive
+sw02-0224-fs352,A,B,i don't know,stalling
+sw02-0224-fs353,A,B,when you see all these horror stories on television about child care,inform
+sw02-0224-fs354,A,B,and,turnKeep
+sw02-0224-fs355,A,B,gosh,inform
+sw02-0224-fs356,A,B,i was seeing something on the television earlier about a little girl that's been telling her mother these terrible stories,inform
+sw02-0224-fs357,A,B,and,turnKeep
+sw02-0224-fs358,A,B,of course people are denying it,inform
+sw02-0224-fs359,A,B,and,turnKeep
+sw02-0224-fs360,A,B,uh,stalling
+sw02-0224-fs361,A,B,it's just frightening,inform
+sw02-0224-fs362,A,B,it really is,inform
+sw02-0224-fs363,B,A,well,turnTake
+sw02-0224-fs364,B,A,what what's,stalling
+sw02-0224-fs365,B,A,what's frightening is a parent to see things that you don't really don't understand,inform
+sw02-0224-fs366,B,A,that that,stalling
+sw02-0224-fs367,A,B,huh-uh,autoPositive
+sw02-0224-fs368,A,B,huh-uh,autoPositive
+sw02-0224-fs369,B,A,and then  you don't really know what happened,inform
+sw02-0224-fs370,A,B,yeah,autoPositive
+sw02-0224-fs371,B,A,we gave up on one baby sitter because we came home one night and found pieces of ribbon,inform
+sw02-0224-fs372,B,A,um,stalling
+sw02-0224-fs373,A,B,huh-uh,autoPositive
+sw02-0224-fs374,B,A,you know,stalling
+sw02-0224-fs375,B,A,hair ribbon,inform
+sw02-0224-fs376,A,B,huh-uh,autoPositive
+sw02-0224-fs377,B,A,-- tied in a chair,inform
+sw02-0224-fs378,B,A,where obviously she,inform
+sw02-0224-fs379,B,A,had had,stalling

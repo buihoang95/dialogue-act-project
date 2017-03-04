@@ -1,0 +1,41 @@
+TRAINS3-fs1,S,U,hello,opening
+TRAINS3-fs2,S,U,can i help you,offer
+TRAINS3-fs3,U,S,yes,acceptOffer
+TRAINS3-fs4,U,S,i'd like to take a tanker from corning and bring it to elmira,inform
+TRAINS3-fs5,S,U,alright,autoPositive
+TRAINS3-fs6,U,S,and from elmira i'd like to load orange juice into the tanker,inform
+TRAINS3-fs7,S,U,mm-hm,autoPositive
+TRAINS3-fs8,U,S,i'd like then to take the tanker back from elmira to corning,inform
+TRAINS3-fs9,U,S,the the,stalling
+TRAINS3-fs10,S,U,alright,autoPositive
+TRAINS3-fs11,U,S,now from corning what would be the quickest route to avon,setQuestion
+TRAINS3-fs12,S,U,uh,stalling
+TRAINS3-fs13,S,U,through dansville,answer
+TRAINS3-fs14,U,S,okay,autoPositive
+TRAINS3-fs15,U,S,then i'd like to take the tanker of orange juice through dansville and then on to avon,inform
+TRAINS3-fs16,S,U,alright,autoPositive
+TRAINS3-fs17,S,U,um,turnKeep:stalling
+TRAINS3-fs18,S,U,which engine would you like to use,setQuestion
+TRAINS3-fs19,U,S,engine e two,answer
+TRAINS3-fs20,S,U,alright,autoPositive
+TRAINS3-fs21,U,S,well,turnTake:stalling
+,U,S,is e two,
+,U,S,which is a,
+TRAINS3-fs22,U,S,will either one take me there any quicker,propositionalQuestion
+TRAINS3-fs23,S,U,uh,stalling
+TRAINS3-fs24,S,U,they're a they're,selfCorrection
+TRAINS3-fs25,S,U,no they're both the same,answer
+TRAINS3-fs26,U,S,okay,autoPositive
+TRAINS3-fs27,U,S,then i'll take engine e two,inform
+TRAINS3-fs28,S,U,alright,autoPositive
+TRAINS3-fs29,U,S,and,turnTake
+TRAINS3-fs30,U,S,the tankers move at the same speed,setQuestion
+TRAINS3-fs31,S,U,right,confirm
+TRAINS3-fs32,S,U,okay,interactionStructuring
+TRAINS3-fs33,S,U,so uh,stalling
+TRAINS3-fs34,S,U,the plan is to take engine e two to corning pick up a tanker back to elmira load it with orange juice and then to avon,checkQuestion
+TRAINS3-fs35,U,S,right,confirm
+TRAINS3-fs36,U,S,how long will that take,setQuestion
+TRAINS3-fs37,S,U,eleven hours,answer
+TRAINS3-fs38,U,S,okay,interactionStructuring
+TRAINS3-fs39,U,S,i am now finished,interactionStructuring

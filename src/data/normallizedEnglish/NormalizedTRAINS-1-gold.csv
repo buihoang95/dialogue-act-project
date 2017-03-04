@@ -1,0 +1,104 @@
+Data
+can i help you:::offer
+yeah:::acceptOffer
+i want t:::stalling
+i want to determine the maximum number of boxcars of oranges that i can get to bath by seven a.m. tomorrow:::inform
+so:::turnKeep
+voc_breath hm ... so:::stalling
+i guess all the boxcars will have to go through corning:::inform
+because that's where the orange juice factory is:::inform
+voc_breath:::turnKeep:stalling
+orange factory:::selfCorrection
+so:::turnKeep
+from corning to bath how far is that:::setQuestion:turnAssign
+two hours:::answer
+and it's gonna take us also an hour to load boxcars right:::checkQuestion:turnAssign
+right:::confirm
+okay:::autoPositive:turnTake
+so:::turnKeep
+… hm so:::stalling
+every trip will take at least three hours then:::checkQuestion
+um:::turnKeep:stalling
+right:::confirm
+we can unload any amount of cargo onto a train in one hour:::inform
+so:::turnKeep
+we can do a maximum of three boxcars in an hour:::inform
+right:::autoPositive
+okay:::autoPositive
+okay:::autoPositive
+so:::turnKeep
+i guess one thing we can do:::suggest
+oh:::selfError
+voc_breath so voc_breath:::turnKeep:stalling
+i guess one thing is that we should see how many boxcars we can actually get to corning in four hours:::suggest
+um:::turnKeep:stalling
+how far is it from avon to bath:::setQuestion
+to corning:::selfCorrection
+voc_click voc_breath:::autoPositive:turnTake
+that's six hours:::answer
+it's shorter through dansville:::inform
+okay:::autoPositive
+from avon:::autoPositive
+oh no:::selfError
+but the thing is that i was thinking if we could actually pick up those two boxcars which are at bath:::inform
+mm:::autoPositive
+but i think that we can't even put them in to:::inform
+voc_breath:::turnKeep:stalling
+that they won't even come in to:::inform:selfCorrection
+unless:::retraction
+how far is it from elmira to bath voc_breath:::setQuestion
+two hours:::answer
+oh really:::autoPositive
+so then:::turnKeep
+we could actually take like engine e:::inform
+voc_breath:::turnKeep:stalling
+have it go to bath pick up those two box cars:::inform
+take it to corn:::retraction
+how long from bath to corning:::setQuestion
+an hour i guess:::checkQuestion
+two hours:::answer
+oh wait a second:::autoPositive
+i thought well from like elmira through to corning to bath is many hours:::setQuestion
+voc_breath:::stalling
+four hours:::answer
+oh that's four hours:::autoPositive
+so we're like screwed as far as those two box cars at bath:::inform
+like i don't think we so to get the maximum number of box cars of oranges to bath by seven am i don't think we can even use those two at bath:::inform
+voc_breath:::turnKeep:stalling
+because we can't get an engine to bath in time:::inform
+that's right:::agreement
+okay:::autoPositive:turnTake
+voc_breath so:::turnKeep
+we have the three boxcars at dansville:::inform
+so:::turnKeep
+how far is it from avon to danville:::setQuestion
+three hours:::answer
+three hours:::autoPositive
+then from dansville to corning:::SetQuestion
+one hour:::answer
+okay:::autoPositive:turnTake
+so we can actually use those three boxcars right:::checkQuestion:turnAssign
+mm-hm:::confirm
+okay:::autoPositive:turnTake
+so that's three boxcars:::inform
+okay:::turnKeep
+so that's engine e one from avon going to dansville pick up the three boxcars go to corning load them up and then take it to bath:::inform
+okay:::turnKeep
+so that's good:::inform
+voc_breath so:::turnKeep
+then i guess we can also take like engine e two with those two boxcars from elmira take it to corning:::inform
+so elmira to corning is two hours:::checkQuestion
+mm-hm:::confirm
+okay:::autoPositive:turnTake
+voc_breath and:::turnKeep
+okay:::turnKeep
+voc_breath so:::turnKeep:stalling
+yeah that should also work:::inform
+mm-hm:::agreement
+so:::turnTake
+so did you wanna repeat that plan:::request:turnAssign
+okay:::acceptRequest:turnAccept
+engine one goes to dansville picks up three boxcars goes to corning is loaded with oranges and goes to bath engine e two picks takes the two boxcars at elmira to corning where they're loaded with oranges and then takes them to bath:::inform
+okay:::alloPositive
+so that gives us a maximum number of five:::inform
+okay:::interactionStructuring

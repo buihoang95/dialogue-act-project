@@ -33,7 +33,6 @@ def convertDataToNormalizeData(fileName):
 
 
 def main():
-    # # convertRawData2()
     convertDataToNormalizeData('trains-1-gold')
     convertDataToNormalizeData('trains-2-gold')
     convertDataToNormalizeData('trains-3-gold')
@@ -45,6 +44,17 @@ def main():
     convertDataToNormalizeData('q1ec6')
     convertDataToNormalizeData('q1ec7')
 
+    # convertDataToNormalizeData('diana')
+    # convertDataToNormalizeData('eleanor')
+    # convertDataToNormalizeData('q1ec6')
+    # convertDataToNormalizeData('sw00-0004')
+    # convertDataToNormalizeData('sw01-0105')
+    # convertDataToNormalizeData('sw02-0224')
+    # convertDataToNormalizeData('TRAINS-1-gold')
+    # convertDataToNormalizeData('TRAINS-2-gold')
+    # convertDataToNormalizeData('TRAINS-3-gold')
+    # convertDataToNormalizeData('venus')
+    # convertDataToNormalizeData('washington')
 
 
 if __name__ == '__main__':

@@ -1,0 +1,56 @@
+Data
+hello:::opening:returnGreeting
+ready to start with the next round:::checkQuestion
+mhm:::confirm
+alright:::autoPositive:alloPositive
+great:::autoPositive:alloPositive
+alright:::interactionStructuring
+uhm:::turnKeep:stalling
+lets get started then:::suggest
+what is your first question:::setQuestion
+uh:::turnAccept:stalling
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+what is your mother tongue:::setQuestion
+uh:::turnKeep:stalling
+uh:::turnKeep:stalling
+my mother tongue is english:::setAnswer
+uhm:::turnTake:stalling
+where are you from:::setQuestion
+i am from the united states:::setAnswer
+and youre still alive:::propositionalQuestion
+and:::turnTake:stalling
+yes i am still alive:::propositionalAnswer
+and how old are you:::setQuestion
+and:::turnTake:stalling
+i am thirty three:::setAnswer
+thirty:::selfCorrection
+thirty three years old:::setAnswer
+yeah:::autoPositive
+uhm:::turnKeep:stalling
+and what are you doing:::setQuestion
+and:::turnTake:stalling
+i am a professional tennis player:::setAnswer
+okay:::autoPositive:turnTake
+does your first name start with an s:::propositionalQuestion
+with an:::selfCorrection
+im not sure if i can answer that question:::inform
+no i cant answer that question:::answer:inform
+okay:::autoPositive
+uhm:::turnKeep:stalling
+mmh:::turnKeep:stalling
+uh:::turnKeep:stalling
+are you successful in tennis:::propositionalQuestion
+uh:::turnKeep:stalling
+yes i am very successful:::propositionalAnswer
+are you serena williams:::guess
+no:::disconfirm
+very close:::inform:alloPositive
+but that is not the correct answer:::inform
+im venus williams:::inform
+ah okay:::autoPositive
+very close though:::alloPositive
+very good try:::congratulation
+okay:::autoPositive
+thank you:::thanking
+alright:::autoPositive:closing

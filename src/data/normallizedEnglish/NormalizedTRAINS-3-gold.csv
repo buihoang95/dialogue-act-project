@@ -1,0 +1,39 @@
+Data
+can i help you:::offer
+yes:::acceptOffer
+i'd like to take a tanker from corning and bring it to elmira:::inform
+alright:::autoPositive
+and from elmira i'd like to load orange juice into the tanker:::inform
+mm-hm:::autoPositive
+i'd like then to take the tanker back from elmira to corning:::inform
+the the:::stalling
+alright:::autoPositive
+now from corning what would be the quickest route to avon:::setQuestion
+uh:::stalling
+through dansville:::answer
+okay:::autoPositive
+then i'd like to take the tanker of orange juice through dansville and then on to avon:::inform
+alright:::autoPositive
+um:::turnKeep:stalling
+which engine would you like to use:::setQuestion
+engine e two:::answer
+alright:::autoPositive
+well:::turnTake:stalling
+will either one take me there any quicker:::propositionalQuestion
+uh:::stalling
+they're a they're:::selfCorrection
+no they're both the same:::answer
+okay:::autoPositive
+then i'll take engine e two:::inform
+alright:::autoPositive
+and:::turnTake
+the tankers move at the same speed:::setQuestion
+right:::confirm
+okay:::interactionStructuring
+so uh:::stalling
+the plan is to take engine e two to corning pick up a tanker back to elmira load it with orange juice and then to avon:::checkQuestion
+right:::confirm
+how long will that take:::setQuestion
+eleven hours:::answer
+okay:::interactionStructuring
+i am now finished:::interactionStructuring

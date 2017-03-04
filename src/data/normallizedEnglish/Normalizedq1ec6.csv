@@ -1,0 +1,151 @@
+Data
+nonvocal:::autoPositive:alloPositive
+go south and youll pass some cliffs on your right:::instruct
+okay:::acceptRequest
+yeah:::acceptRequest
+and keep going down south:::instruct
+mmhmm:::acceptRequest
+past a forge on your right:::instruct
+past a what:::setQuestion
+a forge:::answer
+well:::turnKeep
+nonvocal keep going down:::instruct
+right:::autoPositive:turnTake
+and then loop towards the east:::instruct
+underneath what wheatfields:::checkQuestion
+so i go straight:::checkQuestion
+not as far down as that:::disconfirm
+not as far down as that:::autoPositive
+no:::alloPositive
+right:::acceptRequest:autoPositive
+and do a loop:::autoPositive
+and do a loop:::alloPositive
+and then start going back up again:::instruct
+youre going northeast:::instruct
+right:::acceptRequest
+right:::autoPositive
+you theres a:::checkQuestion
+and am i come like between these cliffs and pine or:::choiceQuestion
+oh:::autoPositive
+you past the pine:::answer
+pines on your right:::inform
+right:::autoPositive
+okay:::acceptRequest
+and go up past it:::instruct
+til youre just above the top of the pine:::instruct
+right:::autoPositive
+okay:::acceptRequest
+and then east again:::instruct
+east again:::autoPositive
+east again:::alloPositive
+right:::autoPositive
+okay:::acceptRequest
+right:::autoPositive:turnRelease
+sorry:::apology
+right:::autoPositive:alloPositive
+right:::autoPositive
+right:::autoPositive:alloPositive:turnTake
+east:::instruct
+sort of for a wee bit:::inform
+um:::turnKeep:stalling
+and then start going southeast:::instruct
+right:::autoPositive
+okay:::acceptRequest
+pine forest on your way:::inform
+ehm:::autoNegative:turnTake:stalling
+yeah thats right:::agreement
+uh-huh:::agreement
+right:::autoPositive:alloPositive
+right okay:::acceptRequest
+til you get to just underneath pine forest:::instruct
+right:::acceptRequest
+and then start going south:::instruct
+okay:::acceptRequest
+and then go east again:::instruct
+and:::turnKeep:stalling
+you loop round about a bakery:::instruct
+yeah:::acceptRequest
+right:::autoPositive:alloPositive
+im going east underneath the bakery:::checkQuestion
+underneath the bakery:::confirm
+right:::autoPositive
+uh-huh right:::alloPositive
+okay:::acceptRequest
+and coming back round towards the west:::instruct
+whoa whoa:::autoNegative
+wait a minute:::pausing
+right:::autoPositive
+im coming down by the pine forest:::inform
+im going right straight down:::inform
+right:::agreement
+straight down:::selfCorrection
+and then you s:::checkQuestion
+til youre not:::inform
+til youre at the top of the bakery:::inform
+ah right:::autoPositive
+right:::alloPositive
+sorry:::apology
+right:::autoPositive
+okay:::acceptRequest
+and loop round a bit until youre underneath it:::instruct
+right:::autoPositive:turnKeep
+and then west:::instruct
+right:::autoPositive
+okay right got that:::acceptRequest
+right:::autoPositive
+and then down south:::instruct
+okay:::acceptRequest
+and theres a crane bay:::inform
+yeah:::agreement
+thats it:::checkQuestion
+right:::confirm
+uh-huh:::autoPositive
+and its got a:::inform
+can you curve:::propositionalQuestion
+follow the curve of crane bay:::instruct
+yeah:::answer
+right:::acceptRequest
+so youre going west:::checkQuestion
+uh-huh:::acceptRequest
+yep:::confirm
+right:::autoPositive:alloPositive:turnTake
+and then youre going southwest:::instruct
+um:::turnKeep:stalling
+mmhmm:::acceptRequest
+between the wheatfields and the warehouse:::inform
+between the two of them:::inform
+right:::autoPositive
+okay:::acceptRequest
+right:::autoPositive
+youre going:::instruct
+yep:::autoPositive:turnAssign
+and then like go west:::instruct
+right:::acceptRequest
+so youre between them:::checkQuestion
+between them:::selfCorrection
+between them:::confirm:alloPositive
+um:::turnKeep:stalling
+right:::autoPositive
+mmhmm:::autoPositive:alloPositive
+okay:::acceptRequest
+and then southwest towards the edge of the map:::instruct
+right:::autoPositive
+okay:::acceptRequest
+right:::autoPositive:alloPositive
+and then south:::instruct
+mm:::autoPositive
+right:::acceptRequest
+and then youre going east:::instruct
+um:::turnKeep:stalling
+you come to the lighthouse:::instruct
+so right down past the caves:::checkQuestion
+until you:::instruct
+then go east until you get to the lighthouse:::instruct
+right:::autoPositive
+okay:::acceptRequest
+right:::autoPositive:alloPositive
+thats the end:::inform
+above or below:::choiceQuestion
+laugh:::autoPositive
+at the side:::answer
+laugh:::autoPositive

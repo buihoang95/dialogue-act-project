@@ -1,0 +1,151 @@
+q1ec6-fs1,p1,p2,right,turnTake:opening
+q1ec6-fs2,p2,p1,nonvocal,autoPositive:alloPositive
+q1ec6-fs3,p1,p2,go south and youll pass some cliffs on your right,instruct
+q1ec6-fs4,p2,p1,okay,acceptRequest
+q1ec6-fs5,p2,p1,yeah,acceptRequest
+q1ec6-fs6,p1,p2,and keep going down south,instruct
+q1ec6-fs7,p2,p1,mmhmm,acceptRequest
+q1ec6-fs8,p1,p2,past a forge on your right,instruct
+q1ec6-fs9,p2,p1,past a what,setQuestion
+q1ec6-fs10,p1,p2,a forge,answer
+q1ec6-fs11,p1,p2,well,turnKeep
+q1ec6-fs12,p1,p2,nonvocal keep going down,instruct
+q1ec6-fs13,p1,p2,right,autoPositive:turnTake
+q1ec6-fs14,p1,p2,and then loop towards the east,instruct
+q1ec6-fs15,p2,p1,underneath what wheatfields,checkQuestion
+q1ec6-fs16,p2,p1,so i go straight,checkQuestion
+q1ec6-fs17,p1,p2,not as far down as that,disconfirm
+q1ec6-fs18,p2,p1,not as far down as that,autoPositive
+q1ec6-fs19,p1,p2,no,alloPositive
+q1ec6-fs20,p2,p1,right,acceptRequest:autoPositive
+q1ec6-fs21,p2,p1,and do a loop,autoPositive
+q1ec6-fs22,p1,p2,and do a loop,alloPositive
+q1ec6-fs23,p1,p2,and then start going back up again,instruct
+q1ec6-fs24,p1,p2,youre going northeast,instruct
+q1ec6-fs25,p2,p1,right,acceptRequest
+q1ec6-fs26,p1,p2,right,autoPositive
+q1ec6-fs27,p1,p2,you theres a,checkQuestion
+q1ec6-fs28,p2,p1,and am i come like between these cliffs and pine or,choiceQuestion
+q1ec6-fs29,p1,p2,oh,autoPositive
+q1ec6-fs30,p1,p2,you past the pine,answer
+q1ec6-fs31,p1,p2,pines on your right,inform
+q1ec6-fs32,p2,p1,right,autoPositive
+q1ec6-fs33,p2,p1,okay,acceptRequest
+q1ec6-fs34,p1,p2,and go up past it,instruct
+q1ec6-fs35,p1,p2,til youre just above the top of the pine,instruct
+q1ec6-fs36,p2,p1,right,autoPositive
+q1ec6-fs37,p2,p1,okay,acceptRequest
+q1ec6-fs38,p1,p2,and then east again,instruct
+q1ec6-fs39,p2,p1,east again,autoPositive
+q1ec6-fs40,p1,p2,east again,alloPositive
+q1ec6-fs41,p2,p1,right,autoPositive
+q1ec6-fs42,p2,p1,okay,acceptRequest
+q1ec6-fs43,p2,p1,right,autoPositive:turnRelease
+q1ec6-fs44,p2,p1,sorry,apology
+q1ec6-fs45,p1,p2,right,autoPositive:alloPositive
+q1ec6-fs46,p2,p1,right,autoPositive
+q1ec6-fs47,p1,p2,right,autoPositive:alloPositive:turnTake
+q1ec6-fs48,p1,p2,east,instruct
+q1ec6-fs49,p1,p2,sort of for a wee bit,inform
+q1ec6-fs50,p1,p2,um,turnKeep:stalling
+q1ec6-fs51,p1,p2,and then start going southeast,instruct
+q1ec6-fs52,p2,p1,right,autoPositive
+q1ec6-fs53,p2,p1,okay,acceptRequest
+q1ec6-fs54,p1,p2,pine forest on your way,inform
+q1ec6-fs55,p2,p1,ehm,autoNegative:turnTake:stalling
+q1ec6-fs56,p2,p1,yeah thats right,agreement
+q1ec6-fs57,p2,p1,uh-huh,agreement
+q1ec6-fs58,p1,p2,right,autoPositive:alloPositive
+q1ec6-fs59,p2,p1,right okay,acceptRequest
+q1ec6-fs60,p1,p2,til you get to just underneath pine forest,instruct
+q1ec6-fs61,p2,p1,right,acceptRequest
+q1ec6-fs62,p1,p2,and then start going south,instruct
+q1ec6-fs63,p2,p1,okay,acceptRequest
+q1ec6-fs64,p1,p2,and then go east again,instruct
+q1ec6-fs65,p1,p2,and,turnKeep:stalling
+q1ec6-fs66,p1,p2,you loop round about a bakery,instruct
+q1ec6-fs67,p2,p1,yeah,acceptRequest
+q1ec6-fs68,p1,p2,right,autoPositive:alloPositive
+q1ec6-fs69,p2,p1,im going east underneath the bakery,checkQuestion
+q1ec6-fs70,p1,p2,underneath the bakery,confirm
+q1ec6-fs71,p2,p1,right,autoPositive
+q1ec6-fs72,p1,p2,uh-huh right,alloPositive
+q1ec6-fs73,p2,p1,okay,acceptRequest
+q1ec6-fs74,p1,p2,and coming back round towards the west,instruct
+q1ec6-fs75,p2,p1,whoa whoa,autoNegative
+q1ec6-fs76,p2,p1,wait a minute,pausing
+q1ec6-fs77,p2,p1,right,autoPositive
+q1ec6-fs78,p2,p1,im coming down by the pine forest,inform
+q1ec6-fs79,p2,p1,im going right straight down,inform
+q1ec6-fs80,p1,p2,right,agreement
+q1ec6-fs81,p2,p1,straight down,selfCorrection
+q1ec6-fs82,p2,p1,and then you s--,checkQuestion
+q1ec6-fs83,p1,p2,til youre not,inform
+q1ec6-fs84,p1,p2,til youre at the top of the bakery,inform
+q1ec6-fs85,p2,p1,ah right,autoPositive
+q1ec6-fs86,p1,p2,right,alloPositive
+q1ec6-fs87,p2,p1,sorry,apology
+q1ec6-fs88,p2,p1,right,autoPositive
+q1ec6-fs89,p2,p1,okay,acceptRequest
+q1ec6-fs90,p1,p2,and loop round a bit until youre underneath it,instruct
+q1ec6-fs91,p1,p2,right,autoPositive:turnKeep
+q1ec6-fs92,p1,p2,and then west,instruct
+q1ec6-fs93,p2,p1,right,autoPositive
+q1ec6-fs94,p2,p1,okay right got that,acceptRequest
+q1ec6-fs95,p1,p2,right,autoPositive
+q1ec6-fs96,p1,p2,and then down south,instruct
+q1ec6-fs97,p2,p1,okay,acceptRequest
+q1ec6-fs98,p1,p2,and theres a crane bay,inform
+q1ec6-fs99,p2,p1,yeah,agreement
+q1ec6-fs100,p2,p1,thats it,checkQuestion
+q1ec6-fs101,p1,p2,right,confirm
+q1ec6-fs102,p2,p1,uh-huh,autoPositive
+q1ec6-fs103,p1,p2,and its got a,inform
+q1ec6-fs104,p1,p2,can you curve,propositionalQuestion
+q1ec6-fs105,p1,p2,follow the curve of crane bay,instruct
+q1ec6-fs106,p2,p1,yeah,answer
+q1ec6-fs107,p2,p1,right,acceptRequest
+q1ec6-fs108,p1,p2,so youre going west,checkQuestion
+q1ec6-fs109,p2,p1,uh-huh,acceptRequest
+q1ec6-fs110,p2,p1,yep,confirm
+q1ec6-fs111,p1,p2,right,autoPositive:alloPositive:turnTake
+q1ec6-fs112,p1,p2,and then youre going southwest,instruct
+q1ec6-fs113,p1,p2,um,turnKeep:stalling
+q1ec6-fs114,p2,p1,mmhmm,acceptRequest
+q1ec6-fs115,p1,p2,between the wheatfields and the warehouse,inform
+q1ec6-fs116,p1,p2,between the two of them,inform
+q1ec6-fs117,p2,p1,right,autoPositive
+q1ec6-fs118,p2,p1,okay,acceptRequest
+q1ec6-fs119,p1,p2,right,autoPositive
+q1ec6-fs120,p1,p2,youre going,instruct
+q1ec6-fs121,p2,p1,yep,autoPositive:turnAssign
+q1ec6-fs122,p1,p2,and then like go west,instruct
+q1ec6-fs123,p2,p1,right,acceptRequest
+q1ec6-fs124,p1,p2,so youre between them,checkQuestion
+q1ec6-fs125,p1,p2,between them,selfCorrection
+q1ec6-fs126,p2,p1,between them,confirm:alloPositive
+q1ec6-fs127,p1,p2,um,turnKeep:stalling
+q1ec6-fs128,p2,p1,right,autoPositive
+q1ec6-fs129,p1,p2,mmhmm,autoPositive:alloPositive
+q1ec6-fs130,p2,p1,okay,acceptRequest
+q1ec6-fs131,p1,p2,and then southwest towards the edge of the map,instruct
+q1ec6-fs132,p2,p1,right,autoPositive
+q1ec6-fs133,p2,p1,okay,acceptRequest
+q1ec6-fs134,p1,p2,right,autoPositive:alloPositive
+q1ec6-fs135,p1,p2,and then south,instruct
+q1ec6-fs136,p2,p1,mm,autoPositive
+q1ec6-fs137,p2,p1,right,acceptRequest
+q1ec6-fs138,p1,p2,and then youre going east,instruct
+q1ec6-fs139,p1,p2,um,turnKeep:stalling
+q1ec6-fs140,p1,p2,you come to the lighthouse,instruct
+q1ec6-fs141,p2,p1,so right down past the caves,checkQuestion
+q1ec6-fs142,p1,p2,until you,instruct
+q1ec6-fs143,p1,p2,then go east until you get to the lighthouse,instruct
+q1ec6-fs144,p2,p1,right,autoPositive
+q1ec6-fs145,p2,p1,okay,acceptRequest
+q1ec6-fs146,p1,p2,right,autoPositive:alloPositive
+q1ec6-fs147,p1,p2,thats the end,inform
+q1ec6-fs148,p2,p1,above or below,choiceQuestion
+q1ec6-fs149,p2,p1,laugh,autoPositive
+q1ec6-fs150,p1,p2,at the side,answer
+q1ec6-fs151,p1,p2,laugh,autoPositive

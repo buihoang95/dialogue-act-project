@@ -1,0 +1,202 @@
+sw01-0105-fs1,A,B,jimmy,turnAssign
+sw01-0105-fs2,A,B,so how do you get most of your news?,setQuestion
+sw01-0105-fs3,B,A,well,turnTake:stalling
+sw01-0105-fs4,B,A,i kind of i,selfCorrection
+sw01-0105-fs5,B,A,uh,stalling
+sw01-0105-fs6,B,A,i watch the national news every day for one,answer
+sw01-0105-fs7,B,A,uh,stalling
+sw01-0105-fs8,B,A,i also read one or two papers a day,answer
+sw01-0105-fs9,B,A,and,turnKeep
+sw01-0105-fs10,B,A,i'm a news junkie,inform
+sw01-0105-fs11,B,A,i'm a i'm pretty much a,selfCorrection
+sw01-0105-fs12,B,A,and,turnKeep
+sw01-0105-fs13,B,A,i tune in to cnn a lot,answer
+sw01-0105-fs14,A,B,oh  wow,autoPositive
+sw01-0105-fs15,A,B,so,turnKeep
+sw01-0105-fs16,A,B,when you say the morning news or evening news or national news is when? /,setQuestion
+sw01-0105-fs17,B,A,uh,turnTake:stalling
+sw01-0105-fs18,B,A,every evening at six thirty i believe i watch the national news,answer
+sw01-0105-fs19,A,B,oh,turnTake:stalling
+sw01-0105-fs20,A,B,okay,autoPositive
+sw01-0105-fs21,A,B,well,turnKeep:stalling
+sw01-0105-fs22,A,B,i would probably be a junkie or watch <laughter> cnn a lot,inform
+sw01-0105-fs23,A,B,s-  watch,selfCorrection
+sw01-0105-fs24,A,B,but,turnKeep
+sw01-0105-fs25,A,B,i don't subscribe to cable,inform
+sw01-0105-fs26,A,B,i don't uh i don't uh,stalling
+sw01-0105-fs27,B,A,uh-huh,autoPositive
+sw01-0105-fs28,A,B,be- because,stalling
+sw01-0105-fs29,A,B,because of the poor service and also because i give to the united way,inform
+sw01-0105-fs30,A,B,uh,stalling
+sw01-0105-fs31,A,B,well,turnKeep:stalling
+sw01-0105-fs32,A,B,i uh i,stalling
+sw01-0105-fs33,A,B,and so,turnKeep
+sw01-0105-fs34,A,B,i figured that amount of money i just donate to that,inform
+sw01-0105-fs35,B,A,uh-huh,autoPositive
+sw01-0105-fs36,B,A,as opposed to paying for cable,checkQuestion
+sw01-0105-fs37,A,B,yeah,confirm
+sw01-0105-fs38,A,B,i take away a addiction <laughter>,inform
+sw01-0105-fs39,A,B,uh,stalling
+sw01-0105-fs40,B,A,<laughter>,autoPositive
+sw01-0105-fs41,A,B,oh something,inform
+sw01-0105-fs42,B,A,yeah,agreement
+sw01-0105-fs43,A,B,well,turnTake
+sw01-0105-fs44,A,B,i,retraction
+sw01-0105-fs45,B,A,uh,stalling
+sw01-0105-fs46,B,A,i  i,retraction
+sw01-0105-fs47,B,A,overall the quality of the news you get of most sources i would say is pretty low,inform
+sw01-0105-fs48,B,A,o- off,stalling
+sw01-0105-fs49,B,A,uh,stalling
+sw01-0105-fs50,B,A,it's,retraction
+sw01-0105-fs51,B,A,usually you get pretty incomplete coverage,inform
+sw01-0105-fs52,B,A,and,turnKeep
+sw01-0105-fs53,B,A,that's one of the reasons why i try and get as many sources as possible,inform
+sw01-0105-fs54,B,A,where i  why i,selfCorrection
+sw01-0105-fs55,B,A,because if you hear the same story from three different sources then you get a much clearer picture of what is going on. you would hope,inform
+sw01-0105-fs56,B,A,of of,stalling
+sw01-0105-fs57,B,a,but,turnKeep
+sw01-0105-fs58,B,A,still you know hard to say that what you've heard is what really is,inform
+sw01-0105-fs59,A,B,oh,autoPositive:stalling
+sw01-0105-fs60,A,B,what,turnTake
+sw01-0105-fs61,A,B,what what uh,stalling
+sw01-0105-fs62,A,B,what newspapers do you read,setQuestion
+sw01-0105-fs63,B,A,well,turnTake
+sw01-0105-fs64,B,A,i read the local newspaper,answer
+sw01-0105-fs65,B,A,uh,stalling
+sw01-0105-fs66,B,A,and,turnKeep
+sw01-0105-fs67,B,A,i also try and read one of the major dailies like the chicago tribune or the new york times or something like that,answer
+sw01-0105-fs68,B,A,uh,stalling
+sw01-0105-fs69,A,B,uh-huh,autoPositive
+sw01-0105-fs70,A,B,for a while there i subscribed to new york times a couple of newspapers,inform
+sw01-0105-fs71,A,B,i i i uh,stalling
+sw01-0105-fs72,A,B,a- actually,stalling
+sw01-0105-fs73,A,B,uh you know,stalling
+sw01-0105-fs74,A,B,well,turnKeep
+sw01-0105-fs75,A,B,because my fiance - she was unemployed for a while,inform
+sw01-0105-fs76,A,B,so she really needed to look at the help wanted ads,inform
+sw01-0105-fs77,A,B,you know,stalling
+sw01-0105-fs78,A,B,the  <inhaling> the,stalling
+sw01-0105-fs79,A,B,want- help wanted,selfCorrection
+sw01-0105-fs80,B,A,uh-huh,autoPositive
+sw01-0105-fs81,A,B,and so often the newspapers are trying to compete with a lot of other sources of news,inform
+sw01-0105-fs82,A,B,they  they tr- the newspapers are,selfCorrection
+sw01-0105-fs83,A,B,newspape- uh news,stalling:selfCorrection
+sw01-0105-fs84,B,A,right,autoPositive
+sw01-0105-fs85,A,B,and,turnTake
+sw01-0105-fs86,A,B,i don't know,inform
+sw01-0105-fs87,A,B,new york times is okay,inform
+sw01-0105-fs88,A,B,but,turnKeep
+sw01-0105-fs89,A,B,uh,stalling
+sw01-0105-fs90,A,B,but when you read a lot of this stuff the quality of the writing has definitely gone down in the last ten years or so,inform
+sw01-0105-fs91,A,B,the the,stalling
+sw01-0105-fs92,A,B,but,turnKeep
+sw01-0105-fs93,B,A,uh-huh,autoPositive
+sw01-0105-fs94,A,B,uh i mean,stalling
+sw01-0105-fs95,A,B,they they,stalling
+sw01-0105-fs96,A,B,they say it's  like the sixth grade reading level,inform
+sw01-0105-fs97,A,B,but i swear it's at least second or third grade sometimes,inform
+sw01-0105-fs98,B,A,right. /,autoPositive
+sw01-0105-fs99,B,A,<laughter>,autoPositive
+sw01-0105-fs100,B,A,pretty low,autoPositive
+sw01-0105-fs101,A,B,<throat_clearing>,turnTake
+sw01-0105-fs102,A,B,but i don't know i think if you listen to like npr or something like,inform
+sw01-0105-fs103,A,B,uh,turnKeep:stalling
+sw01-0105-fs104,B,A,right,agreement
+sw01-0105-fs105,B,A,i i,stalling
+sw01-0105-fs106,B,A,i really like npr a lot,inform
+sw01-0105-fs107,A,B,that's pretty good.  /,agreement
+sw01-0105-fs108,A,B,uh,stalling
+sw01-0105-fs109,A,B,and,turnKeep
+sw01-0105-fs110,A,B,on on uh,stalling
+sw01-0105-fs111,A,B,i like listening to that when i get a chance when i'm in the car a long enough time to listen to it because i,inform
+sw01-0105-fs112,A,B,to to,stalling
+sw01-0105-fs113,B,A,right,agreement
+sw01-0105-fs114,B,A,yeah,agreement
+sw01-0105-fs115,B,A,i miss npr a lot also,inform
+sw01-0105-fs116,B,A,i really like them because they give instead of being as your newspaper or your tv news where you get a five minute blurb or a ten paragraph blurb they go really in depth on topics which i think is good,inform
+sw01-0105-fs117,B,A,uh,stalling
+sw01-0105-fs118,A,B,uh,turnTake:stalling
+sw01-0105-fs119,B,A,and,turnTake
+sw01-0105-fs120,B,A,they also,retraction
+sw01-0105-fs121,B,A,their editorial stand point seems to be a lot better than say your major network news and that kind of thing,inform
+sw01-0105-fs122,A,B,well,turnTake
+sw01-0105-fs123,A,B,mcneil neil,selfCorrection
+sw01-0105-fs124,A,B,neil and lehrer they're pretty good too,inform
+sw01-0105-fs125,A,B,i guess one of them is leaving,inform
+sw01-0105-fs126,A,B,he's leaving one of them is leaving,selfCorrection
+sw01-0105-fs127,B,A,uh-huh,autoPositive
+sw01-0105-fs128,A,B,uh,turnTake:stalling
+sw01-0105-fs129,A,B,they're they're,stalling
+sw01-0105-fs130,A,B,uh,turnKeep:stalling
+sw01-0105-fs131,A,B,i guess a year ago you're probably watching cnn a lot right?,checkQuestion
+sw01-0105-fs132,B,A,right <laughter>,confirm
+sw01-0105-fs133,B,A,yeah,confirm
+sw01-0105-fs134,A,B,had that invasion or whatever it is,inform
+sw01-0105-fs135,B,A,sure was,agreement
+sw01-0105-fs136,B,A,uh,turnTake:stalling
+sw01-0105-fs137,B,A,i i don't know,stalling
+sw01-0105-fs138,A,B,but i guess it's still a lot of hype,inform
+sw01-0105-fs139,A,B,a lot of it's still a lot of,selfCorrection
+sw01-0105-fs140,A,B,look at the smith trial,suggest
+sw01-0105-fs141,A,B,the the,stalling
+sw01-0105-fs142,B,A,uh-huh,autoPositive
+sw01-0105-fs143,A,B,i mean that was a joke,inform
+sw01-0105-fs144,B,A,yeah that was,agreement
+sw01-0105-fs145,B,A,but,turnKeep
+sw01-0105-fs146,B,A,but then you also have things where they broadcast the clarence thomas hearings basically the whole length of them which i thought was really good,inform
+sw01-0105-fs147,B,A,where you where they,selfCorrection
+sw01-0105-fs148,B,A,uh,stalling
+sw01-0105-fs149,B,A,r- really,stalling
+sw01-0105-fs150,A,B,oh yeah the npr doing that yeah i know,agreement
+sw01-0105-fs151,A,B,i had some visitor he was just i don't know fixated on that just listened to it constantly,inform
+sw01-0105-fs152,A,B,uh,stalling
+sw01-0105-fs153,A,B,and,turnKeep
+sw01-0105-fs154,A,B,just in- just,selfCorrection
+sw01-0105-fs155,B,A,uh-uh,autoPositive
+sw01-0105-fs156,A,B,uh,turnKeep:stalling
+sw01-0105-fs157,A,B,and i guess that's good when it's live if you'll really want that,inform
+sw01-0105-fs158,A,B,if you if you'll,selfCorrection
+sw01-0105-fs159,A,B,but,turnKeep
+sw01-0105-fs160,A,B,but that's not really providing you news,inform
+sw01-0105-fs161,B,A,right,agreement
+sw01-0105-fs162,A,B,it's it's,stalling
+sw01-0105-fs163,A,B,it's more like a media event rather than reporting,inform
+sw01-0105-fs164,B,A,well,stalling
+sw01-0105-fs165,B,A,but the news that you would get from any other source is being generated from that event which is something that's good also about c span which i tune into every once in a while,inform
+sw01-0105-fs166,B,A,ne- news news,stalling
+sw01-0105-fs167,B,A,i i,stalling
+sw01-0105-fs168,A,B,oh,stalling
+sw01-0105-fs169,A,B,really,autoPositive
+sw01-0105-fs170,A,B,that's kind of boring to me i think,inform
+sw01-0105-fs171,B,A,yeah it is really kind of boring,agreement
+sw01-0105-fs172,B,A,it it,stalling
+sw01-0105-fs173,B,A,but,turnKeep
+sw01-0105-fs174,B,A,you know,stalling
+sw01-0105-fs175,B,A,but that's if you don't watch it there then you're going to hear somebody else's canned report somebody else's view about it,inform
+sw01-0105-fs176,B,A,if if,stalling
+sw01-0105-fs177,B,A,uh,stalling
+sw01-0105-fs178,B,A,and,turnKeep
+sw01-0105-fs179,B,A,that's what you're supposed to,retraction
+sw01-0105-fs180,B,A,you're supposed you're supposed,stalling
+sw01-0105-fs181,B,A,if you watch the news your opinion is going to be formed on what somebody else thought about it,inform
+sw01-0105-fs182,B,A,you're going your opinion is going,selfCorrection
+sw01-0105-fs183,B,A,about on,selfCorrection
+sw01-0105-fs184,A,B,yeah,agreement
+sw01-0105-fs185,B,A,as opposed to actually watching it yourself and forming your own opinion which i would  be much more in favor of forming my own opinion as opposed to following someone else's,inform
+sw01-0105-fs186,B,A,pinion opinion,selfCorrection
+sw01-0105-fs187,B,A,haven't would,selfCorrection
+sw01-0105-fs188,A,B,yeah,agreement
+sw01-0105-fs189,A,B,i guess that's true,inform
+sw01-0105-fs190,A,B,but,turnTake
+sw01-0105-fs191,A,B,one of the ways that i get information is every day when i log in on the computer i subscribe to this thing,inform
+sw01-0105-fs192,A,B,uh,stalling
+sw01-0105-fs193,A,B,this this,stalling
+sw01-0105-fs194,A,B,it's free inside the company,inform
+sw01-0105-fs195,A,B,it's called intellect,inform
+sw01-0105-fs196,A,B,and,turnKeep
+sw01-0105-fs197,A,B,and and,stalling
+sw01-0105-fs198,A,B,uh,stalling
+sw01-0105-fs199,A,B,they basically type out abstracts which are really literally -,inform
+sw01-0105-fs200,A,B,i've i've,stalling
+sw01-0105-fs201,A,B,i've actually read the actual articles,inform
+sw01-0105-fs202,A,B,they're pretty g,inform

@@ -1,0 +1,86 @@
+Data
+hello:::opening:returnGreeting
+uh:::turnTake:stalling
+whats your name:::setQuestion
+my name is gregor linn:::setAnswer
+nice to meet you:::autoPositive:initGreeting
+nice to meet you:::autoPositive:returnGreeting
+uh:::turnTake:stalling
+how are you doing today:::setQuestion
+mh:::turnAccept
+fine:::setAnswer
+im doing well too:::autoPositive:inform
+uh:::turnKeep:stalling
+so first ill tell you the rules:::interactionStructuring
+okay:::autoPositive
+uh:::turnKeep:stalling
+okay:::autoPositive
+okay:::autoPositive
+okay i understand:::autoPositive
+okay:::autoPositive
+and:::turnGrab
+mhm:::autoPositive:turnRelease
+uh is:::turnKeep:stalling
+is:::selfCorrection
+uhm:::turnAccept:stalling
+could you repeat the questions:::autoNegative
+could you clarify the question:::autoNegative
+uhm:::turnTake:stalling
+uh:::turnKeep:stalling
+no:::turnGrab
+i will:::selfCorrection
+okay:::autoPositive
+uhm:::turnKeep:stalling
+uh:::turnKeep:stalling
+okay:::autoPositive
+uhm:::turnKeep:stalling
+alright:::interactionStructuring
+would you:::selfCorrection
+mh:::turnKeep:stalling
+alright:::autoPositive
+alright and one more important thing:::interactionStructuring
+uh:::turnKeep:stalling
+ah okay:::autoPositive
+mhm:::alloPositive
+alright:::autoPositive:interactionStructuring
+alright uh:::turnKeep
+uh:::stalling
+so lets start:::suggest
+what is your first question:::setQuestion
+are you still alive:::propositionalQuestion
+no i am not:::propositionalAnswer
+mhm:::autoPositive:turnTake
+uhm:::turnKeep:stalling
+uh:::turnTake:stalling
+are you from germany:::propositionalQuestion
+no i am not from germany:::propositionalAnswer
+uhm:::turnTake:stalling
+are you from america:::propositionalQuestion
+no i am not from america:::propositionalAnswer
+uh:::turnTake:stalling
+what were you doing when you were alive:::setQuestion
+ehm:::turnTake:stalling
+let me think for a minute:::pausing
+uhm:::turnKeep:stalling
+i was:::setAnswer
+i was a princess:::setAnswer
+i was:::selfCorrection
+when i was alive:::setAnswer
+and where are you from:::setQuestion
+i am from england:::setAnswer
+okay:::autoPositive
+uhm:::turnKeep:stalling
+uh:::turnKeep:stalling
+where did you die:::setQuestion
+just a second:::turnKeep:pausing
+uhm:::turnKeep:stalling
+i died in paris:::setAnswer
+mhm:::autoPositive
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+you are princess diana:::guess
+uh:::turnKeep:stalling
+yes:::confirm
+that is the correct answer:::inform
+good job:::alloPositive:closing:congratulation
+okay:::autoPositive:closing

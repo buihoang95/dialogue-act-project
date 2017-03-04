@@ -1,0 +1,58 @@
+venus-fs1,p1,p2,hello again,opening:initGreeting
+venus-fs2,p2,p1,hello,opening:returnGreeting
+venus-fs3,p1,p2,ready to start with the next round,checkQuestion
+venus-fs4,p2,p1,mhm,confirm
+venus-fs5,p1,p2,alright,autoPositive:alloPositive
+venus-fs6,p1,p2,do you still remember all of the rules,
+venus-fs7,p2,p1,yes,
+venus-fs8,p1,p2,great,autoPositive:alloPositive
+venus-fs9,p1,p2,alright,interactionStructuring
+venus-fs10,p1,p2,uhm,turnKeep:stalling
+venus-fs11,p1,p2,lets get started then,suggest
+venus-fs12,p1,p2,what is your first question,setQuestion
+venus-fs13,p2,p1,uh,turnAccept:stalling
+venus-fs14,p2,p1,uhm,turnKeep:stalling
+venus-fs15,p2,p1,uhm,turnKeep:stalling
+venus-fs16,p2,p1,what is your mother tongue,setQuestion
+venus-fs17,p2,p1,uh,turnKeep:stalling
+venus-fs18,p2,p1,uh,turnKeep:stalling
+venus-fs19,p1,p2,my mother tongue is english,setAnswer
+venus-fs20,p2,p1,uhm,turnTake:stalling
+venus-fs21,p2,p1,where are you from,setQuestion
+venus-fs22,p1,p2,i am from the united states,setAnswer
+venus-fs23,p2,p1,and youre still alive,propositionalQuestion
+venus-fs24,p2,p1,and,turnTake:stalling
+venus-fs25,p1,p2,yes i am still alive,propositionalAnswer
+venus-fs26,p2,p1,and how old are you,setQuestion
+venus-fs27,p2,p1,and,turnTake:stalling
+venus-fs28,p1,p2,i am thirty three,setAnswer
+venus-fs29,p1,p2,thirty,selfCorrection
+venus-fs30,p1,p2,thirty three years old,setAnswer
+venus-fs31,p2,p1,yeah,autoPositive
+venus-fs32,p2,p1,uhm,turnKeep:stalling
+venus-fs33,p2,p1,and what are you doing,setQuestion
+venus-fs34,p2,p1,and,turnTake:stalling
+venus-fs35,p1,p2,i am a professional tennis player,setAnswer
+venus-fs36,p2,p1,okay,autoPositive:turnTake
+venus-fs37,p2,p1,does your first name start with an s,propositionalQuestion
+venus-fs38,p2,p1,with an,selfCorrection
+venus-fs39,p1,p2,im not sure if i can answer that question,inform
+venus-fs40,p1,p2,no i cant answer that question,answer:inform
+venus-fs41,p2,p1,okay,autoPositive
+venus-fs42,p2,p1,uhm,turnKeep:stalling
+venus-fs43,p2,p1,mmh,turnKeep:stalling
+venus-fs44,p2,p1,uh,turnKeep:stalling
+venus-fs45,p2,p1,are you successful in tennis,propositionalQuestion
+venus-fs46,p2,p1,uh,turnKeep:stalling
+venus-fs47,p1,p2,yes i am very successful,propositionalAnswer
+venus-fs48,p2,p1,are you serena williams,guess
+venus-fs49,p1,p2,no,disconfirm
+venus-fs50,p1,p2,very close,inform:alloPositive
+venus-fs51,p1,p2,but that is not the correct answer,inform
+venus-fs52,p1,p2,im venus williams,inform
+venus-fs53,p2,p1,ah okay,autoPositive
+venus-fs54,p1,p2,very close though,alloPositive
+venus-fs55,p1,p2,very good try,congratulation
+venus-fs56,p2,p1,okay,autoPositive
+venus-fs57,p2,p1,thank you,thanking
+venus-fs58,p1,p2,alright,autoPositive:closing

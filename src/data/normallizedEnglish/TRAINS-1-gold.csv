@@ -1,0 +1,111 @@
+TRAINS1-fs1,S,U,hello,opening:initialGreeting
+TRAINS1-fs2,S,U,can i help you,offer
+TRAINS1-fs3,U,S,yeah,acceptOffer
+TRAINS1-fs4,U,S,i want t-,stalling
+TRAINS1-fs5,U,S,i want to determine the maximum number of boxcars of oranges that i can get to bath by seven a.m. tomorrow,inform
+TRAINS1-fs6,U,S,so,turnKeep
+TRAINS1-fs7,U,S,voc_breath hm ... so,stalling
+TRAINS1-fs8,U,S,i guess all the boxcars will have to go through corning,inform
+TRAINS1-fs9,U,S,because that's where the orange juice factory is,inform
+TRAINS1-fs10,U,S,voc_breath,turnKeep:stalling
+TRAINS1-fs11,U,S,orange factory,selfCorrection
+TRAINS1-fs12,U,S,so,turnKeep
+TRAINS1-fs13,U,S,from corning to bath how far is that,setQuestion:turnAssign
+TRAINS1-fs14,S,U,two hours,answer
+TRAINS1-fs15,U,S,and it's gonna take us also an hour to load boxcars right,checkQuestion:turnAssign
+TRAINS1-fs16,S,U,right,confirm
+TRAINS1-fs17,U,S,okay,autoPositive:turnTake
+TRAINS1-fs18,U,S,so,turnKeep
+TRAINS1-fs19,U,S,… hm so,stalling
+TRAINS1-fs20,U,S,every trip will take at least three hours then,checkQuestion
+TRAINS1-fs21,U,S,... um,turnKeep:stalling
+TRAINS1-fs22,S,U,right,confirm
+TRAINS1-fs23,S,U,we can unload any amount of cargo onto a train in one hour,inform
+TRAINS1-fs24,S,U,so,turnKeep
+TRAINS1-fs25,S,U,we can do a maximum of three boxcars in an hour,inform
+TRAINS1-fs26,U,S,right,autoPositive
+TRAINS1-fs27,U,S,okay,autoPositive
+TRAINS1-fs28,U,S,okay,autoPositive
+TRAINS1-fs29,U,S,so,turnKeep
+TRAINS1-fs30,U,S,i guess one thing we can do,suggest
+TRAINS1-fs31,U,S,oh,selfError
+TRAINS1-fs32,U,S,voc_breath so voc_breath,turnKeep:stalling
+TRAINS1-fs33,U,S,i guess one thing is that we should see how many boxcars we can actually get to corning in four hours,suggest
+TRAINS1-fs34,U,S,um,turnKeep:stalling
+TRAINS1-fs35,U,S,how far is it from avon to bath,setQuestion
+TRAINS1-fs36,U,S,to corning,selfCorrection
+TRAINS1-fs37,S,U,voc_click voc_breath,autoPositive:turnTake
+TRAINS1-fs38,S,U,that's six hours,answer
+TRAINS1-fs39,S,U,it's shorter through dansville,inform
+TRAINS1-fs40,U,S,okay,autoPositive
+TRAINS1-fs41,U,S,from avon,autoPositive
+TRAINS1-fs42,U,S,oh no,selfError
+TRAINS1-fs43,U,S,but the thing is that i was thinking if we could actually pick up those two boxcars which are at bath,inform
+,U,S,s- i was wondering,
+TRAINS1-fs44,S,U,mm,autoPositive
+TRAINS1-fs45,U,S,but i think that we can't even put them in to,inform
+TRAINS1-fs46,U,S,voc_breath,turnKeep:stalling
+TRAINS1-fs47,U,S,that they won't even come in to,inform:selfCorrection
+TRAINS1-fs48,U,S,unless,retraction
+TRAINS1-fs49,U,S,how far is it from elmira to bath voc_breath,setQuestion
+TRAINS1-fs50,S,U,two hours,answer
+TRAINS1-fs51,U,S,oh really,autoPositive
+TRAINS1-fs52,U,S,so then,turnKeep
+TRAINS1-fs53,U,S,we could actually take like engine e,inform
+TRAINS1-fs54,U,S,voc_breath,turnKeep:stalling
+TRAINS1-fs55,U,S,have it go to bath pick up those two box cars,inform
+TRAINS1-fs56,U,S,take it to corn-,retraction
+TRAINS1-fs57,U,S,how long from bath to corning,setQuestion
+TRAINS1-fs58,U,S,an hour i guess,checkQuestion
+TRAINS1-fs59,S,U,two hours,answer
+TRAINS1-fs60,U,S,oh wait a second,autoPositive
+TRAINS1-fs61,U,S,i thought well from like elmira through to corning to bath is many hours,setQuestion
+TRAINS1-fs62,U,S,voc_breath,stalling
+TRAINS1-fs63,S,U,four hours,answer
+TRAINS1-fs64,U,S,oh that's four hours,autoPositive
+TRAINS1-fs65,U,S,so we're like screwed as far as those two box cars at bath,inform
+,U,S,wa-,
+,U,S,tho-,
+TRAINS1-fs66,U,S,like i don't think we so to get the maximum number of box cars of oranges to bath by seven am i don't think we can even use those two at bath,inform
+,U,S,i don-,
+,U,S,s-,
+TRAINS1-fs67,U,S,voc_breath,turnKeep:stalling
+,U,S,because there we,
+TRAINS1-fs68,U,S,because we can't get an engine to bath in time,inform
+TRAINS1-fs69,S,U,that's right,agreement
+TRAINS1-fs70,U,S,okay,autoPositive:turnTake
+TRAINS1-fs71,U,S,voc_breath so,turnKeep
+TRAINS1-fs72,U,S,we have the three boxcars at dansville,inform
+TRAINS1-fs73,U,S,so,turnKeep
+TRAINS1-fs74,U,S,how far is it from avon to danville,setQuestion
+TRAINS1-fs75,S,U,three hours,answer
+TRAINS1-fs76,U,S,three hours,autoPositive
+TRAINS1-fs77,U,S,then from dansville to corning,SetQuestion
+TRAINS1-fs78,S,U,one hour,answer
+TRAINS1-fs79,U,S,okay,autoPositive:turnTake
+TRAINS1-fs80,U,S,so we can actually use those three boxcars right,checkQuestion:turnAssign
+TRAINS1-fs81,S,U,mm-hm,confirm
+TRAINS1-fs82,U,S,okay,autoPositive:turnTake
+TRAINS1-fs83,U,S,so that's three boxcars,inform
+TRAINS1-fs84,U,S,okay,turnKeep
+TRAINS1-fs85,U,S,so that's engine e one from avon going to dansville pick up the three boxcars go to corning load them up and then take it to bath,inform
+TRAINS1-fs86,U,S,okay,turnKeep
+TRAINS1-fs87,U,S,so that's good,inform
+TRAINS1-fs88,U,S,voc_breath so,turnKeep
+TRAINS1-fs89,U,S,then i guess we can also take like engine e two with those two boxcars from elmira take it to corning,inform
+TRAINS1-fs90,U,S,so elmira to corning is two hours,checkQuestion
+TRAINS1-fs91,S,U,mm-hm,confirm
+TRAINS1-fs92,U,S,okay,autoPositive:turnTake
+TRAINS1-fs93,U,S,voc_breath and,turnKeep
+TRAINS1-fs94,U,S,okay,turnKeep
+TRAINS1-fs95,U,S,voc_breath so,turnKeep:stalling
+TRAINS1-fs96,U,S,yeah that should also work,inform
+TRAINS1-fs97,S,U,mm-hm,agreement
+TRAINS1-fs98,U,S,so,turnTake
+,U,S,le-,
+TRAINS1-fs99,U,S,so did you wanna repeat that plan,request:turnAssign
+TRAINS1-fs100,S,U,okay,acceptRequest:turnAccept
+TRAINS1-fs101,S,U,engine one goes to dansville picks up three boxcars goes to corning is loaded with oranges and goes to bath engine e two picks takes the two boxcars at elmira to corning where they're loaded with oranges and then takes them to bath,inform
+TRAINS1-fs102,U,S,okay,alloPositive
+TRAINS1-fs103,U,S,so that gives us a maximum number of five,inform
+TRAINS1-fs104,U,S,okay,interactionStructuring

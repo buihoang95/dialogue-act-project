@@ -1,0 +1,84 @@
+TRAINS2-fs1,S,U,hello,opening:initialGreeting
+TRAINS2-fs2,S,U,can i help you,offer
+TRAINS2-fs3,U,S,i have a problem i need to transport two tankers of oj to avon and three boxcars of bananas to elmira the bananas must arrive in elmira by nine p.m.",yes:acceptOffer
+TRAINS2-fs4,U,S,i have a problem i need to transport two tankers of oj to avon and three boxcars of bananas to elmira,inform
+TRAINS2-fs5,U,S,the bananas must arrive in elmira by nine p.m,inform
+TRAINS2-fs6,S,U,okay,autoPositive
+TRAINS2-fs7,U,S,um,turnTake:stalling
+TRAINS2-fs8,U,S,i can only use engine two,inform
+TRAINS2-fs9,S,U,okay,autoPositive
+TRAINS2-fs10,U,S,so … voc noise,turnTake:stalling
+TRAINS2-fs11,U,S,and i can only use engine two it's all the way over here,inform
+TRAINS2-fs12,U,S,and ..,turnKeep:stalling
+TRAINS2-fs13,U,S,two tankers of oj to avon would mean i take engine two and take the two b- from elmira and bring them over and pick up two and bring them back to elmira to fill with oj,inform
+TRAINS2-fs14,U,S,avon,
+TRAINS2-fs15,U,S,voc click,turnKeep
+TRAINS2-fs16,S,U,mm-hm,autoPositive
+TRAINS2-fs17,U,S,over,
+TRAINS2-fs18,U,S,voc click,turnKeep
+TRAINS2-fs19,S,U,okay,autoPositive:turnTake
+TRAINS2-fs20,S,U,do you wanna load the boxcars while you're in corning,propositionalQuestion
+TRAINS2-fs21,U,S,yes,answer
+TRAINS2-fs22,S,U,okay,autoPositive
+TRAINS2-fs23,U,S,and,turnTake
+,U,S,then make,
+TRAINS2-fs24,U,S,then make the oj in elmira with engine two and take it from elmira to corning to dansville to avon,instruct
+TRAINS2-fs25,S,U,okay,autoPositive
+TRAINS2-fs26,S,U,do you wanna take the boxcars with you or do you want to leave them in elmira,choiceQuestion:turnAssign
+TRAINS2-fs27,U,S,uh …,turnAccept:stalling
+TRAINS2-fs28,U,S,i will take them with me,answer
+TRAINS2-fs29,S,U,okay,autoPositive
+TRAINS2-fs30,S,U,so you wanna go from elmira,checkQuestion
+TRAINS2-fs31,U,S,to avon,completion
+TRAINS2-fs32,S,U,okay,autoPositive
+TRAINS2-fs33,S,U,by which way,setQuestion
+TRAINS2-fs34,U,S,uh,turnTake:stalling
+TRAINS2-fs35,U,S,t-,stalling
+TRAINS2-fs36,U,S,to corning,answer
+TRAINS2-fs37,U,S,let me see,pausing
+TRAINS2-fs38,U,S,let me think,pausing
+TRAINS2-fs39,U,S,voc mumble .. voc click ..,stalling
+TRAINS2-fs40,U,S,yeah to corning to dansville to avon,answer
+TRAINS2-fs41,S,U,okay then that way,it's now noon when you arrive in Avon":okay:autoPositive:turnTake
+TRAINS2-fs42,S,U,okay then that way,autoPositive
+TRAINS2-fs43,S,U,it's now noon when you arrive in avon,inform
+TRAINS2-fs44,U,S,okay that's fine,autoPositive
+TRAINS2-fs45,U,S,i guess i still have nine hours,inform
+TRAINS2-fs46,S,U,okay,autoPositive
+TRAINS2-fs47,U,S,um,turnTake:stalling
+,U,S,but i need,
+TRAINS2-fs48,U,S,oh oh wait,pausing
+TRAINS2-fs49,U,S,i have something else to say,inform
+TRAINS2-fs50,U,S,i when i hit- when i reach,selfCorrection
+TRAINS2-fs51,U,S,"when i reach,when I reach":stalling
+TRAINS2-fs52,U,S,when i reach dansville i wanna pick up one more boxcar,inform
+TRAINS2-fs53,S,U,mm-hm,autoPositive
+TRAINS2-fs54,U,S,f- .. uh,turnTake:stalling
+TRAINS2-fs55,S,U,okay,autoPositive
+TRAINS2-fs56,U,S,and,turnKeep
+TRAINS2-fs57,U,S,bring it with me with the other two to avon,inform
+TRAINS2-fs58,S,U,okay,autoPositive
+TRAINS2-fs59,U,S,then,turnKeep
+TRAINS2-fs60,U,S,in avon i want to load three box- drop off the one engine drop off the two tankers of oj,inform
+TRAINS2-fs61,U,S,the one tanker the two tankers,selfCorrection
+TRAINS2-fs62,U,S,of oranges and of oj actually,selfCorrection
+TRAINS2-fs63,U,S,load those three,inform
+TRAINS2-fs64,S,U,mm-hm,autoPositive
+TRAINS2-fs65,U,S,the two tankers,inform:selfCorrection
+TRAINS2-fs66,U,S,of ..,stalling
+TRAINS2-fs67,U,S,and,turnKeep
+TRAINS2-fs68,U,S,fill up the three boxcars with bananas,inform
+TRAINS2-fs69,S,U,okay,autoPositive
+TRAINS2-fs70,U,S,and,turnKeep
+TRAINS2-fs71,U,S,bring them back to elmira,inform
+TRAINS2-fs72,S,U,which way do we wanna go,setQuestion
+TRAINS2-fs73,U,S,uh,turnTake:stalling
+TRAINS2-fs74,U,S,to dansville to corning to elmira,answer
+TRAINS2-fs75,S,U,okay,autoPositive:stalling
+TRAINS2-fs76,S,U,let's see,turnKeep:pausing
+TRAINS2-fs77,S,U,four p.m,inform
+TRAINS2-fs78,S,U,four p.m,inform:stalling
+TRAINS2-fs79,S,U,okay,turnKeep
+TRAINS2-fs80,S,U,we'll get there by seven p.m,inform
+TRAINS2-fs81,U,S,okay great,interactionStructuring
+TRAINS2-fs82,U,S,i am now finished,inform

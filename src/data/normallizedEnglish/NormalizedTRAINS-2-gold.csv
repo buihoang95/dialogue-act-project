@@ -1,0 +1,79 @@
+Data
+can i help you:::offer
+i have a problem i need to transport two tankers of oj to avon and three boxcars of bananas to elmira the bananas must arrive in elmira by nine p.m:::yes:acceptOffer
+i have a problem i need to transport two tankers of oj to avon and three boxcars of bananas to elmira:::inform
+the bananas must arrive in elmira by nine p.m:::inform
+okay:::autoPositive
+um:::turnTake:stalling
+i can only use engine two:::inform
+okay:::autoPositive
+so … voc noise:::turnTake:stalling
+and i can only use engine two it's all the way over here:::inform
+and:::turnKeep:stalling
+two tankers of oj to avon would mean i take engine two and take the two b- from elmira and bring them over and pick up two and bring them back to elmira to fill with oj:::inform
+voc click:::turnKeep
+mm-hm:::autoPositive
+voc click:::turnKeep
+okay:::autoPositive:turnTake
+do you wanna load the boxcars while you're in corning:::propositionalQuestion
+yes:::answer
+okay:::autoPositive
+and:::turnTake
+then make the oj in elmira with engine two and take it from elmira to corning to dansville to avon:::instruct
+okay:::autoPositive
+do you wanna take the boxcars with you or do you want to leave them in elmira:::choiceQuestion:turnAssign
+uh …:::turnAccept:stalling
+i will take them with me:::answer
+okay:::autoPositive
+so you wanna go from elmira:::checkQuestion
+to avon:::completion
+okay:::autoPositive
+by which way:::setQuestion
+uh:::turnTake:stalling
+t:::stalling
+to corning:::answer
+let me see:::pausing
+let me think:::pausing
+voc mumble .. voc click:::stalling
+yeah to corning to dansville to avon:::answer
+okay then that way:::it's
+okay then that way:::autoPositive
+it's now noon when you arrive in avon:::inform
+okay that's fine:::autoPositive
+i guess i still have nine hours:::inform
+okay:::autoPositive
+um:::turnTake:stalling
+oh oh wait:::pausing
+i have something else to say:::inform
+i when i hit- when i reach:::selfCorrection
+when i reach dansville i wanna pick up one more boxcar:::inform
+mm-hm:::autoPositive
+f- .. uh:::turnTake:stalling
+okay:::autoPositive
+and:::turnKeep
+bring it with me with the other two to avon:::inform
+okay:::autoPositive
+then:::turnKeep
+in avon i want to load three box- drop off the one engine drop off the two tankers of oj:::inform
+the one tanker the two tankers:::selfCorrection
+of oranges and of oj actually:::selfCorrection
+load those three:::inform
+mm-hm:::autoPositive
+the two tankers:::inform:selfCorrection
+of:::stalling
+and:::turnKeep
+fill up the three boxcars with bananas:::inform
+okay:::autoPositive
+and:::turnKeep
+bring them back to elmira:::inform
+which way do we wanna go:::setQuestion
+uh:::turnTake:stalling
+to dansville to corning to elmira:::answer
+okay:::autoPositive:stalling
+let's see:::turnKeep:pausing
+four p.m:::inform
+four p.m:::inform:stalling
+okay:::turnKeep
+we'll get there by seven p.m:::inform
+okay great:::interactionStructuring
+i am now finished:::inform

@@ -1,0 +1,115 @@
+Data
+alright hello again:::opening
+hello again:::initGreeting
+hello:::opening:returnGreeting
+great:::autoPositive:alloPositive
+uh:::turnKeep:stalling
+uh:::turnAccept:stalling
+okay:::autoPositive:alloPositive
+so you know all of the rules:::checkQuestion
+yes i do:::confirm
+great:::autoPositive:alloPositive
+alright:::turnKeep
+what is your first question:::setQuestion
+uh:::turnAccept:stalling
+what are you famous for:::setQuestion
+uhm:::turnAccept:stalling
+i am famous for being one of the wealthiest and most powerful women in western europe during the middle ages:::setAnswer
+laugh:::autoPositive
+are you part of the royalty or were you part of the royalty rather:::choiceQuestion
+yes i was:::answer
+which country $unintelligible:::setQuestion
+yeah:::pausing
+uh:::turnAccept:stalling
+france:::setAnswer
+france:::autoPositive
+uh:::turnKeep:stalling
+okay:::autoPositive:turnKeep
+do i know any french which:::autoPositive
+during which years exactly did you reign:::setQuestion
+uhm:::turnAccept:stalling
+could you clarify:::autoNegative
+okay:::acceptRequest
+uh:::turnKeep:stalling
+while you were at the peak of your power which position did you occupy in the country:::setQuestion
+uh:::turnKeep:stalling
+which position:::selfCorrection
+uhm:::turnAccept:stalling
+i was the queen consort of france and later the queen consort of england:::setAnswer
+okay:::autoPositive:turnTake
+and during which year were you the queen consort of england:::setQuestion
+uhm:::turnKeep:stalling
+years:::selfCorrection
+from eleven fifty four to eleven eighty nine:::setAnswer
+okay:::autoPositive:turnTake
+uh:::turnKeep:stalling
+wait:::request
+now how do i ask that:::autoPositive
+how do:::selfCorrection
+now that does not work:::autoNegative
+okay:::turnKeep:stalling
+how did you die:::setQuestion
+just a minute:::turnAccept:pausing
+i dont have an answer to that question:::inform
+okay:::autoPositive
+who was your husband during your time as queen regent of england:::setQuestion
+uh:::turnAccept:stalling
+just a minute:::turnKeep:pausing
+i was:::setAnswer
+uh just a second:::turnKeep
+uh:::stalling
+just a second:::pausing
+yes:::autoPositive
+sil i was married to henry duke of normandy who became king henry the second of england:::setAnswer
+sil i was:::selfCorrection
+uhm:::turnKeep:stalling
+king:::selfCorrection
+ok:::autoPositive:turnTake
+uhm:::turnKeep:stalling
+what are you most known for in history of humankind:::setQuestion
+if its not too general for a question:::inform
+that is a very good question:::alloPositive
+im not sure if i can answer it:::inform
+give me just a second:::turnKeep:request
+not sure that i can fully answer that question:::inform
+okay:::autoPositive:turnTake
+can you name one thing that many people know that you did:::setQuestion
+mh:::turnAccept:stalling
+i was married to two kings and i participated in the second crusade while queen of france:::setAnswer
+okay:::autoPositive:turnTake
+uh:::turnKeep:stalling
+uh:::turnKeep:stalling
+did you have any religious epiphanies:::propositionalQuestion
+uhm:::turnAccept:stalling
+documented:::propositionalQuestion:selfCorrection
+i dont have an answer to that question:::inform
+okay:::autoPositive:turnTake
+uhm:::turnKeep:stalling
+are you more famous for your time in england or in france:::choiceQuestion
+unfortunately im not sure how to answer that question:::answer:inform
+are you considered a hero by some:::propositionalQuestion
+that is possible:::propositionalAnswer
+but i dont have a answer to that question:::inform
+okay:::autoPositive:turnTake
+uhm:::turnKeep:stalling
+sorry:::apology
+yeah:::alloPositive:acceptApology
+youre not giving me a lot to work with:::alloNegative
+i know:::agreement
+okay:::autoPositive:turnTake
+uhm:::turnKeep:stalling
+wait:::request
+no:::correction
+yeah:::autoPositive
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+nah i dont think i know her:::inform
+mkay:::autoPositive
+alright:::turnAccept
+my name is eleanor of aquitaine:::inform
+know:::autoPositive
+alright:::alloPositive:turnTake:interactionStructuring
+well good try though:::alloPositive:inform
+and maybe next time:::closing:inform

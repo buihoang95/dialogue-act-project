@@ -1,0 +1,125 @@
+eleanor-fs1,p1,p2,alright,turnTake
+eleanor-fs2,p1,p2,alright hello again,opening
+eleanor-fs3,p1,p2,hello again,initGreeting
+eleanor-fs4,p2,p1,hello,opening:returnGreeting
+eleanor-fs5,p1,p2,are you ready to continue,
+eleanor-fs6,p2,p1,yes i am,
+eleanor-fs7,p1,p2,great,autoPositive:alloPositive
+eleanor-fs8,p1,p2,uh,turnKeep:stalling
+eleanor-fs9,p1,p2,do you remember all of the rules or do you have any questions,
+eleanor-fs10,p2,p1,uh,turnAccept:stalling
+eleanor-fs11,p2,p1,yes and no to the other question,
+eleanor-fs12,p1,p2,okay,autoPositive:alloPositive
+eleanor-fs13,p1,p2,so you know all of the rules,checkQuestion
+eleanor-fs14,p2,p1,yes i do,confirm
+eleanor-fs15,p1,p2,great,autoPositive:alloPositive
+eleanor-fs16,p1,p2,alright,turnKeep
+eleanor-fs17,p1,p2,lets go ahead and get started then,
+eleanor-fs18,p1,p2,what is your first question,setQuestion
+eleanor-fs19,p2,p1,uh,turnAccept:stalling
+eleanor-fs20,p2,p1,what are you famous for,setQuestion
+eleanor-fs21,p1,p2,uhm,turnAccept:stalling
+eleanor-fs22,p1,p2,i am famous for being one of the wealthiest and most powerful women in western europe during the middle ages,setAnswer
+eleanor-fs23,p2,p1,$laugh,autoPositive
+eleanor-fs24,p2,p1,are you part of the royalty or were you part of the royalty rather,choiceQuestion
+eleanor-fs25,p1,p2,yes i was,answer
+eleanor-fs26,p2,p1,which country $unintelligible,setQuestion
+eleanor-fs27,p2,p1,yeah,pausing
+eleanor-fs28,p1,p2,uh,turnAccept:stalling
+eleanor-fs29,p1,p2,france,setAnswer
+eleanor-fs30,p2,p1,france,autoPositive
+eleanor-fs31,p2,p1,uh,turnKeep:stalling
+eleanor-fs32,p2,p1,okay,autoPositive:turnKeep
+eleanor-fs33,p2,p1,do i know any french which,autoPositive
+eleanor-fs34,p2,p1,during which years exactly did you reign,setQuestion
+eleanor-fs35,p1,p2,uhm,turnAccept:stalling
+eleanor-fs36,p1,p2,could you clarify,autoNegative
+eleanor-fs37,p2,p1,okay,acceptRequest
+eleanor-fs38,p2,p1,uh,turnKeep:stalling
+eleanor-fs39,p2,p1,while you were at the peak of your power which position did you occupy in the country,setQuestion
+eleanor-fs40,p2,p1,uh,turnKeep:stalling
+eleanor-fs41,p2,p1,which position,selfCorrection
+eleanor-fs42,p1,p2,uhm,turnAccept:stalling
+eleanor-fs43,p1,p2,i was the queen consort of france and later the queen consort of england,setAnswer
+eleanor-fs44,p2,p1,okay,autoPositive:turnTake
+eleanor-fs45,p2,p1,and during which year were you the queen consort of england,setQuestion
+eleanor-fs46,p2,p1,uhm,turnKeep:stalling
+eleanor-fs47,p2,p1,years,selfCorrection
+eleanor-fs48,p1,p2,from eleven fifty four to eleven eighty nine,setAnswer
+eleanor-fs49,p2,p1,okay,autoPositive:turnTake
+eleanor-fs50,p2,p1,uh,turnKeep:stalling
+eleanor-fs51,p2,p1,wait,request
+eleanor-fs52,p2,p1,now how do i ask that,autoPositive
+eleanor-fs53,p2,p1,how do,selfCorrection
+eleanor-fs54,p2,p1,now that does not work,autoNegative
+eleanor-fs55,p2,p1,okay,turnKeep:stalling
+eleanor-fs56,p2,p1,how did you die,setQuestion
+eleanor-fs57,p1,p2,just a minute,turnAccept:pausing
+eleanor-fs58,p1,p2,i dont have an answer to that question,inform
+eleanor-fs59,p2,p1,okay,autoPositive
+eleanor-fs60,p2,p1,who was your husband during your time as queen regent of england,setQuestion
+eleanor-fs61,p1,p2,uh,turnAccept:stalling
+eleanor-fs62,p1,p2,just a minute,turnKeep:pausing
+eleanor-fs63,p1,p2,i was,setAnswer
+eleanor-fs64,p1,p2,uh just a second,turnKeep
+eleanor-fs65,p1,p2,uh,stalling
+eleanor-fs66,p1,p2,just a second,pausing
+eleanor-fs67,p1,p2,yes,autoPositive
+eleanor-fs68,p1,p2,sil i was married to henry duke of normandy who became king henry the second of england,setAnswer
+eleanor-fs69,p1,p2,sil i was,selfCorrection
+eleanor-fs70,p1,p2,uhm,turnKeep:stalling
+eleanor-fs71,p1,p2,king,selfCorrection
+eleanor-fs72,p2,p1,ok,autoPositive:turnTake
+eleanor-fs73,p2,p1,uhm,turnKeep:stalling
+eleanor-fs74,p2,p1,what are you most known for in history of humankind,setQuestion
+eleanor-fs75,p2,p1,if its not too general for a question,inform
+eleanor-fs76,p1,p2,that is a very good question,alloPositive
+eleanor-fs77,p1,p2,im not sure if i can answer it,inform
+eleanor-fs78,p1,p2,give me just a second,turnKeep:request
+eleanor-fs79,p1,p2,not sure that i can fully answer that question,inform
+eleanor-fs80,p2,p1,okay,autoPositive:turnTake
+eleanor-fs81,p2,p1,can you name one thing that many people know that you did,setQuestion
+eleanor-fs82,p1,p2,mh,turnAccept:stalling
+eleanor-fs83,p1,p2,i was married to two kings and i participated in the second crusade while queen of france,setAnswer
+eleanor-fs84,p2,p1,okay,autoPositive:turnTake
+eleanor-fs85,p2,p1,uh,turnKeep:stalling
+eleanor-fs86,p2,p1,uh,turnKeep:stalling
+eleanor-fs87,p2,p1,did you have any religious epiphanies,propositionalQuestion
+eleanor-fs88,p1,p2,uhm,turnAccept:stalling
+eleanor-fs89,p2,p1,documented,propositionalQuestion:selfCorrection
+eleanor-fs90,p1,p2,i dont have an answer to that question,inform
+eleanor-fs91,p2,p1,okay,autoPositive:turnTake
+eleanor-fs92,p2,p1,uhm,turnKeep:stalling
+eleanor-fs93,p2,p1,are you more famous for your time in england or in france,choiceQuestion
+eleanor-fs94,p1,p2,unfortunately im not sure how to answer that question,answer:inform
+eleanor-fs95,p2,p1,are you considered a hero by some,propositionalQuestion
+eleanor-fs96,p1,p2,that is possible,propositionalAnswer
+eleanor-fs97,p1,p2,but i dont have a answer to that question,inform
+eleanor-fs98,p2,p1,okay,autoPositive:turnTake
+eleanor-fs99,p2,p1,uhm,turnKeep:stalling
+eleanor-fs100,p1,p2,sorry,apology
+eleanor-fs101,p2,p1,yeah,alloPositive:acceptApology
+eleanor-fs102,p2,p1,youre not giving me a lot to work with,alloNegative
+eleanor-fs103,p1,p2,i know,agreement
+eleanor-fs104,p2,p1,okay,autoPositive:turnTake
+eleanor-fs105,p2,p1,uhm,turnKeep:stalling
+eleanor-fs106,p2,p1,wait,request
+eleanor-fs107,p2,p1,no,correction
+eleanor-fs108,p2,p1,questions regarding the name are not allowed,
+eleanor-fs109,p2,p1,yeah,autoPositive
+eleanor-fs110,p2,p1,uhm,turnKeep:stalling
+eleanor-fs111,p1,p2,no,
+eleanor-fs112,p2,p1,uhm,turnKeep:stalling
+eleanor-fs113,p2,p1,uhm,turnKeep:stalling
+eleanor-fs114,p2,p1,uhm,turnKeep:stalling
+eleanor-fs115,p2,p1,nah i dont think i know her,inform
+eleanor-fs116,p1,p2,mkay,autoPositive
+eleanor-fs117,p1,p2,would you like me to tell you the answer,
+eleanor-fs118,p2,p1,yeah sure,
+eleanor-fs119,p2,p1,go ahead,
+eleanor-fs120,p1,p2,alright,turnAccept
+eleanor-fs121,p1,p2,my name is eleanor of aquitaine,inform
+eleanor-fs122,p2,p1,know,autoPositive
+eleanor-fs123,p1,p2,alright,alloPositive:turnTake:interactionStructuring
+eleanor-fs124,p1,p2,well good try though,alloPositive:inform
+eleanor-fs125,p1,p2,and maybe next time,closing:inform

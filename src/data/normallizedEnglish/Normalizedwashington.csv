@@ -1,0 +1,101 @@
+Data
+hello:::opening:returnGreeting
+uhm:::turnTake:stalling
+good afternoon almost evening:::initGreeting
+uhm:::turnKeep:stalling
+what is your name:::setQuestion
+my name is nikolina:::setAnswer:initSelfIntroduction
+hello nikolina its nice to meet you:::initGreeting
+nikolina:::selfCorrection
+nice to meet you:::returnGreeting
+uhm:::turnTake:stalling
+so:::stalling:interactionStructuring
+how are you doing today:::setQuestion
+good:::setAnswer
+thank you:::thanking
+alright:::autoPositive:turnTake
+alright so:::interactionStructuring
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+uh:::turnKeep:stalling
+so the name is kind of a famous person yeah:::checkQuestion
+yeah:::feedbackElicitation
+okay:::autoPositive
+yes:::confirm
+im not sure how good am i in this area:::inform
+im not sure:::turnGrab
+i in this area:::turnGrab
+okay okay:::autoPositive
+good:::autoPositive
+alright:::turnTake:interactionStructuring
+so uhm:::turnKeep:stalling
+what is your first question:::setQuestion
+what is the first question:::autoPositive
+so:::turnKeep:stalling
+what do you do:::setQuestion
+i am a leader:::setAnswer
+a leader:::autoPositive
+uhm:::turnKeep:stalling
+what is your nationality:::setQuestion
+i am american:::setAnswer
+american:::autoPositive
+are you alive:::propositionalQuestion
+i am not alive:::propositionalAnswer
+youre not alive:::autoPositive:stalling
+okay:::autoPositive:turnKeep:stalling
+so:::turnKeep:stalling
+are you a:::propositionalQuestion
+are you leading a company:::propositionalQuestion
+are you leading:::selfCorrection
+i am not leading a company:::propositionalAnswer
+okay:::autoPositive
+so:::turnKeep:stalling
+youre not a company leader:::autoPositive
+so:::turnKeep:stalling
+hm:::turnKeep:stalling
+when are you born:::setQuestion
+i was born on february twenty second seventeen thirty two:::setAnswer
+seventeen thirty two:::autoPositive
+ok:::autoPositive:turnKeep
+eehm:::turnKeep:stalling
+are a politician:::propositionalQuestion
+i am a politician:::propositionalAnswer
+okay:::autoPositive
+so then it is not my area:::inform
+a politician:::autoPositive
+so:::stalling
+so:::turnTake
+when were you in the goverment:::setQuestion
+uhm:::turnAccept:stalling
+lets see:::turnKeep:pausing
+uh:::turnKeep:stalling
+this must be:::setAnswer
+okay:::autoPositive:turnKeep
+uhm:::turnKeep:stalling
+i retired from the presidency in seventeen ninety seven:::setAnswer
+i retired:::selfCorrection
+ninety seven:::autoPositive
+george washington:::guess
+uhm:::turnAccept:stalling
+ninety seven:::autoPositive:stalling
+uhm:::turnKeep:stalling
+washington or bill clinton:::guess
+im not sure hes alive:::inform
+so:::turnKeep:interactionStructuring
+did you have an affair with monica lewinsky:::propositionalQuestion
+i did not:::propositionalAnswer
+so you are not bill clinton:::guess
+uhm:::turnAccept:stalling
+i am not bill clinton:::disconfirm
+correct uuh:::autoPositive
+i am george washington:::inform
+oh:::autoPositive
+ok:::autoPositive
+im sorry but:::apology
+im sorry but:::selfCorrection
+im sorry:::apology
+but youll do better next time:::inform
+youll do better next time we get to do lots of rounds:::closing
+okay hopefully hopefully:::autoPositive
+okay:::acceptApology
