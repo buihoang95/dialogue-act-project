@@ -39,6 +39,7 @@ def featureGeneration(fileName):
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for row in spamreader:
             break
+        skip_first_line = False
         for row in spamreader:
             sentence = "^ " + row[0].split(':::')[0] + " $"
             label = row[0].split(':::')[1].split(":")[0]
@@ -53,7 +54,11 @@ def featureGeneration(fileName):
             last1Lable = label
             # feature += ' '.join(contextPredicate) + ' ' + label
             features.append(feature)
-        file.write('\n'.join(features))
+            file.write(feature)
+            if skip_first_line == False:
+                skip_first_line = True
+                continue
+            file.write('\n')
 
 def main():
     for file in os.listdir('./data/normallized'):
