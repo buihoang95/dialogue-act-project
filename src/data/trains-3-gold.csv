@@ -4,7 +4,7 @@ trains3-fs3,U,S,vâng,acceptOffer
 trains3-fs4,U,S,tôi muốn đặt một chuyến tàu chở hàng từ corning và chuyển tới elmira,inform
 trains3-fs5,S,U,được ạ,autoPositive
 trains3-fs6,U,S,và từ elmỉa tôi muốn chở nước cam lên tàu hàng,inform
-trains3-fs7,S,U,mm-hm,autoPositive
+trains3-fs7,S,U,mm hm,autoPositive
 trains3-fs8,U,S,tôi muốn sau đó chuyến tàu sẽ từ quay trở lại từ elmỉra về corning,inform
 trains3-fs9,U,S,chuyến chuyến,stalling
 trains3-fs10,S,U,được thôi ạ,autoPositive
@@ -19,8 +19,6 @@ trains3-fs18,S,U,loại động cơ nào anh muốn sử dụng,setQuestion
 trains3-fs19,U,S,động cơ e hai,answer
 trains3-fs20,S,U,được rồi,autoPositive
 trains3-fs21,U,S,vâng,turnTake:stalling
-trains3-fs22,U,S,e hai có phải ...,
-trains3-fs23,U,S,loại nào ...,
 trains3-fs24,U,S,động cơ còn lại có nhanh hơn không,propositionalQuestion
 trains3-fs25,S,U,uh,stalling
 trains3-fs26,S,U,cả hai đều cả hai như nhau,selfCorrection

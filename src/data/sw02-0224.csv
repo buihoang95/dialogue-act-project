@@ -12,29 +12,29 @@ sw02-0224-fs11,A,B,uh,stalling
 sw02-0224-fs12,A,B,từ ừm từ,stalling
 sw02-0224-fs13,A,B,có vẻ như ngay cả khi họ đã tham khảo trung tâm chăm sóc ban ngày có uy tín những nơi đại loại như có một chuỗi nếu tôi có thể sử dụng từ đó bạn vẫn phải thỏa hiệp với những người  tình cờ được điều hành nó tại địa phương,inform
 sw02-0224-fs14,A,B,uh,stalling
-sw02-0224-fs15,B,A,right,autoPositive
+sw02-0224-fs15,B,A,chính xác,autoPositive
 sw02-0224-fs16,A,B,uh,stalling
 sw02-0224-fs17,A,B,bạn biết đó,stalling
 sw02-0224-fs18,A,B,và,turnKeep
 sw02-0224-fs19,A,B,uh,stalling
 sw02-0224-fs20,A,B,đó chỉ là vấn đề về sự tin tưởng bạn biết đó,inform
-sw02-0224-fs21,A,B,of of,stalling
+sw02-0224-fs21,A,B,cái mà,stalling
 sw02-0224-fs22,A,B,tôi nghĩ rằng họ cảm thấy những người đó có trình độ dưới mức cơ bản và được trả lương không thỏa đáng,inform
 sw02-0224-fs23,A,B,um,stalling
 sw02-0224-fs24,A,B,và,turnKeep
 sw02-0224-fs25,A,B,tôi nghĩ điều đó có liên quan mật thiết đến nhau,inform
-sw02-0224-fs26,A,B,it's it's,stalling
+sw02-0224-fs26,A,B,nó rất là ...,stalling
 sw02-0224-fs27,A,B,nên điều đó thật khó cho họ,inform
 sw02-0224-fs28,B,A,ừm thì,turnTake
 sw02-0224-fs29,B,A,chúng ta chắc chắn nhận thấy điều đó là sự thật,agreement
 sw02-0224-fs30,A,B,huh-uh,autoPositive
 sw02-0224-fs31,B,A,uh,stalling
-sw02-0224-fs32,B,A,thực sự chúng tôi đã -,retraction
+sw02-0224-fs32,B,A,thực sự chúng tôi đã ...,retraction
 sw02-0224-fs33,B,A,nhứng đứa con của chúng tôi hiện mười một và chín tuổi,inform
-sw02-0224-fs34,A,B,huh-uh,autoPositive
+sw02-0224-fs34,A,B,huh uh,autoPositive
 sw02-0224-fs35,B,A,và,turnKeep
 sw02-0224-fs36,B,A,chúng tôi chuyển đi từ một trung tâm chăm sóc trẻ được thể chế hóa,inform
-sw02-0224-fs37,A,B,huh-uh,autoPositive
+sw02-0224-fs37,A,B,huh uh,autoPositive
 sw02-0224-fs38,B,A,nếu chúng ta có thể gọi những chuỗi đó như thế ừm bằng cái tên đó,inform
 sw02-0224-fs39,A,B,phải,autoPositive
 sw02-0224-fs40,B,A,uh,stalling
@@ -60,7 +60,7 @@ sw02-0224-fs59,A,B,phải,autoPositive
 sw02-0224-fs60,A,B,phải,autoPositive
 sw02-0224-fs61,A,B,tôi có một người bạn cô ấy và bạn cùng phòng đã từng làm người chăm sóc ở tại nhà chủ,inform
 sw02-0224-fs62,A,B,uh uh,stalling
-sw02-0224-fs63,A,B,việc đó -,retraction
+sw02-0224-fs63,A,B,việc đó ...,retraction
 sw02-0224-fs64,A,B,cô ấy và bạn cùng phòng đã từng làm người chăm sóc ở tại nhà chủ,inform
 sw02-0224-fs65,A,B,và,turnKeep
 sw02-0224-fs66,A,B,họ thích việc đó,inform
@@ -76,7 +76,7 @@ sw02-0224-fs75,A,B,bạn biết đó,stalling
 sw02-0224-fs76,A,B,vì vậy tôi có thể nhìn thấy nơi mà một người nào đó ở một vị trí như thế có khả năng sống cùng chủ nhà chắc chắn sẽ là con đường để đi nếu bạn đủ may mắn để có tài chính để có thể làm điều đó,inform
 sw02-0224-fs77,A,B,um,stalling
 sw02-0224-fs78,A,B,bạn biết đó,stalling
-sw02-0224-fs79,A,B,you're you're,stalling
+sw02-0224-fs79,A,B,bạn là ...,stalling
 sw02-0224-fs80,B,A,ừm thì,turnTake
 sw02-0224-fs81,B,A,điều đó đúng,agreement
 sw02-0224-fs82,A,B,yeah,autoPositive
@@ -95,7 +95,7 @@ sw02-0224-fs94,A,B,yeah,autoPositive
 sw02-0224-fs95,A,B,yeah,autoPositive
 sw02-0224-fs96,A,B,và,turnKeep
 sw02-0224-fs97,A,B,thật tệ khi cũng phải thừa nhận điều đó,inform
-sw02-0224-fs98,A,B,that's that's that's,stalling
+sw02-0224-fs98,A,B,nó thật là ...,stalling
 sw02-0224-fs99,A,B,nhưng nó chỉ là có rất nhiều áp lực khi bạn đang nói về hai người làm việc xa gia đình,inform
 sw02-0224-fs100,A,B,ừm bạn biết đó,stalling
 sw02-0224-fs101,A,B,và và,stalling
@@ -103,18 +103,18 @@ sw02-0224-fs102,A,B,tôi nghĩ rằng đó là một trong những lý do tại 
 sw02-0224-fs103,A,B,tôi -,retraction
 sw02-0224-fs104,A,B,nó thật đúng là một trách nhiệm,inform
 sw02-0224-fs105,A,B,và và,stalling
-sw02-0224-fs106,A,B,khi tôi đã có những người bạn đã nói - khi bạn nghe người ta nói,selfCorrection
+sw02-0224-fs106,A,B,khi tôi đã có những người bạn đã nói ... khi bạn nghe người ta nói,selfCorrection
 sw02-0224-fs107,A,B,khi bạn nghe người ta nói nó làm thay đổi cuộc sống của bạn mãi mãi xin hãy chú ý voc_laugh,inform
-sw02-0224-fs108,A,B,it it,stalling
+sw02-0224-fs108,A,B,nó nó ...,stalling
 sw02-0224-fs109,A,B,vâng tôi nhận ra đó là sự thật,inform
 sw02-0224-fs110,A,B,vậy nó thật đúng là một trách nhiệm,inform
 sw02-0224-fs111,A,B,uh,stalling
 sw02-0224-fs112,B,A,vâng,turnTake
 sw02-0224-fs113,B,A,nó quả thực là vậy,agreement
 sw02-0224-fs114,B,A,uh,stalling
-sw02-0224-fs115,B,A,nếu tôi có thể (()) ở trong tình huống ngược lại một lúc,request
+sw02-0224-fs115,B,A,nếu tôi có thể ở trong tình huống ngược lại một lúc,request
 sw02-0224-fs116,A,B,huh-uh,autoPositive
-sw02-0224-fs117,B,A,Đó là một vinh dự và xúc động  được làm cha mẹ mà phần lớn thời gian điều đó xứng đáng,inform
+sw02-0224-fs117,B,A,đó là một vinh dự và xúc động  được làm cha mẹ mà phần lớn thời gian điều đó xứng đáng,inform
 sw02-0224-fs118,A,B,oh,stalling
 sw02-0224-fs119,A,B,yeah,autoPositive
 sw02-0224-fs120,A,B,huh-uh,autoPositive
@@ -127,13 +127,9 @@ sw02-0224-fs126,A,B,yeah,autoPositive
 sw02-0224-fs127,A,B,oh,stalling
 sw02-0224-fs128,A,B,chắn chắn,autoPositive
 sw02-0224-fs129,A,B,chắn chắn,autoPositive
-sw02-0224-fs130,A,B,chắn chắn,autoPositive
-sw02-0224-fs131,A,B,chắn chắn,autoPositive
 sw02-0224-fs132,B,A,có những lúc tôi nghĩ gee nếu tôi không có con tôi có thể ra ngoài chơi ((cầu)) hay golf,inform
 sw02-0224-fs133,A,B,phải,autoPositive:turnTake
 sw02-0224-fs134,A,B,phải,autoPositive
-sw02-0224-fs135,A,B,phải,autoPositive
-sw02-0224-fs136,A,B,phải,autoPositive
 sw02-0224-fs137,A,B,nhưng,turnKeep
 sw02-0224-fs138,A,B,điều đó thật buồn cười,inform
 sw02-0224-fs139,A,B,bạn biết đó,stalling
@@ -149,7 +145,7 @@ sw02-0224-fs148,A,B,nên,turnKeep
 sw02-0224-fs149,A,B,tại sao voc_laugh tại sao,stalling
 sw02-0224-fs150,A,B,bạn biết đó,stalling
 sw02-0224-fs151,A,B,tại sao tôi vẫn đang chờ đợi,inform
-sw02-0224-fs152,A,B,it's its,stalling
+sw02-0224-fs152,A,B,Đó là...,stalling
 sw02-0224-fs153,A,B,Đó chỉ là cách thức thái độ của bạn thay đổi,inform
 sw02-0224-fs154,A,B,và,turnKeep
 sw02-0224-fs155,A,B,bạn trưởng thành tôi cho rằng thế,inform
@@ -183,9 +179,9 @@ sw02-0224-fs182,B,A,chúng tôi cũng học được một số điều từ tr�
 sw02-0224-fs183,A,B,yeah,autoPositive
 sw02-0224-fs184,B,A,đó là những người trông trẻ không biết hết mọi thứ,inform
 sw02-0224-fs185,A,B,huh-uh,autoPositive
-sw02-0224-fs186,B,A,-- họ không phải là tất cả với tất cả mọi người --,inform
+sw02-0224-fs186,B,A,họ không phải là tất cả với tất cả mọi người,inform
 sw02-0224-fs187,A,B,phải,autoPositive
-sw02-0224-fs188,B,A,-- hay với tất cả trẻ con,inform
+sw02-0224-fs188,B,A,hay với tất cả trẻ con,inform
 sw02-0224-fs189,A,B,phải,autoPositive
 sw02-0224-fs190,A,B,phải,autoPositive
 sw02-0224-fs191,A,B,yeah,autoPositive
@@ -210,10 +206,10 @@ sw02-0224-fs209,A,B,voc_laugh ồ thật á,autoPositive
 sw02-0224-fs210,A,B,vâng,turnTake
 sw02-0224-fs211,A,B,nghe giống như bạn sẵn sàng bỏ qua phần tệ nhất hơn là lo lắng về nó,inform
 sw02-0224-fs212,A,B,lo lắng về nó từ khi chúng đều đi học bạn không phải lo lắng về chúng,selfCorrection
-sw02-0224-fs213,A,B,vì chúng đều đến truwongf bạn không phải lo lắng về  mottj người dành toàn thời gian để chăm sóc chúng << giọng tăng và giảm dần>>,inform
+sw02-0224-fs213,A,B,vì chúng đều đến trường bạn không phải lo lắng về  mộtột người dành toàn thời gian để chăm sóc chúng,inform
 sw02-0224-fs214,B,A,oh,turnTake:stalling
 sw02-0224-fs215,B,A,bạn không biết những gì sẽ xảy ra sau khi chúng đi vào trường học,inform
-sw02-0224-fs216,A,B,voc_laugh Đó là một cái gì đó hoàn toàn khác,inform
+sw02-0224-fs216,A,B,voc_laugh đó là một cái gì đó hoàn toàn khác,inform
 sw02-0224-fs217,A,B,uh,stalling
 sw02-0224-fs218,B,A,oh,turnTake:stalling
 sw02-0224-fs219,B,A,vâng,agreement
@@ -232,7 +228,7 @@ sw02-0224-fs231,A,B,không,agreement
 sw02-0224-fs232,B,A,không,agreement
 sw02-0224-fs233,A,B,không,agreement
 sw02-0224-fs234,A,B,không,agreement
-sw02-0224-fs235,B,A,chỉ là -,retraction
+sw02-0224-fs235,B,A,chỉ là ...,retraction
 sw02-0224-fs236,B,A,nó sẽ không làm,agreement
 sw02-0224-fs237,A,B,điều đó không đúng trọng tâm câu hỏi,agreement
 sw02-0224-fs238,A,B,tôi chắc chắn,agreement
@@ -251,16 +247,16 @@ sw02-0224-fs250,B,A,đó chỉ là cách suy nghĩ của họ,inform
 sw02-0224-fs251,B,A,và,turnKeep
 sw02-0224-fs252,B,A,nó gần như hàng ngày,inform
 sw02-0224-fs253,A,B,điều đó thật tuyệt,autoPositive
-sw02-0224-fs254,A,B,thật tuyệt khi mọi người thật sự -,inform
+sw02-0224-fs254,A,B,thật tuyệt khi mọi người thật sự ...,inform
 sw02-0224-fs255,A,B,sức chịu đựng mà bạn phải rút ra từ bản thân để đối phó với nó,inform
 sw02-0224-fs256,A,B,bạn biết đó,stalling
 sw02-0224-fs257,A,B,nó chắc hẳn phải thú vị,inform
 sw02-0224-fs258,A,B,tôi đoán bạn phát hiện ra rằng bạn là một người mạnh mẽ hơn nhiều so với bạn nghĩ có thể,inform
 sw02-0224-fs259,B,A,vâng,turnTake
 sw02-0224-fs260,B,A,tôi đã phát hiện ra tôi thực sự là một người tốt,inform
-sw02-0224-fs261,B,A,sự thành công trong vòng nhiều năm -,inform
+sw02-0224-fs261,B,A,sự thành công trong vòng nhiều năm ...,inform
 sw02-0224-fs262,A,B,voc_laugh,autoPositive
-sw02-0224-fs263,B,A,((   )) bởi vì tôi đã không cần đến nó,inform
+sw02-0224-fs263,B,A,bởi vì tôi đã không cần đến nó,inform
 sw02-0224-fs264,A,B,voc_laugh  huh-uh,autoPositive
 sw02-0224-fs265,B,A,và,turnKeep
 sw02-0224-fs266,B,A,giờ tôi cần nó,inform
@@ -282,13 +278,13 @@ sw02-0224-fs282,B,A,uh,stalling
 sw02-0224-fs283,B,A,một trong những khác tôi sẽ không để lại hai phút không có giám sát,inform
 sw02-0224-fs284,A,B,yeah,autoPositive
 sw02-0224-fs285,A,B,yeah,autoPositive
-sw02-0224-fs286,A,B,Đó chỉ là một sự khác biệt ở con cái tôi giả sử,inform
+sw02-0224-fs286,A,B,đó chỉ là một sự khác biệt ở con cái tôi giả sử,inform
 sw02-0224-fs287,B,A,điều đó đúng,autoPositive
 sw02-0224-fs288,A,B,yeah,autoPositive
 sw02-0224-fs289,B,A,một sẽ dẫn đến cái khác,checkQuestion
 sw02-0224-fs290,A,B,huh-uh,confirm
 sw02-0224-fs291,A,B,yeah,confirm
-sw02-0224-fs292,B,A,và uh  -,turnTake:stalling
+sw02-0224-fs292,B,A,và uh  ...,turnTake:stalling
 sw02-0224-fs293,A,B,và,turnTake
 sw02-0224-fs294,A,B,nó là nó là,stalling
 sw02-0224-fs295,A,B,đó là người sẽ xuống dốc,inform
@@ -371,7 +367,6 @@ sw02-0224-fs371,B,A,chúng tôi đã đuổi việc một người trông trẻ 
 sw02-0224-fs372,B,A,um,stalling
 sw02-0224-fs373,A,B,huh-uh,autoPositive
 sw02-0224-fs374,B,A,bạn biết đó,stalling
-sw02-0224-fs375,B,A,,inform
 sw02-0224-fs376,A,B,huh-uh,autoPositive
 sw02-0224-fs377,B,A,cột vào ghế,inform
 sw02-0224-fs378,B,A,nơi mà tất nhiên cô ta,inform

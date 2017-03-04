@@ -1,7 +1,7 @@
 trains1-fs1,S,U,xin chào,opening:initialGreeting
 trains1-fs2,S,U,tôi có thể giúp gì cho anh,offer
 trains1-fs3,U,S,vâng,acceptOffer
-trains1-fs4,U,S,tôi muố-,stalling
+trains1-fs4,U,S,tôi muốn ...,stalling
 trains1-fs5,U,S,tôi muốn xác định số lượng tối đa toa chở cam tôi có thể lấy từ bath lúc 7 giờ sáng mai,inform
 trains1-fs6,U,S,nên,turnKeep
 trains1-fs7,U,S,voc_breath hm ... nên,stalling
@@ -41,7 +41,6 @@ trains1-fs40,U,S,okay,autoPositive
 trains1-fs41,U,S,từ avon,autoPositive
 trains1-fs42,U,S,ôi không,selfError
 trains1-fs43,U,S,tôi đã nghĩ ta có thể nhận 2 toa khi ở bath,inform
-trains1-fs44,U,S,v- tôi đang nghĩ,
 trains1-fs45,S,U,mm,autoPositive
 trains1-fs46,U,S,nhưng tôi nghĩ rằng ta không thể đưa chúng lên,inform
 trains1-fs47,U,S,voc_breath,turnKeep:stalling
@@ -64,13 +63,8 @@ trains1-fs63,U,S,voc_breath,stalling
 trains1-fs64,S,U,4 tiếng ạ,answer
 trains1-fs65,U,S,ồ 4 tiếng cơ à,autoPositive
 trains1-fs66,U,S,vậy chúng tôi sẽ bó tay khi hai toa đó ở bath,inform
-trains1-fs67,U,S,đợ-,
-trains1-fs68,U,S,tho-,
 trains1-fs69,U,S,tôi không nghĩ ta lấy số toa lớn nhất chở cam đến bath vào lúc 7 giờ sáng tôi không nghĩ ta có thể dùng hai toa đó ở bath,inform
-trains1-fs70,U,S,tôi khôn-,question
-trains1-fs71,U,S,nê-,
 trains1-fs72,U,S,voc_breath,turnKeep:stalling
-trains1-fs73,U,S,bởi vì ta sẽ,
 trains1-fs74,U,S,bởi vì tàu sẽ không đến bath đúng giờ được,inform
 trains1-fs75,S,U,chính xác ạ,agreement
 trains1-fs76,U,S,được rồi,autoPositive:turnTake
@@ -100,9 +94,8 @@ trains1-fs99,U,S,voc_breath và,turnKeep
 trains1-fs100,U,S,okay,turnKeep
 trains1-fs101,U,S,voc_breath thế,turnKeep:stalling
 trains1-fs102,U,S,yeah nghe được đấy,inform
-trains1-fs103,S,U,mm-hm,agreement
+trains1-fs103,S,U,mm hm,agreement
 trains1-fs104,U,S,thế,turnTake
-trains1-fs105,U,S,hã-,
 trains1-fs106,U,S,anh nhắc lại giúp tôi với,request:turnAssign
 trains1-fs107,S,U,okay,acceptRequest:turnAccept
 trains1-fs108,S,U,động cơ 1 đến dansville lây ba toa đến corning sẽ được chất cam và đến bath động cơ e hai lấy hai toa ở elmira đến corning nơi chúng sẽ được chất cam và sẽ đưa trở về bath,inform

@@ -3,11 +3,6 @@ import csv
 import re
 dialogueList = []
 
-def readCSVData():
-    content = codecs.open('data/sampleData.csv', 'r', 'utf-8').read()
-    return content
-
-
 def convertDataToNormalizeData(fileName):
     result = []
     with open('data/' + fileName + '.csv', 'rb') as csvfile:

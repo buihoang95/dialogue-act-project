@@ -53,7 +53,6 @@ q1ec7-fs52,p1,p2,được rồi,autoPositive
 q1ec7-fs53,p1,p2,và sau đó bạn sẽ tiến về phía bắc đúng không,instruct
 q1ec7-fs54,p1,p2,đúng không,feedbackElicitation
 q1ec7-fs55,p2,p1,chờ đã cái hình dạng ở ngay bên dưới cối xay mà ngay bên dưới nơi cắm trại dành cho xe rv ở đâu,pausing
-q1ec7-fs56,p2,p1,,setQuestion
 q1ec7-fs57,p2,p1,ngay bên dưới cái cối xay,propositionalQuestion
 q1ec7-fs58,p2,p1,ngay bên dưới nơi cắm trại dành cho xe rv,propositionalQuestion
 q1ec7-fs59,p1,p2,không không,answer

@@ -9,7 +9,7 @@ q1ec6-fs8,p1,p2,qua một xưởng bên phải bạn,instruct
 q1ec6-fs9,p2,p1,vượt qua gì vậy,setQuestion
 q1ec6-fs10,p1,p2,một cái xưởng,answer
 q1ec6-fs11,p1,p2,được rồi,turnKeep
-q1ec6-fs12,p1,p2,nonvocal tiếp tục đi theo hướng bên phải,instruct
+q1ec6-fs12,p1,p2,voc_breath tiếp tục đi theo hướng bên phải,instruct
 q1ec6-fs13,p1,p2,phải rồi,autoPositive:turnTake
 q1ec6-fs14,p1,p2,và rồi lại vòng theo hướng đông,instruct
 q1ec6-fs15,p2,p1,đi xuống một cánh đồng lúa mỳ à,checkQuestion
@@ -41,7 +41,6 @@ q1ec6-fs40,p1,p2,đi lại hướng đông,alloPositive
 q1ec6-fs41,p2,p1,phải rồi,autoPositive
 q1ec6-fs42,p2,p1,được rồi,acceptRequest
 q1ec6-fs43,p2,p1,được rồi,autoPositive:turnRelease
-q1ec6-fs44,p2,p1,xin lỗi,
 q1ec6-fs45,p1,p2,được rồi,autoPositive:alloPositive
 q1ec6-fs46,p2,p1,được rồi,autoPositive
 q1ec6-fs47,p1,p2,phải rồi,autoPositive:alloPositive:turnTake
@@ -84,7 +83,6 @@ q1ec6-fs83,p1,p2,cho đến khi bạn không,inform
 q1ec6-fs84,p1,p2,cho đến đi bạn ở phía trên của tiệm bánh,inform
 q1ec6-fs85,p2,p1,à phải rồi,autoPositive
 q1ec6-fs86,p1,p2,phải rồi,alloPositive
-q1ec6-fs87,p2,p1,xin lỗi,
 q1ec6-fs88,p2,p1,phải rồi,autoPositive
 q1ec6-fs89,p2,p1,được rồi,acceptRequest
 q1ec6-fs90,p1,p2,đi vòng một chút cho đến đi bạn ở dưới nó,instruct
@@ -138,7 +136,6 @@ q1ec6-fs137,p1,p2,và sau đó bạn sẽ đi theo hướng đông,instruct
 q1ec6-fs138,p1,p2,um,turnKeep:stalling
 q1ec6-fs139,p1,p2,bạn sẽ đến một ngọn hải đăng,instruct
 q1ec6-fs140,p2,p1,vậy phải đi xuống các hang động,checkQuestion
-q1ec6-fs141,,,,
 q1ec6-fs142,p1,p2,sau đó đi theo hướng đông cho đến khi bạn đến ngọn hải đăng,instruct
 q1ec6-fs143,p2,p1,phải rồi,autoPositive
 q1ec6-fs144,p2,p1,được rồi,acceptRequest

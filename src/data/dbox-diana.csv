@@ -29,7 +29,6 @@ dbox-diana-fs28,S,A,cậu sẽ thắng trò chơi,inform
 dbox-diana-fs29,S,A,còn không thì cậu thua,inform
 dbox-diana-fs30,A,S,okay,autoPositive
 dbox-diana-fs31,A,S,và,turnGrab
-dbox-diana-fs32,S,A,cậu nên,
 dbox-diana-fs33,S,A,mhm,autoPositive:turnRelease
 dbox-diana-fs34,A,S,cậu vừa nói gì àh,setQuestion
 dbox-diana-fs35,A,S,ừh là,turnKeep:stalling

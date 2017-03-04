@@ -95,7 +95,6 @@ sw00-0004-fs96,B,A,rồi sẽ để lại chi tiết bạn sẽ làm gì,inform
 sw00-0004-fs97,B,A,tôi nghĩ sẽ bắt đầu với những gì bạn muốn,inform
 sw00-0004-fs99,B,A,như ở vùng atlanta tỉ lệ tội phạm là con số rất lớn,inform
 sw00-0004-fs100,B,A,bạn ra ngoài phố và họ sẽ đưa cho bạn tấm vé phạt tốc độ,inform
-sw00-0004-fs101,A,B,,agreement
 sw00-0004-fs102,B,A,tôi nghĩ một cách nào đó bạn phải đi ra khỏi đó,inform
 sw00-0004-fs103,A,B,ừm thì,turnGrab
 sw00-0004-fs104,A,B,bạn biết đấy uh,stalling

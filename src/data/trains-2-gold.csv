@@ -11,17 +11,14 @@ trains2-fs10,U,S,nên ... voc_noise,turnTake:stalling
 trains2-fs11,U,S,và tôi chỉ có thể sử dụng động cơ loại hai,inform
 trains2-fs12,U,S,và ...,turnKeep:stalling
 trains2-fs13,U,S,hai tàu chở nước cam từ avon tôi dùng độgn cơ hai và đưa lên hai t(hùng)- từ elmira và mang chúng đến và chuyển lên hai thùng và mang chúng trả lại elmira để đổ nước cam,inform
-trains2-fs14,U,S,avon,
 trains2-fs15,U,S,voc_click,turnKeep
-trains2-fs16,S,U,mm-hm,autoPositive
-trains2-fs17,U,S,đi đến,
+trains2-fs16,S,U,mm hm,autoPositive
 trains2-fs18,U,S,voc_click,turnKeep
 trains2-fs19,S,U,được rồi ạ,autoPositive:turnTake
 trains2-fs20,S,U,anh có muốn chất thùng hàng lên khi ở corning không,propositionalQuestion
 trains2-fs21,U,S,tôi có,answer
 trains2-fs22,S,U,vâng,autoPositive
 trains2-fs23,U,S,và,turnTake
-trains2-fs24,U,S,sau đó,
 trains2-fs25,U,S,sau đó số nước cam ở elmira với động cơ 2 và đưa chúng từ elmira tới corning tới dansville tới avon,instruct
 trains2-fs26,S,U,vâng,autoPositive
 trains2-fs27,S,U,anh muốn mang số thùng hàng theo người hay muốn để chúng ở elmira,choiceQuestion:turnAssign
@@ -29,11 +26,10 @@ trains2-fs28,U,S,uh ...,turnAccept:stalling
 trains2-fs29,U,S,tôi sẽ mang chúng theo người,answer
 trains2-fs30,S,U,okay,autoPositive
 trains2-fs31,S,U,vậy anh muốn đi từ elmira,checkQuestion
-trains2-fs32,U,S,tới avon,
 trains2-fs33,S,U,okay,autoPositive
 trains2-fs34,S,U,bằng chuyến nào ạ,setQuestion
 trains2-fs35,U,S,uh,turnTake:stalling
-trains2-fs36,U,S,t(ới)-,stalling
+trains2-fs36,U,S,tới ...,stalling
 trains2-fs37,U,S,tới corning,answer
 trains2-fs38,U,S,để tôi xem đã,pausing
 trains2-fs39,U,S,để tôi nghĩ chút,pausing
@@ -46,7 +42,6 @@ trains2-fs45,U,S,okay thế cũng được,autoPositive
 trains2-fs46,U,S,tôi nghĩ tôi còn tận 9 tiếng,inform
 trains2-fs47,S,U,okay,autoPositive
 trains2-fs48,U,S,um,turnTake:stalling
-trains2-fs49,U,S,nhưng tôi cần,
 trains2-fs50,U,S,oh oh từ từ,pausing
 trains2-fs51,U,S,tôi vẫn còn vài thứ muốn nói,inform
 trains2-fs52,U,S,khi tôi tới- khi tôi đến,selfCorrection
@@ -61,7 +56,7 @@ trains2-fs60,S,U,được thôi,autoPositive
 trains2-fs61,U,S,sau đó,turnKeep
 trains2-fs62,U,S,ở avon tôi muốn dỡ 3 thùng- trả lại động cơ trả lại tàu chở hai tàu chở nước cam,inform
 trains2-fs63,U,S,một tàu chở hai tàu chở,selfCorrection
-trains2-fs64,U,S,cam- nước cam,selfCorrection
+trains2-fs64,U,S,cam ... nước cam,selfCorrection
 trains2-fs65,U,S,đã mang 3 thùng đó,inform
 trains2-fs66,S,U,mm-hm,autoPositive
 trains2-fs67,U,S,hai tàu,inform:selfCorrection
