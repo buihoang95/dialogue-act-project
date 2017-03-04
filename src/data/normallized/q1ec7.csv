@@ -53,7 +53,6 @@ mmhmm:::autoPositive
 và sau đó bạn sẽ tiến về phía bắc đúng không:::instruct
 đúng không:::feedbackElicitation
 chờ đã cái hình dạng ở ngay bên dưới cối xay mà ngay bên dưới nơi cắm trại dành cho xe rv ở đâu:::pausing
-:::setQuestion
 ngay bên dưới cái cối xay:::propositionalQuestion
 ngay bên dưới nơi cắm trại dành cho xe rv:::propositionalQuestion
 không không:::answer

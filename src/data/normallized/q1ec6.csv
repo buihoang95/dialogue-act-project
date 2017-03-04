@@ -9,7 +9,7 @@ qua một xưởng bên phải bạn:::instruct
 vượt qua gì vậy:::setQuestion
 một cái xưởng:::answer
 được rồi:::turnKeep
-nonvocal tiếp tục đi theo hướng bên phải:::instruct
+voc_breath tiếp tục đi theo hướng bên phải:::instruct
 phải rồi:::autoPositive:turnTake
 và rồi lại vòng theo hướng đông:::instruct
 đi xuống một cánh đồng lúa mỳ à:::checkQuestion

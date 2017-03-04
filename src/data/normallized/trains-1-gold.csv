@@ -1,7 +1,7 @@
 Data
 tôi có thể giúp gì cho anh:::offer
 vâng:::acceptOffer
-tôi muố:::stalling
+tôi muốn:::stalling
 tôi muốn xác định số lượng tối đa toa chở cam tôi có thể lấy từ bath lúc 7 giờ sáng mai:::inform
 nên:::turnKeep
 voc_breath hm ... nên:::stalling
@@ -64,7 +64,6 @@ voc_breath:::stalling
 ồ 4 tiếng cơ à:::autoPositive
 vậy chúng tôi sẽ bó tay khi hai toa đó ở bath:::inform
 tôi không nghĩ ta lấy số toa lớn nhất chở cam đến bath vào lúc 7 giờ sáng tôi không nghĩ ta có thể dùng hai toa đó ở bath:::inform
-tôi khôn:::question
 voc_breath:::turnKeep:stalling
 bởi vì tàu sẽ không đến bath đúng giờ được:::inform
 chính xác ạ:::agreement
@@ -95,7 +94,7 @@ voc_breath và:::turnKeep
 okay:::turnKeep
 voc_breath thế:::turnKeep:stalling
 yeah nghe được đấy:::inform
-mm-hm:::agreement
+mm hm:::agreement
 thế:::turnTake
 anh nhắc lại giúp tôi với:::request:turnAssign
 okay:::acceptRequest:turnAccept

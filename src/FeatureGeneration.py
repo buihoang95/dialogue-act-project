@@ -1,8 +1,7 @@
 import csv
-
+import os
 
 file = open('data/feature' + '.tagged','w')
-
 
 def scanFeature(sentence):
     contextPredicates = []
@@ -36,7 +35,7 @@ def featureGeneration(fileName):
     last1Lable = ''
     last2Lable = ''
     features = []
-    with open('data/' + fileName + '.csv', 'rb') as csvfile:
+    with open('data/normallized/' + fileName + '.csv', 'rb') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for row in spamreader:
             break
@@ -57,29 +56,10 @@ def featureGeneration(fileName):
         file.write('\n'.join(features))
 
 def main():
-    featureGeneration('Normalizeddbox-diana')
-    featureGeneration('Normalizeddbox-washington')
-    featureGeneration('Normalizedq1ec6')
-    featureGeneration('Normalizedq1ec7')
-    featureGeneration('Normalizedsw00-0004')
-    featureGeneration('Normalizedsw01-0105')
-    featureGeneration('Normalizedsw02-0224')
-    featureGeneration('Normalizedtrains-1-gold')
-    featureGeneration('Normalizedtrains-2-gold')
-    featureGeneration('Normalizedtrains-3-gold')
-
-    #
-    # featureGeneration('Normalizeddiana')
-    # featureGeneration('Normalizedeleanor')
-    # featureGeneration('Normalizedq1ec6')
-    # featureGeneration('Normalizedsw00-0004')
-    # featureGeneration('Normalizedsw01-0105')
-    # featureGeneration('Normalizedsw02-0224')
-    # featureGeneration('NormalizedTRAINS-1-gold')
-    # featureGeneration('NormalizedTRAINS-2-gold')
-    # featureGeneration('NormalizedTRAINS-3-gold')
-    # featureGeneration('Normalizedvenus')
-    # featureGeneration('Normalizedwashington')
+    for file in os.listdir('./data/normallized'):
+        if file.endswith('.csv'):
+            file_name = file[:-4]
+            featureGeneration(file_name)
 
 if __name__ == '__main__':
     main()

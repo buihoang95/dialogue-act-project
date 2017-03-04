@@ -12,7 +12,7 @@ và tôi chỉ có thể sử dụng động cơ loại hai:::inform
 và:::turnKeep:stalling
 hai tàu chở nước cam từ avon tôi dùng độgn cơ hai và đưa lên hai t(hùng)- từ elmira và mang chúng đến và chuyển lên hai thùng và mang chúng trả lại elmira để đổ nước cam:::inform
 voc_click:::turnKeep
-mm-hm:::autoPositive
+mm hm:::autoPositive
 voc_click:::turnKeep
 được rồi ạ:::autoPositive:turnTake
 anh có muốn chất thùng hàng lên khi ở corning không:::propositionalQuestion
@@ -29,7 +29,7 @@ vậy anh muốn đi từ elmira:::checkQuestion
 okay:::autoPositive
 bằng chuyến nào ạ:::setQuestion
 uh:::turnTake:stalling
-t(ới:::stalling
+tới:::stalling
 tới corning:::answer
 để tôi xem đã:::pausing
 để tôi nghĩ chút:::pausing
@@ -56,7 +56,7 @@ tôi sẽ mang thùng đó cùng 2 thùng còn lại tới avon:::inform
 sau đó:::turnKeep
 ở avon tôi muốn dỡ 3 thùng- trả lại động cơ trả lại tàu chở hai tàu chở nước cam:::inform
 một tàu chở hai tàu chở:::selfCorrection
-cam- nước cam:::selfCorrection
+cam ... nước cam:::selfCorrection
 đã mang 3 thùng đó:::inform
 mm-hm:::autoPositive
 hai tàu:::inform:selfCorrection

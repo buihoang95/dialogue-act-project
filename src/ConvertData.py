@@ -1,11 +1,12 @@
 import codecs
+import os
 import csv
 import re
 dialogueList = []
 
 def convertDataToNormalizeData(fileName):
     result = []
-    with open('data/' + fileName + '.csv', 'rb') as csvfile:
+    with open('data/raw/' + fileName + '.csv', 'rb') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for row in spamreader:
             break
@@ -19,7 +20,7 @@ def convertDataToNormalizeData(fileName):
                     result.append(row[3]+':::'+item.split(' ')[0])
                     break
         print len(result)
-        file = open('data/Normalized' + fileName + '.csv','w')
+        file = open('data/normallized/' + fileName + '.csv','w')
         file.write('Data')
         file.write('\n')
         file.write('\n'.join(result))
@@ -28,29 +29,10 @@ def convertDataToNormalizeData(fileName):
 
 
 def main():
-    convertDataToNormalizeData('trains-1-gold')
-    convertDataToNormalizeData('trains-2-gold')
-    convertDataToNormalizeData('trains-3-gold')
-    convertDataToNormalizeData('dbox-washington')
-    convertDataToNormalizeData('dbox-diana')
-    convertDataToNormalizeData('sw00-0004')
-    convertDataToNormalizeData('sw01-0105')
-    convertDataToNormalizeData('sw02-0224')
-    convertDataToNormalizeData('q1ec6')
-    convertDataToNormalizeData('q1ec7')
-
-    # convertDataToNormalizeData('diana')
-    # convertDataToNormalizeData('eleanor')
-    # convertDataToNormalizeData('q1ec6')
-    # convertDataToNormalizeData('sw00-0004')
-    # convertDataToNormalizeData('sw01-0105')
-    # convertDataToNormalizeData('sw02-0224')
-    # convertDataToNormalizeData('TRAINS-1-gold')
-    # convertDataToNormalizeData('TRAINS-2-gold')
-    # convertDataToNormalizeData('TRAINS-3-gold')
-    # convertDataToNormalizeData('venus')
-    # convertDataToNormalizeData('washington')
-
+    for file in os.listdir('./data/raw'):
+        if file.endswith('.csv'):
+            file_name = file[:-4]
+            convertDataToNormalizeData(file_name)
 
 if __name__ == '__main__':
     main()
