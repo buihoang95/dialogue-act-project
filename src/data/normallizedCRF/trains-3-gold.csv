@@ -1,0 +1,39 @@
+Data
+<offer>tôi giúp gì được anh ạ</offer>
+<acceptOffer>vâng</acceptOffer>
+<inform>tôi muốn đặt một chuyến tàu chở hàng từ corning và chuyển tới elmira</inform>
+<autoPositive>được ạ</autoPositive>
+<inform>và từ elmỉa tôi muốn chở nước cam lên tàu hàng</inform>
+<autoPositive>mm hm</autoPositive>
+<inform>tôi muốn sau đó chuyến tàu sẽ từ quay trở lại từ elmỉra về corning</inform>
+<stalling>chuyến chuyến</stalling>
+<autoPositive>được thôi ạ</autoPositive>
+<setQuestion>thế từ corning chuyến nào nhanh nhất để đến avon</setQuestion>
+<stalling>uh</stalling>
+<answer>qua dansville ạ</answer>
+<autoPositive>okay</autoPositive>
+<inform>vậy tôi muốn đặt tàu chở nước cam từ dansville về tới avon</inform>
+<autoPositive>vâng</autoPositive>
+<turnKeep>um</turnKeep>
+<setQuestion>loại động cơ nào anh muốn sử dụng</setQuestion>
+<answer>động cơ e hai</answer>
+<autoPositive>được rồi</autoPositive>
+<turnTake>vâng</turnTake>
+<propositionalQuestion>động cơ còn lại có nhanh hơn không</propositionalQuestion>
+<stalling>uh</stalling>
+<selfCorrection>cả hai đều cả hai như nhau</selfCorrection>
+<answer>không cả hai như nhau</answer>
+<autoPositive>okay</autoPositive>
+<inform>vậy tôi sẽ lấy lại e hai</inform>
+<autoPositive>vâng</autoPositive>
+<turnTake>và</turnTake>
+<setQuestion>và tàu hàng chạy nhanh như nhau</setQuestion>
+<confirm>vâng</confirm>
+<interactionStructuring>okay</interactionStructuring>
+<stalling>vậy uh</stalling>
+<checkQuestion>kế hoạch là anh sẽ lấy động cơ e hai đến corning từ elmira đưa nước cam lên và về avon</checkQuestion>
+<confirm>chính xác</confirm>
+<setQuestion>sẽ mất bao lâu thế</setQuestion>
+<answer>11 tiếng đồng hồ</answer>
+<interactionStructuring>okay</interactionStructuring>
+<interactionStructuring>tôi như vậy là đã xong</interactionStructuring>

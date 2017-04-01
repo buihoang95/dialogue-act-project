@@ -32,8 +32,8 @@ def scanFeature(sentence):
     return [contextPredicates]
 
 def featureGeneration(fileName):
-    last1Lable = ''
-    last2Lable = ''
+    last1FS = ''
+    last2FS = ''
     features = []
     with open('data/normallized/' + fileName + '.csv', 'rb') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -41,17 +41,19 @@ def featureGeneration(fileName):
             break
         skip_first_line = False
         for row in spamreader:
+            rawSentence = row[0].split(':::')[0]
             sentence = "^ " + row[0].split(':::')[0] + " $"
             label = row[0].split(':::')[1].split(":")[0]
             contextPredicate = scanFeature(sentence)[0]
             feature = ''
-            if(last1Lable != ''):
-                if(last2Lable != ''):
-                    feature += ' '.join(contextPredicate) + ' l-1:' + last1Lable +' l-2:'+last2Lable + ' ' + label
+            if(last1FS != ''):
+                if(last2FS != ''):
+                    feature += ' '.join(contextPredicate) + ' l-1:' + ' l-1:'.join(last1FS.split(" ")) +' l-2:' +' l-2:'.join(last2FS.split(" ")) + ' ' + label
                 else:
-                    feature += ' '.join(contextPredicate) + ' l-1:' + last1Lable + ' ' + label
-            last2Lable = last1Lable
-            last1Lable = label
+                    feature += ' '.join(contextPredicate) + ' l-1:' + ' l-1:'.join(last1FS.split(" ")) + ' ' + label
+            print rawSentence + ":::::" +last1FS +":::::" + last2FS
+            last2FS = last1FS
+            last1FS = rawSentence
             # feature += ' '.join(contextPredicate) + ' ' + label
             features.append(feature)
             file.write(feature)

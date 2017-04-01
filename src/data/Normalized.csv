@@ -1,0 +1,1292 @@
+Data
+w:tôi w:w:tôi:có thể giúp gì cho anh offer
+vâng:::acceptOffer
+tôi muố:::stalling
+tôi muốn xác định số lượng tối đa toa chở cam tôi có thể lấy từ bath lúc 7 giờ sáng mai:::inform
+nên:::turnKeep
+voc_breath hm ... nên:::stalling
+tôi đoán tất cả các toa đều phải đi qua corning:::inform
+vì nhà máy nước cam ở đó:::inform
+voc_breath:::turnKeep:stalling
+nhà máy cam:::selfCorrection
+so:::turnKeep
+thế từ corning cách bath bao nhiêu cây:::setQuestion:turnAssign
+2 tiếng đồng hồ:::answer
+và sẽ mất thêm 1 tiếng để chất hàng lên toa đúng không:::checkQuestion:turnAssign
+phải rồi:::confirm
+okay:::autoPositive:turnTake
+thế:::turnKeep
+hm thế:::stalling
+mỗi chuyến sẽ mất ít nhất tầm 3 tiếng đồng hồ rồi:::checkQuestion
+um:::turnKeep:stalling
+vâng:::confirm
+chúng tôi có thể dỡ số lượng hàng từ tàu trong một giờ:::inform
+vì vậy:::turnKeep
+chúng tôi tối đa dỡ được 3 toa hàng trong một giờ:::inform
+vâng:::autoPositive
+okay:::autoPositive
+okay:::autoPositive
+thế:::turnKeep
+ta có thể làm một việc:::suggest
+oh:::selfError
+voc_breath thế voc_breath:::turnKeep:stalling
+tôi nghĩ chúng ta nên xem số toa ta sẽ thực sự lấy từ corning trong 4 tiếng:::suggest
+um:::turnKeep:stalling
+từ corning trong 4 tiếng um bao xa từ avon đến bath:::setQuestion
+đến corning:::selfCorrection
+voc_click voc_breath:::autoPositive:turnTake
+tầm 6 tiếng:::answer
+sẽ nhanh hơn qua dansville:::inform
+okay:::autoPositive
+từ avon:::autoPositive
+ôi không:::selfError
+tôi đã nghĩ ta có thể nhận 2 toa khi ở bath:::inform
+mm:::autoPositive
+nhưng tôi nghĩ rằng ta không thể đưa chúng lên:::inform
+voc_breath:::turnKeep:stalling
+chúng sẽ không đến:::inform:selfCorrection
+nếu không:::retraction
+từ elmira cách bath bao xa voc_breath:::setQuestion
+hai tiếng đồng hồ:::answer
+ôi thật àh:::autoPositive
+thế:::turnKeep
+tôi có thể lấy động cơ e:::inform
+voc_breath:::turnKeep:stalling
+nó sẽ đến bath lấy hai toa hàng:::inform
+đưa đến corn:::retraction
+bao lâu từ bath đến corning:::setQuestion
+tôi đoán chắc tầm 1 tiếng:::checkQuestion
+hai tiếng ạ:::answer
+ồ đợi một chút:::autoPositive
+tôi nghĩ từ elmira qua đến corning đến bath bao lâu:::setQuestion
+voc_breath:::stalling
+4 tiếng ạ:::answer
+ồ 4 tiếng cơ à:::autoPositive
+vậy chúng tôi sẽ bó tay khi hai toa đó ở bath:::inform
+tôi không nghĩ ta lấy số toa lớn nhất chở cam đến bath vào lúc 7 giờ sáng tôi không nghĩ ta có thể dùng hai toa đó ở bath:::inform
+tôi khôn:::question
+voc_breath:::turnKeep:stalling
+bởi vì tàu sẽ không đến bath đúng giờ được:::inform
+chính xác ạ:::agreement
+được rồi:::autoPositive:turnTake
+voc_breath:::turnKeep
+chúng tôi có 3 toa hàng ở dansville:::inform
+thế:::turnKeep
+từ avon đến dansville bao xa vậy:::setQuestion
+3 tiếng ạ:::answer
+3 tiếng:::autoPositive
+thế từ dansville đến corning:::setQuestion
+1 tiếng:::answer
+vâng:::autoPositive:turnTake
+thế chúng tôi có thể dùng 3 toa hàng đúng không:::checkQuestion:turnAssign
+mm-hm:::confirm
+okay:::autoPositive:turnTake
+vậy là 3 toa:::inform
+okay:::turnKeep
+vậy động cơ e 1 từ avon sẽ đi dansville lấy 3 toa hàng rồi đến corning chất chúng lên và đưa chúng trở lại bath:::inform
+được đấy:::turnKeep
+nghe có vẻ tốt đấy:::inform
+voc_breath so:::turnKeep
+thế tôi nghĩ chúng tôi muốn lấy luôn động cơ e hai với hai toa hàng từ elmira và đưa đến corning:::inform
+vậy từ elmira đến corning là hai tiếng:::checkQuestion
+mm-hm:::confirm
+okay:::autoPositive:turnTake
+voc_breath và:::turnKeep
+okay:::turnKeep
+voc_breath thế:::turnKeep:stalling
+yeah nghe được đấy:::inform
+mm-hm:::agreement
+thế:::turnTake
+anh nhắc lại giúp tôi với:::request:turnAssign
+okay:::acceptRequest:turnAccept
+động cơ 1 đến dansville lây ba toa đến corning sẽ được chất cam và đến bath động cơ e hai lấy hai toa ở elmira đến corning nơi chúng sẽ được chất cam và sẽ đưa trở về bath:::inform
+okay:::alloPositive
+thế là tối đa được 5 toa:::inform
+okay:::interactionStructuringtôi có thể giúp gì cho anh ạ:::offer
+vâng:::acceptOffer
+tôi có chút vẫn đề tôi cần chuyển 2 tàu nước cam đến avon và 3 thùng đựng chuối đến elmira:::inform
+số chuối phải đến elmira trước 9 giờ tối:::inform
+được ạ:::autoPositive
+um:::turnTake:stalling
+tôi chỉ muốn dùng động cơ loại hai:::inform
+dạ vâng:::autoPositive
+nên ... voc_noise:::turnTake:stalling
+và tôi chỉ có thể sử dụng động cơ loại hai:::inform
+và:::turnKeep:stalling
+hai tàu chở nước cam từ avon tôi dùng độgn cơ hai và đưa lên hai t(hùng)- từ elmira và mang chúng đến và chuyển lên hai thùng và mang chúng trả lại elmira để đổ nước cam:::inform
+voc_click:::turnKeep
+mm-hm:::autoPositive
+voc_click:::turnKeep
+được rồi ạ:::autoPositive:turnTake
+anh có muốn chất thùng hàng lên khi ở corning không:::propositionalQuestion
+tôi có:::answer
+vâng:::autoPositive
+và:::turnTake
+sau đó số nước cam ở elmira với động cơ 2 và đưa chúng từ elmira tới corning tới dansville tới avon:::instruct
+vâng:::autoPositive
+anh muốn mang số thùng hàng theo người hay muốn để chúng ở elmira:::choiceQuestion:turnAssign
+uh:::turnAccept:stalling
+tôi sẽ mang chúng theo người:::answer
+okay:::autoPositive
+vậy anh muốn đi từ elmira:::checkQuestion
+okay:::autoPositive
+bằng chuyến nào ạ:::setQuestion
+uh:::turnTake:stalling
+t(ới:::stalling
+tới corning:::answer
+để tôi xem đã:::pausing
+để tôi nghĩ chút:::pausing
+voc_mumble ... voc_click:::stalling:completion
+vâng tới corning tới dansville với avon:::answer
+okay:::autoPositive:turnTake
+vâng theo đường đó:::autoPositive
+trưa anh sẽ tới avon:::inform
+okay thế cũng được:::autoPositive
+tôi nghĩ tôi còn tận 9 tiếng:::inform
+okay:::autoPositive
+um:::turnTake:stalling
+oh oh từ từ:::pausing
+tôi vẫn còn vài thứ muốn nói:::inform
+khi tôi tới- khi tôi đến:::selfCorrection
+khi tôi đến khi tôi đến:::stalling
+khi tôi đến dansville tôi muốn đưa lên thêm một thùng hàng nữa:::inform
+mm-hm:::autoPositive
+được- ... uh:::turnTake:stalling
+okay:::autoPositive
+và:::turnKeep
+tôi sẽ mang thùng đó cùng 2 thùng còn lại tới avon:::inform
+được thôi:::autoPositive
+sau đó:::turnKeep
+ở avon tôi muốn dỡ 3 thùng- trả lại động cơ trả lại tàu chở hai tàu chở nước cam:::inform
+một tàu chở hai tàu chở:::selfCorrection
+cam- nước cam:::selfCorrection
+đã mang 3 thùng đó:::inform
+mm-hm:::autoPositive
+hai tàu:::inform:selfCorrection
+chở:::stalling
+và:::turnKeep
+sẽ chất lên 3 thùng hàng đựng chuối:::inform
+okay:::autoPositive
+và:::turnKeep
+mang chúng trở lại elmira:::inform
+anh muốn đi theo chuyến nào:::setQuestion
+uh:::turnTake:stalling
+từ dansville qua corning qua elmira:::answer
+okay:::autoPositive:stalling
+để xem nào:::turnKeep:pausing
+bốn giờ tối:::inform
+bốn giờ tối:::inform:stalling
+được:::turnKeep
+anh sẽ đến đó vào lúc 7 giờ tối:::inform
+okay tốt quá:::interactionStructuring
+tôi đã xong:::informtôi giúp gì được anh ạ:::offer
+vâng:::acceptOffer
+tôi muốn đặt một chuyến tàu chở hàng từ corning và chuyển tới elmira:::inform
+được ạ:::autoPositive
+và từ elmỉa tôi muốn chở nước cam lên tàu hàng:::inform
+mm-hm:::autoPositive
+tôi muốn sau đó chuyến tàu sẽ từ quay trở lại từ elmỉra về corning:::inform
+chuyến chuyến:::stalling
+được thôi ạ:::autoPositive
+thế từ corning chuyến nào nhanh nhất để đến avon:::setQuestion
+uh:::stalling
+qua dansville ạ:::answer
+okay:::autoPositive
+vậy tôi muốn đặt tàu chở nước cam từ dansville về tới avon:::inform
+vâng:::autoPositive
+um:::turnKeep:stalling
+loại động cơ nào anh muốn sử dụng:::setQuestion
+động cơ e hai:::answer
+được rồi:::autoPositive
+vâng:::turnTake:stalling
+động cơ còn lại có nhanh hơn không:::propositionalQuestion
+uh:::stalling
+cả hai đều cả hai như nhau:::selfCorrection
+không cả hai như nhau:::answer
+okay:::autoPositive
+vậy tôi sẽ lấy lại e hai:::inform
+vâng:::autoPositive
+và:::turnTake
+và tàu hàng chạy nhanh như nhau:::setQuestion
+vâng:::confirm
+okay:::interactionStructuring
+vậy uh:::stalling
+kế hoạch là anh sẽ lấy động cơ e hai đến corning từ elmira đưa nước cam lên và về avon:::checkQuestion
+chính xác:::confirm
+sẽ mất bao lâu thế:::setQuestion
+11 tiếng đồng hồ:::answer
+okay:::interactionStructuring
+tôi như vậy là đã xong:::interactionStructuringxin chào:::opening:returnGreeting
+uhm:::turnTake:stalling
+chào buổi chiều chút là buổi tối:::initialGreeting
+uhm:::turnKeep:stalling
+cậu tên là gì:::setQuestion
+tớ tên là nikolina:::answer:initialSelfIntroduction
+chào nikolina rất vui khi gặp cậu:::initialGreeting
+nikolina:::selfCorrection
+rất vui khi gặp cậu:::returnGreeting
+uhm:::turnTake:stalling
+thế:::stalling:interactionStructuring
+cậu hôm này thế nào:::setQuestion
+tốt:::answer
+cảm ơn:::thanking
+được rồi:::autoPositive:turnTake
+được rồi vậy:::interactionStructuring
+hôm nay chúng ta sẽ chơi một trò chơi và sau đây là luật chơi:::inform
+tớ là một người rất nổi tiếng:::inform
+và cậu cần phải đoán đúng tên của tớ:::inform
+cậu có thể hỏi câu hỏi nào cậu muốn cũng được trừ hỏi trực tiếp tên tớ là gì:::instruct
+uhm:::turnKeep:stalling
+cậu có tối đa 10 lần hỏi:::inform
+và cậu phải đoán trúng tên tớ:::instruct
+cậu có thể hỏi bất cứ câu nào cậu muốn:::instruct
+nhưng cậu chỉ có một lần đoán tên tớ thôi:::instruct
+uhm:::turnKeep:stalling
+nếu cậu đoán trúng thì cậu sẽ thắng:::inform
+nếu cậu đoán không trúng hoặc chọn chuyển qua thì sẽ thua:::inform
+uhm:::turnKeep:stalling
+và ta sẽ chuyển tới vòng tiếp theo:::inform
+cậu có hiểu và cảm thấy thoải mái với luật chơi này không:::propositionalQuestion
+uh:::turnKeep:stalling
+yeah yeah:::answer
+thế tên cậu là tên của một người nổi tiếng:::checkQuestion
+yeah:::feedbackElicitation
+okay:::autoPositive
+ừh:::confirm
+tớ là một người nổi tiếng và:::inform
+tớ không chắc tớ chơi giỏi đâu:::inform
+tớ không chắc:::turnGrab
+tớ trong mảng này:::turnGrab
+và tớ luôn là con trai:::inform
+okay okay:::autoPositive
+tốt tốt:::autoPositive
+được rồi:::turnTake:interactionStructuring
+thế uhm:::turnKeep:stalling
+bắt đầu thôi:::suggest
+và câu hỏi đầu tiên của cậu:::request
+câu hỏi đầu tiên của cậu là gì:::setQuestion
+câu hỏi đầu tiên à:::autoPositive
+vậy:::turnKeep:stalling
+cậu làm nghề gì:::setQuestion
+tớ là một nhà lãnh đạo:::answer
+một nhà lãnh đạo à:::autoPositive
+uhm:::turnKeep:stalling
+quốc tịch của cậu là gì:::setQuestion
+tớ là người mỹ:::answer
+người mỹ:::autoPositive
+cậu còn sống không:::propositionalQuestion
+tớ không còn sống đâu:::answer
+cậu không còn sống:::autoPositive:stalling
+okay:::autoPositive:turnKeep:stalling
+thế:::turnKeep:stalling
+cậu có phải là:::propositionalQuestion
+cậu có phải là người lãnh đạo một công ty không:::propositionalQuestion
+có phải cậu dẫn đầu:::selfCorrection
+tớ không lãnh đạo một công ty:::answer
+và tớ muốn cậu biết rằng cậu không bị giới hạn là chỉ hỏi câu hỏi đúng sai:::instruct
+cậu có thể hỏi cái gì cũng được:::instruct
+okay:::autoPositive
+so:::turnKeep:stalling
+cậu không lãnh đạo một công ty:::autoPositive
+vậy:::turnKeep:stalling
+hm:::turnKeep:stalling
+cậu sinh ra lúc nào:::setQuestion
+tớ sinh vào ngày 22 tháng 2 năm 1732:::answer
+1732:::autoPositive
+ok:::autoPositive:turnKeep
+eehm:::turnKeep:stalling
+có phải là nhà chính trị không:::propositionalQuestion
+tớ là một nhà chính trị:::answer
+okay:::autoPositive
+vậy thì không phải khoản của tớ rồi:::inform
+nhưng tớ vẫn sẽ thử đoán nhé:::promise
+một nhà chính trị:::autoPositive
+vậy:::stalling
+vậy:::turnTake
+khi nào cậu ở trong chính phủ:::setQuestion
+uhm:::turnAccept:stalling
+xem nào:::turnKeep:pausing
+uh:::turnKeep:stalling
+nó chắc là:::answer
+okay:::autoPositive:turnKeep
+uhm:::turnKeep:stalling
+tớ về hưu tổng thống vào năm 1797:::answer
+tớ hết nhiệm kỳ:::selfCorrection
+97:::autoPositive
+george washington:::guess
+đó là câu trả lời cuối cùng của cậu chưa:::propositionalQuestion
+uhm:::turnAccept:stalling
+97:::autoPositive:stalling
+uhm:::turnKeep:stalling
+washington hoặc bill clinton:::guess
+tớ không chắc bà ấy còn sống không:::inform
+thế thì hãy thử đoán xem:::request
+hoặc hỏi thêm câu hỏi:::request
+cậu còn bốn câu nữa:::inform
+thế:::turnKeep:interactionStructuring
+cậu có từng có tình cảm với monica lewinsky không:::propositionalQuestion
+tớ không hề:::answer
+thế cậu không phải là bill clinton:::guess
+uhm:::turnAccept:stalling
+tớ không phải là bill clinton:::disconfirm
+chính xác uuh:::autoPositive
+tớ là george washington:::inform
+oh:::autoPositive
+lần đầu tớ đoán đúng rồi:::inform
+ok:::autoPositive
+ừh:::agreement
+cậu làm tớ bối rối:::inform
+tớ xin lỗi nhưng:::apology
+tớ xin lỗi nhưng:::selfCorrection
+tớ xin lỗi:::apology
+nhưng cậu sẽ làm tốt hơn vào các lần tiếp theo:::inform
+cậu sẽ làm tốt hơn chúng ta còn nhiều vòng mà:::closing
+chúng ta còn nhiều vòng lắm:::inform
+okay mong là vậy mong là vậy:::autoPositive
+okay:::acceptApologychào cậu:::opening:returnGreeting
+uh:::turnTake:stalling
+cậu tên gì thế:::setQuestion
+tớ tên là gregor linn:::answer
+rất vui được gặp cậu:::autoPositive:initialGreeting
+tớ cũng rất vui khi gặp cậu:::autoPositive:returnGreeting
+uh:::turnTake:stalling
+hôm nay cậu thế nào:::setQuestion
+mh:::turnAccept
+tớ cũng ổn:::answer
+tớ cũng thế:::autoPositive:inform
+uh:::turnKeep:stalling
+chơi trò chơi đi:::suggest
+đầu tiên tớ sẽ nói luật chơi cho cậu:::inform:interactionStructuring
+tớ là một người rất nổi tiếng:::inform
+ờ:::autoPositive
+uh:::turnKeep:stalling
+cậu phải đoán tên của tớ:::instruct
+được thôi:::autoPositive
+cậu có thể hỏi bao nhiêu câu tùy ý ngoại trừ hỏi tên tớ là gì:::instruct
+hiểu rồi:::autoPositive
+cậu không nhất thiết phải hỏi câu hỏi lựa chọn:::instruct
+cậu có thể hỏi câu hỏi mở cũng được:::instruct
+tớ hiểu rồi:::inform:autoPositive
+cậu được thử 10 lần:::inform
+và sau 10 lần hoặc ít hơn nếu cậu đoán đúng tên tớ:::inform
+cậu sẽ thắng trò chơi:::inform
+còn không thì cậu thua:::inform
+okay:::autoPositive
+và:::turnGrab
+mhm:::autoPositive:turnRelease
+cậu vừa nói gì àh:::setQuestion
+ừh là:::turnKeep:stalling
+là:::selfCorrection
+uhm:::turnAccept:stalling
+cậu nhắc lại câu hỏi được không:::autoNegative
+cậu nói rõ lại câu hỏi được không:::autoNegative
+uhm:::turnTake:stalling
+cậu sẽ trả lời có hoặc không hoặc:::choiceQuestion
+uh:::turnKeep:stalling
+không:::answer:turnGrab
+tớ sẽ trả lời có hoặc không nói cậu hỏi câu hỏi lựa chọn:::inform
+tớ chắc chắn:::selfCorrection
+okay:::autoPositive
+uhm:::turnKeep:stalling
+nếu cậu hỏi câu hỏi mở tớ sẽ cố trả lời nó:::inform
+uh:::turnKeep:stalling
+mặc dù tớ không nhất thiết phải trả lời câu đấy:::inform
+okay:::autoPositive
+uhm:::turnKeep:stalling
+được rồi:::interactionStructuring
+cậu hiểu luật chưa:::propositionalQuestion
+yup:::confirm
+cậu muốn tớ nhắc lại gì không:::offer
+muốn không:::selfCorrection
+thôi:::declineOffer
+tớ nghĩ là tớ hiểu hết rồi:::inform
+mh:::turnKeep:stalling
+tốt:::autoPositive
+và một điều quan trọng nữa:::interactionStructuring
+và một điều quan trọng nữa:::inform
+tớ sẽ chỉ trở thành người nổi tiếng nữ giới:::inform
+uh:::turnKeep:stalling
+àh ok:::autoPositive
+mhm:::alloPositive
+được rồi:::autoPositive:interactionStructuring
+được rồi uh:::turnKeep
+uh:::stalling
+thế bắt đầu nào:::suggest
+câu hỏi đầu tiên là gì:::setQuestion
+cậu còn sống không:::propositionalQuestion
+không tớ không còn:::answer
+mhm:::autoPositive:turnTake
+uhm:::turnKeep:stalling
+uh:::turnTake:stalling
+cậu là người nước đức à:::propositionalQuestion
+không tớ không phải người đức:::answer
+uhm:::turnTake:stalling
+cậu có phải là người mỹ không:::propositionalQuestion
+không tớ không phải người mỹ:::answer
+uh:::turnTake:stalling
+cậu làm gì khi còn sống:::setQuestion
+ehm:::turnTake:stalling
+để tớ nghĩ một chút:::pausing
+uhm:::turnKeep:stalling
+tớ là:::answer
+tớ là công chúa:::answer
+tớ đã:::selfCorrection
+khi tớ còn sống:::answer
+và cậu đến từ đâu:::setQuestion
+tớ là người anh:::answer
+okay:::autoPositive
+uhm:::turnKeep:stalling
+uh:::turnKeep:stalling
+cậu mất ở đâu:::setQuestion
+chờ tý:::turnKeep:pausing
+uhm:::turnKeep:stalling
+tớ mất ở paris:::answer
+mhm:::autoPositive
+uhm:::turnKeep:stalling
+uhm:::turnKeep:stalling
+cậu là công chúa diana đúng không:::guess
+uh:::turnKeep:stalling
+đúng rồi:::confirm
+đó là câu trả lời chính xác:::inform
+giỏi lắm:::alloPositive:closing:congratulation
+okay:::autoPositive:closinguh:::turnKeep:stalling
+thực ra tôi sống ở châu âu trong vài năm:::inform
+tôi sống ở Đức:::inform
+và ở Đức họ không có hệ thống bồi thẩm đoàn:::inform
+về cơ bản họ chỉ có ba bồi thẩm đoàn:::inform
+uh:::stalling
+khi bạn đến đây:::inform
+các luật sư công tố sẽ đưa ra bằng chứng của mình:::inform
+bạn phủ nhận luật sư công tố các bằng chứng của họ:::inform
+ba người họ sẽ đưa ra bằng chứng đi xuống chỉ ra nó và sau đó quay lại và nói cho dù bạn có phạm tội hay không:::inform
+ou ou our:::turnTake:stalling
+hệ thống luật lệ của chúng tôi hỗn loạn hơn cả vậy:::inform
+voc_laugh:::autoPositive
+tôi nghĩ rằng những gì họ cần làm là họ cần phải bằng cách nào đó để lấy tiền:::inform
+voc_breath:::stalling
+ý tôi là:::stalling
+khi một người đàn ông đã ký một tuyên bố nói rằng anh ta có tội:::inform
+a a a:::stalling
+họ có một tập thể gọi là all day:::inform
+a a:::stalling
+họ đều là tội phạm:::inform
+uh-huh:::autoPositive
+tất cả bọn họ đều thú tội:::inform
+họ đi đến một nơi thử nghiệm bởi bồi thẩm đoàn:::inform
+họ thử những người đó trong vòng 22 năm kể từ khi tôi còn là một đứa trẻ:::inform
+wow:::autoPositive
+và:::turnTake
+những gì họ làm được là họ đã mua những chiếc xe mercedes rồi lại xe mercedes:::inform
+không có điều gì được thực hiện bằng công lý cho dù bất kì điều gì:::inform
+voc_breath:::turnTake
+voc_breath đó nó là vậy đó:::stalling
+nó là một trong những thứ:::autoPositive
+ý tôi là uh uh:::stalling
+tôi phải nhìn vào nó:::inform
+nếu mà:::stalling
+chỉ là:::selfCorrection
+uh:::stalling
+nếu họ đã làm điều đó chỉ với các thẩm phán cảnh sát phải làm việc tốt hơn rất nhiều và đảm bảo rằng bằng chứng của họ là kín:::inform
+vì các thẩm phán ngồi trong các loại công cụ ngày qua ngày họ biết tất cả các thủ tục:::inform
+họ sẽ biết điều gì là tốt điều gì không:::inform
+họ có khả năng để nói tôi xin lỗi:::inform
+bạn không thể sử dụng chúng như là một bằng chứng:::inform
+uh:::stalling
+bạn biết đó:::stalling
+bởi vì nó có thể là hợp pháp hoặc không:::inform
+và:::turnKeep
+bạn biết:::stalling
+bạn sẽ không phải trình bày mà luật sư sẽ đứng lên và trình bày với bồi thẩm đoàn:::inform
+uh uh:::stalling
+về:::stalling
+oh:::stalling
+và sau đó bồi thẩm đoàn nói không bỏ qua nó:::inform
+bỏ qua:::stalling
+và bồi thẩm đoàn sẽ không bỏ qua các bằng chứng đó:::inform
+uh:::stalling
+đúng rồi:::agreement
+tôi tôi tôi:::turnKeep:stalling
+tôi nghĩ hệ thống luật lệ là để bảo vệ lợi ích của mình:::inform
+nó có thể rất tốt:::agreement
+tôi tôi:::turnKeep:stalling
+tôi rất là coi thường nó:::inform
+uh:::turnTake:stalling
+uh:::stalling
+điều tôi thích thú là sở cảnh sát:::inform
+voc_breath họ không tập trung vào những tên tội phạm:::inform
+hệ thống luật lệ là để tập trung vào người dân:::inform
+bởi vì tôi và bạn đều có lịch làm việc:::inform
+chúng ta có thể gọi nó là làm việc:::inform
+chúng ta có số an sinh xã hội:::inform
+họ có thể theo dõi chúng ta:::inform
+chúng ta có điện thoại:::inform
+sau đó chúng ta có phiếu sec:::inform
+tội phạm thì không có những thứ đó:::inform
+chúng thực sự rất khó để bắt:::inform
+và nếu họ làm bắt chúng họ không nhận được bất kỳ khoản tiền nào từ chúng trong khi chúng tôi sẽ viết một tấm séc:::inform
+chúng ta:::selfCorrection
+đúng vậy:::agreement
+vậy bạn nghĩ họ sẽ tập trung nỗ lực vào những nơi nào:::inform
+đúng rồi:::agreement
+họ tập trung vào người dân không phải là tội phạm:::inform
+ồ:::turnGrab
+bạn sẽ thay đổi nó thế nào:::setQuestion
+voc_throat_clearing:::turnTake
+voc_throat_clearing bạn biết đó:::stalling
+nó là:::retraction
+tôi sẽ giải quyết vấn đề đó:::inform
+nhưng tôi:::inform
+voc_laugh:::autoPositive
+voc_laugh:::alloPositive
+để chi tiết cho người khác cũng được:::completion
+huh:::checkQuestion
+đúng rồi:::confirm
+rồi sẽ để lại chi tiết bạn sẽ làm gì:::inform
+tôi nghĩ sẽ bắt đầu với những gì bạn muốn:::inform
+như ở vùng atlanta tỉ lệ tội phạm là con số rất lớn:::inform
+bạn ra ngoài phố và họ sẽ đưa cho bạn tấm vé phạt tốc độ:::inform
+:::agreement
+tôi nghĩ một cách nào đó bạn phải đi ra khỏi đó:::inform
+ừm thì:::turnGrab
+bạn biết đấy uh:::stalling
+nói chuyện với luật sư nó có thể rất tốt nhưng nó sẽ mất một khoản phí:::inform
+bạn biết đáy:::stalling
+a uh a:::stallingbạn làm thế nào để đọc được các tin tức mới:::setQuestion
+ừm thì:::turnTake:stalling
+tôi:::selfCorrection
+uh:::stalling
+tôi xem bản tin truyền hình quốc gia:::answer
+uh:::stalling
+và tôi cũng đọc một đến hai tờ báo mỗi ngày:::answer
+và:::turnKeep
+tôi là một người nghiện tin tức:::inform
+rất là nhiều:::selfCorrection
+và:::turnKeep
+tôi mở cnn rất nhiều:::answer
+oh  wow:::autoPositive
+vậy:::turnKeep
+bạn nói tin tức buổi sáng buổi tối hoặc là tin quốc gia là khi nào:::setQuestion
+uh:::turnTake:stalling
+buổi tối lúc 6 giờ 30 tôi nghĩ vậy tôi xem các tin tức quốc gia:::answer
+oh:::turnTake:stalling
+được rồi:::autoPositive
+ừm thì:::turnKeep:stalling
+tôi thực ra là một người nghiện đọc tin hoặc là xem cnn rất nhiều:::inform
+xem:::selfCorrection
+nhưng mà:::turnKeep
+tôi không đăng kí truyền hình cáp:::inform
+tôi không tôi không:::stalling
+uh-huh:::autoPositive
+bởi bởi vì:::stalling
+bởi vì dịch vụ kém và cũng bởi vì tôi sử dụng united way:::inform
+uh:::stalling
+ừm:::turnKeep:stalling
+tôi uh tôi:::stalling
+vì vậy:::turnKeep
+tôi nhận ra rằng số tiền tôi bỏ ra cho nó:::inform
+uh-huh:::autoPositive
+ngược lại với số tiền cho truyền hình cáp:::checkQuestion
+yeah:::confirm
+tôi nhận lấy 1 chứng nghiện voc_laugh:::inform
+uh:::stalling
+voc_laugh:::autoPositive
+hoặc mộ thứ gì đó:::inform
+đúng rồi:::agreement
+ừm:::turnTake
+tôi:::retraction
+uh:::stalling
+tôi tôi:::retraction
+tổng quan chất lượng thông tin mà bạn có hầu hết tôi phải nói rằng nó thực sự thấp:::inform
+oh oh:::stalling
+uh:::stalling
+nó:::retraction
+thông thường những thông tin bạn nhận được khá là không đầy đủ:::inform
+và:::turnKeep
+đó là lí do mà tôi thử và có rất nhiều nguồn nhất có thể:::inform
+bởi vì nếu bạn nghe cùng 1 câu chuyện từ 3 nguồn khác nhau thì bạn sẽ thấy bức tranh rõ ràng hơn bạn sẽ thấy:::inform
+cái mà:::stalling
+nhưng mà:::turnKeep
+do đó bạn biết đó thật khó để nói rằng những gì bạn nghe được thực tế là vậy:::inform
+oh:::autoPositive:stalling
+cái gì:::turnTake
+cái gì cái gì:::stalling
+bạn đọc những tạp chí gì:::setQuestion
+à:::turnTake
+tôi đọc những tạp chí địa phương:::answer
+uh:::stalling
+và:::turnKeep
+và tôi cũng thường đọc mội số những báo chuyên ngành như chicago tribune new york times hoặc thứ gì đó tương tự:::answer
+uh:::stalling
+uh-huh:::autoPositive
+có một khoảng thời gian tôi cũng đăng kí new york time một vài tờ khác:::inform
+tôi tôi uhm:::stalling
+a- thực ra:::stalling
+uh bạn biết đấy:::stalling
+thực ra thì:::turnKeep
+bởi vì tài chính cô ấy đã thất nghiệp trong 1 khoảng thời gian:::inform
+vì vậy cô ấy rất muốn đọc báo quảng cáo:::inform
+uh-huh:::autoPositive
+à các tờ báo thường xuyên cố gắng cạnh tranh rất nhiều nguồn thông tin với những tờ báo khác:::inform
+họ tr- the những tờ báo:::selfCorrection
+những tờ báo- uh thông tin:::stalling:selfCorrection
+phải rồi:::autoPositive
+và:::turnTake
+tôi không biết:::inform
+new york times được đó:::inform
+nhưng mà:::turnKeep
+uh:::stalling
+nhưng khi bạn đọc rất nhiều tờ báo chất lượng của những bài viết chắc chắn đã đi xuống trong 10 năm trở lại đây:::inform
+the the:::stalling
+nhưng mà:::turnKeep
+uh-huh:::autoPositive
+ý tôi là:::stalling
+họ họ:::stalling
+họ viết nó nhưng trình độ học sinh lớp 6:::inform
+nhưng tôi thề nó như là lớp 2 hoặc lớp 3:::inform
+phải rồi:::autoPositive
+voc_laugh:::autoPositive
+rất kém:::autoPositive
+voc_throat_clearing:::turnTake
+nhưng tôi không biết:::inform
+uh:::turnKeep:stalling
+phải rồi:::agreement
+tôi tôi:::stalling
+tôi rất là thích nrp:::inform
+nó rất tốt:::agreement
+uh:::stalling
+và:::turnKeep
+on on uh:::stalling
+tôi thích nghe những thông tin đó khi tôi có cơ hội khi ở trên xe:::inform
+to to:::stalling
+phải rồi:::agreement
+đúng rồi:::agreement
+tôi cũng rất nhớ nrp:::inform
+tôi thực sự thích họ vì họ đưa ra thay vì như tờ báo của bạn hoặc truyền hình tin tức của bạn nơi bạn nhận được một lời giới thiệu năm phút hoặc một lời giới thiệu mười đoạn họ thực sự đi vào chiều sâu về các chủ đề mà tôi nghĩ là tốt:::inform
+uh:::stalling
+uh:::turnTake:stalling
+và:::turnTake
+họ cũng:::retraction
+biên tập của họ tốt hơn nhiều so với như bạn nói những trang báo hoặc những thứ tương tự:::inform
+đúng rồi:::turnTake
+mcneil neil:::selfCorrection
+neil and lehrer họ rất giỏi:::inform
+tôi đoán là 1 trong số họ đã rời đi:::inform
+họ đã rời đi một trong số họ đã rời đi:::selfCorrection
+uh-huh:::autoPositive
+uh:::turnTake:stalling
+họ họ:::stalling
+uh:::turnKeep:stalling
+ôi đoán một năm trước đây có lẽ bạn đang xem cnn rất nhiều phải không?:::checkQuestion
+đúng rồi:::confirm
+yeah:::confirm
+đã có sự bắt đầu:::inform
+đúng vậy:::agreement
+uh:::turnTake:stalling
+tôi không biết:::stalling
+nhưng tôi đoán nó vẫn còn cường điệu một tí:::inform
+nó vẫn nhiều vẫn nhiều:::selfCorrection
+nhìn vào smith:::suggest
+uh-huh:::autoPositive
+ý tôi là nó thật là hài hước:::inform
+yeah:::agreement
+nhưng mà:::turnKeep
+nhưng sau đó bạn cũng có những thứ mà họ phát sóng các buổi điều trần clarence thomas về cơ bản toàn bộ chiều dài của họ mà tôi nghĩ là thực sự tốt:::inform
+uh:::stalling
+r- thực sự:::stalling
+ồ phải rồi nrp đã làm nó phải ròi:::agreement
+tôi đã có một số khách truy cập ông chỉ tôi không biết gắn bó với đó chỉ nghe nó liên tục:::inform
+uh:::stallingđược rồi:::autoPositive
+uh:::turnKeep:stalling
+bạn có người bạn nào đã có con không:::propositionalQuestion
+tôi có những người bạn mà họ đã có con:::answer
+vâng:::answer
+và họ nói gì về việc tìm nơi chăm sóc trẻ tốt:::setQuestion
+tôi nghĩ đó có thể là từ khóa:::inform
+tôi nghĩ điều đó đúng:::agreement
+họ tương đối không hiện hữu từ những gì tôi nghe được từ bạn bè của tôi:::inform
+uh:::stalling
+từ ừm từ:::stalling
+có vẻ như ngay cả khi họ đã tham khảo trung tâm chăm sóc ban ngày có uy tín những nơi đại loại như có một chuỗi nếu tôi có thể sử dụng từ đó bạn vẫn phải thỏa hiệp với những người  tình cờ được điều hành nó tại địa phương:::inform
+uh:::stalling
+right:::autoPositive
+uh:::stalling
+bạn biết đó:::stalling
+và:::turnKeep
+uh:::stalling
+đó chỉ là vấn đề về sự tin tưởng bạn biết đó:::inform
+of of:::stalling
+tôi nghĩ rằng họ cảm thấy những người đó có trình độ dưới mức cơ bản và được trả lương không thỏa đáng:::inform
+um:::stalling
+và:::turnKeep
+tôi nghĩ điều đó có liên quan mật thiết đến nhau:::inform
+it's it's:::stalling
+nên điều đó thật khó cho họ:::inform
+ừm thì:::turnTake
+chúng ta chắc chắn nhận thấy điều đó là sự thật:::agreement
+huh-uh:::autoPositive
+uh:::stalling
+thực sự chúng tôi đã:::retraction
+nhứng đứa con của chúng tôi hiện mười một và chín tuổi:::inform
+huh-uh:::autoPositive
+và:::turnKeep
+chúng tôi chuyển đi từ một trung tâm chăm sóc trẻ được thể chế hóa:::inform
+huh-uh:::autoPositive
+nếu chúng ta có thể gọi những chuỗi đó như thế ừm bằng cái tên đó:::inform
+phải:::autoPositive
+uh:::stalling
+như thế bằng cái tên đó:::selfCorrection
+phải:::autoPositive
+và nhận ra rằng nhiều creative avenues là câu trả lời đúng đắn cho chúng tôi:::inform
+uh:::stalling
+huh-uh:::autoPositive
+huh-uh:::autoPositive
+uh:::stalling
+từng có thời điểm chúng tôi có au paris:::inform
+huh-uh:::autoPositive
+bằng cách trao đổi dịch vụ với họ:::inform
+huh-uh:::autoPositive
+và:::turnKeep
+việc đó hiệu quả được một thời gian:::inform
+nhưng một người phù hợp thì thực sự rất khó để tìm được:::inform
+họ đã thực sự người phù hợp đã thực sự:::selfCorrection
+tôi chắc chắn rằng điều đó đúng:::agreement
+việc đó cần đến sự pha trộn của những sinh viên đại học rất trưởng thành những người muốn làm một cái gì đó và chưa sẵn sàng dành thời gian và sự quan tâm đến trẻ em:::inform
+huh-uh:::autoPositive
+phải:::autoPositive
+phải:::autoPositive
+tôi có một người bạn cô ấy và bạn cùng phòng đã từng làm người chăm sóc ở tại nhà chủ:::inform
+uh uh:::stalling
+việc đó:::retraction
+cô ấy và bạn cùng phòng đã từng làm người chăm sóc ở tại nhà chủ:::inform
+và:::turnKeep
+họ thích việc đó:::inform
+họ đã ở cùng gia đình đó từ lúc những đứa trẻ còn nhỏ bạn biết đó bốn hoặc năm tuổi mãi đến khi bọn trẻ đến trường:::inform
+bạn biết đó:::stalling
+và:::turnKeep
+uh:::stalling
+cô ấy được trả rất hậu hĩnh vì phụ huynh tin tưởng họ:::inform
+họ phụ huynh:::selfCorrection
+và:::turnKeep
+họ đã làm được một công việc tốt:::inform
+bạn biết đó:::stalling
+vì vậy tôi có thể nhìn thấy nơi mà một người nào đó ở một vị trí như thế có khả năng sống cùng chủ nhà chắc chắn sẽ là con đường để đi nếu bạn đủ may mắn để có tài chính để có thể làm điều đó:::inform
+um:::stalling
+bạn biết đó:::stalling
+you're you're:::stalling
+ừm thì:::turnTake
+điều đó đúng:::agreement
+yeah:::autoPositive
+và đó là điều mà chúng ta đang phải vật lộn bây giờ:::inform
+yeah:::autoPositive
+tôi nghĩ rằng đó chỉ là  vấn đề ưu tiên:::inform
+đó là một điều khủng khiếp để nói khi bạn đang nói về trẻ em theo cách đó:::inform
+nó là ừm bạn biết nó là:::stalling
+nhưng bạn vẫn phải thực tế giống như vậy tôi nghĩ rằng:::inform
+oh:::turnTake:stalling
+yeah:::agreement
+yeah:::autoPositive
+yeah:::autoPositive
+cũng giống như các nền văn hóa khác không đồng ý cuộc sống của chúng tôi không xoay quanh con cái chúng ta:::inform
+yeah:::autoPositive
+yeah:::autoPositive
+và:::turnKeep
+thật tệ khi cũng phải thừa nhận điều đó:::inform
+that's that's that's:::stalling
+nhưng nó chỉ là có rất nhiều áp lực khi bạn đang nói về hai người làm việc xa gia đình:::inform
+ừm bạn biết đó:::stalling
+và và:::stalling
+tôi nghĩ rằng đó là một trong những lý do tại sao tôi tiếp tục không có con:::inform
+tôi:::retraction
+nó thật đúng là một trách nhiệm:::inform
+và và:::stalling
+khi tôi đã có những người bạn đã nói - khi bạn nghe người ta nói:::selfCorrection
+khi bạn nghe người ta nói nó làm thay đổi cuộc sống của bạn mãi mãi xin hãy chú ý voc_laugh:::inform
+it it:::stalling
+vâng tôi nhận ra đó là sự thật:::inform
+vậy nó thật đúng là một trách nhiệm:::inform
+uh:::stalling
+vâng:::turnTake
+nó quả thực là vậy:::agreement
+uh:::stalling
+nếu tôi có thể (()) ở trong tình huống ngược lại một lúc:::request
+huh-uh:::autoPositive
+Đó là một vinh dự và xúc động  được làm cha mẹ mà phần lớn thời gian điều đó xứng đáng:::inform
+oh:::stalling
+yeah:::autoPositive
+huh-uh:::autoPositive
+yeah voc_laugh:::autoPositive
+phần lớn thời gian voc_laugh:::agreement
+vâng:::turnTake
+tôi phải thành thật về điều đó:::inform
+điều đó không phải luôn xứng đáng:::inform
+yeah:::autoPositive
+oh:::stalling
+chắn chắn:::autoPositive
+chắn chắn:::autoPositive
+chắn chắn:::autoPositive
+chắn chắn:::autoPositive
+có những lúc tôi nghĩ gee nếu tôi không có con tôi có thể ra ngoài chơi ((cầu)) hay golf:::inform
+phải:::autoPositive:turnTake
+phải:::autoPositive
+phải:::autoPositive
+phải:::autoPositive
+nhưng:::turnKeep
+điều đó thật buồn cười:::inform
+bạn biết đó:::stalling
+tôi từng làm tôi từng có:::selfCorrection
+bạn biết đó:::stalling
+tôi có một người bạn nói rằng trước khi chúng ta luôn nói rằng chúng ta không muốn con cái bởi vì chúng ta không thể rời bỏ sự thôi thúc của thời điểm hay bởi cái này hay cái kia và những thứ khác:::inform
+và:::turnKeep
+cô ấy già đi:::inform
+và:::turnKeep
+cô nói đằng nào chúng ta cũng không bao giờ làm những đó:::inform
+nhưng bạn biết đó:::stalling
+nên:::turnKeep
+tại sao voc_laugh tại sao:::stalling
+bạn biết đó:::stalling
+tại sao tôi vẫn đang chờ đợi:::inform
+it's its:::stalling
+Đó chỉ là cách thức thái độ của bạn thay đổi:::inform
+và:::turnKeep
+bạn trưởng thành tôi cho rằng thế:::inform
+nhưng về việc chăm sóc con tôi có những người bạn vật lộn về tài chính và cả hai đều phải làm việc:::inform
+tôi bạn biết đó tôi:::stalling
+và và:::stalling
+Đó là một vấn đề không nhất thiết rằng cô ấy có thể muốn ở nhà hoặc anh ấy cũng như:::inform
+uh:::stalling
+nhưng bạn biết đó họ cần tiền:::inform
+và khi tôi nhìn thấy một số người bạn của tôi đã đưa đứa bé sáu tuần tuổi bạn đã biết cho người khác nó chỉ là tôi có thể tưởng tượng được rằng cảm xúc nó phải được nhân lên với thực tế rằng bạn không thực sự tin tưởng vào người đó hoặc bạn lại khó chịu với tình trạng này cũng như nơi chăm sóc trẻ em:::inform
+uh:::stalling
+và và bạn biết đó:::stalling
+um:::stalling
+điều đó thật đáng sợ:::inform
+vâng:::turnTake
+chúng tôi thật may mắn khi con chúng tôi từng ở độ tuổi đó:::inform
+và:::turnKeep
+đã sống trong một cộng đồng trong một thời gian chúng tôi biết người mà chúng tôi đã tin tưởng trao con chúng tôi:::inform
+và:::selfCorrection
+huh-uh:::autoPositive
+đó là một điểm cộng lớn:::autoPositive
+và cảm thấy cảm giác an toàn:::inform
+điều đó điều đó:::stalling
+phải:::autoPositive
+phải:::autoPositive
+phải:::turnKeep
+chúng tôi để lại cho họ (()) con nhỏ:::inform
+huh-uh:::autoPositive
+nhưng:::turnKeep
+chúng tôi cũng học được một số điều từ trải nghiệm đó và con chúng tôi đã lớn hơn:::inform
+yeah:::autoPositive
+đó là những người trông trẻ không biết hết mọi thứ:::inform
+huh-uh:::autoPositive
+họ không phải là tất cả với tất cả mọi người:::inform
+phải:::autoPositive
+hay với tất cả trẻ con:::inform
+phải:::autoPositive
+phải:::autoPositive
+yeah:::autoPositive
+những người tốt với trẻ sơ sinh có xu hướng không được tốt với trẻ mới biết đi:::inform
+huh-uh:::autoPositive
+huh-uh:::autoPositive
+tôi không biết:::stalling
+tôi nghĩ rằng mức độ kiên nhẫn của bạn cần phải tăng khi đứa trẻ lớn lên voc_laugh:::inform
+phải cần phải:::selfCorrection
+tôi nghĩ đó có thể là một phần của vấn đề với một số người bạn biết đó:::inform
+chăm sóc một đứa trẻ tôi biết không phải là một việc dễ dàng:::inform
+nhưng khi bạn có chúng đôi bàn chân nhỏ bé đang di chuyển:::inform
+của chúng của chúng:::stalling
+và:::turnKeep
+bạn phải đuổi theo chúng liên tục:::inform
+tôi chắc chắn đó là cả một trò chơi bóng mới:::inform
+oh:::stalling
+yeah:::autoPositive
+yeah:::autoPositive
+tôi có một đứa con chín tuổi đứa mà tôi sẽ vui lòng đổi lấy một em bé:::inform
+voc_laugh ồ thật á:::autoPositive
+vâng:::turnTake
+nghe giống như bạn sẵn sàng bỏ qua phần tệ nhất hơn là lo lắng về nó:::inform
+lo lắng về nó từ khi chúng đều đi học bạn không phải lo lắng về chúng:::selfCorrection
+vì chúng đều đến truwongf bạn không phải lo lắng về  mottj người dành toàn thời gian để chăm sóc chúng << giọng tăng và giảm dần>>:::inform
+oh:::turnTake:stalling
+bạn không biết những gì sẽ xảy ra sau khi chúng đi vào trường học:::inform
+voc_laugh Đó là một cái gì đó hoàn toàn khác:::inform
+uh:::stalling
+oh:::turnTake:stalling
+vâng:::agreement
+bây giờ chúng ta có một người  học piano:::inform
+uh:::stalling
+huh-uh:::autoPositive
+ở đâu đó vào một buổi chiều:::inform
+và:::turnKeep
+và người còn lại tất nhiên không thể làm điều tương tự:::inform
+oh:::stalling
+tất nhiên là không:::agreement
+nó phải là một nơi khác:::inform
+và không nó không đủ để ngồi và đợi:::inform
+voc_laugh bạn không thể làm điều đó:::agreement
+không:::agreement
+không:::agreement
+không:::agreement
+không:::agreement
+chỉ là:::retraction
+nó sẽ không làm:::agreement
+điều đó không đúng trọng tâm câu hỏi:::agreement
+tôi chắc chắn:::agreement
+tất nhiên:::agreement
+nhưng:::turnKeep
+chúng tôi đang giúp bạn biết đấy:::inform
+phải:::autoPositive
+phải:::autoPositive
+chúng ta đang hợp tác:::inform
+có chuyện gì với bạn vậy:::setQuestion
+phải:::autoPositive
+phải:::autoPositive
+bạn không hiểu điều này:::inform
+huh-uh:::autoPositive
+đó chỉ là cách suy nghĩ của họ:::inform
+và:::turnKeep
+nó gần như hàng ngày:::inform
+điều đó thật tuyệt:::autoPositive
+thật tuyệt khi mọi người thật sự:::inform
+sức chịu đựng mà bạn phải rút ra từ bản thân để đối phó với nó:::inform
+bạn biết đó:::stalling
+nó chắc hẳn phải thú vị:::inform
+tôi đoán bạn phát hiện ra rằng bạn là một người mạnh mẽ hơn nhiều so với bạn nghĩ có thể:::inform
+vâng:::turnTake
+tôi đã phát hiện ra tôi thực sự là một người tốt:::inform
+sự thành công trong vòng nhiều năm:::inform
+voc_laugh:::autoPositive
+bởi vì tôi đã không cần đến nó:::inform
+voc_laugh  huh-uh:::autoPositive
+và:::turnKeep
+giờ tôi cần nó:::inform
+yeah:::autoPositive
+và:::turnKeep
+nó vẫn ở mức rất thấp voc_laugh:::inform
+voc_laugh:::autoPositive
+voc_laugh:::autoPositive
+vâng:::turnTake
+bạn có cảm thấy yên tâm khi chúng trở về nhà sau giờ học chỉ đến khi bạn và vợ trở về nhà:::propositionalQuestion
+um:::stalling
+tất nhiên là không:::answer:turnGrab
+không:::autoPositive
+yeah:::autoPositive
+ý tôi là một trong số chúng tôi sẽ không giám sát bất cứ lúc nào  bất cứ nơi nào bất cứ ở đâu:::inform
+tôi sẽ tôi sẽ:::stalling
+huh-uh:::autoPositive
+uh:::stalling
+một trong những khác tôi sẽ không để lại hai phút không có giám sát:::inform
+yeah:::autoPositive
+yeah:::autoPositive
+Đó chỉ là một sự khác biệt ở con cái tôi giả sử:::inform
+điều đó đúng:::autoPositive
+yeah:::autoPositive
+một sẽ dẫn đến cái khác:::checkQuestion
+huh-uh:::confirm
+yeah:::confirm
+và uh:::turnTake:stalling
+và:::turnTake
+nó là nó là:::stalling
+đó là người sẽ xuống dốc:::inform
+có phải nó có phải nó:::stalling
+có phải đứa cần nhiều sự giám sát sẽ có ảnh hưởng xấu đến đứa lớn hơn hoặc trưởng thành hơn:::propositionalQuestion
+cần cần:::stalling
+tất nhiên:::answer
+yeah voc_laugh:::autoPositive
+thật đáng tiếc voc_laugh:::inform
+bạn không nghĩ rằng bạn không nghĩ rằng:::stalling
+bạn không nghĩ rằng đó là ưu thế:::checkQuestion
+vâng:::turnTake
+tôi tôi tôi:::stalling
+tôi sống trông thế giới mơ ước:::inform
+những gì tôi biết:::inform
+như tôi đã nói tôi không có con:::inform
+và:::turnKeep
+tôi là con một:::inform
+vì vậy tôi chưa bao giờ có trẻ con ở cạnh:::inform
+vậy nên tôi đại loại như bị lúng túng nơi liên quan đến việc đó:::inform
+uh:::stalling
+nhưng tôi có nghe các bạn tôi nói về nó:::inform
+chúng tôi chúng tôi:::stalling
+chúng tôi thực sự vui vẻ:::inform
+vợ tôi và tôi đều là con một:::inform
+huh-uh:::autoPositive
+và:::turnKeep
+chúng tôi đã không thể đợi để có hai đứa con để chúng có thể làm bạn:::inform
+yeah voc_laugh:::autoPositive
+sai rồi:::inform
+voc_laugh  việc đó như chiến tranh thế giới thứ ba trong từng phút voc_laugh:::inform
+tôi không biết:::stalling
+tôi tôi tôi:::stalling
+tôi phải thừa nhận tôi từng ích kỷ như một đứa trẻ:::inform
+ích ích kỷ:::selfCorrection
+tôi từng không muốn có anh chị em:::inform
+và:::turnKeep
+giờ khi tôi đã lớn tất nhiên chuyện đó sẽ khác:::inform
+bạn biết đó:::stalling
+tôi suy nghĩ về nó sẽ không được tốt đẹp:::inform
+ừm:::stalling
+nhưng ừm dù thế nào:::stalling
+hãy trở thành những người bạn tốt:::suggest
+yeah oh:::autoPositive
+tôi có những người bạn tuyệt vời:::inform
+điều đó đúng:::autoPositive
+bạn thân của tôi là là một trong mười đứa con:::inform
+và vì thế:::turnKeep
+họ đại loại như nhận nuôi tôi như đứa con thứ mười một:::inform
+bạn biết đó:::stalling
+nên việc đó diễn ra khá tốt:::inform
+cô không bao giờ phải lo lắng về việc ai để chăm sóc con bởi vì luôn luôn có ai đó có lớn hơn để giải quyết với họ:::inform
+vì vậy tôi đoán đó là một sự thay thế:::inform
+nếu bạn chỉ có thể hãy có cả một đoàn người voc_laugh:::inform
+um:::stalling
+có vừa đủ:::completion
+voc_laugh:::autoPositive
+trong lúc những đứa bé nhất ở đó bạn sẽ có đứa lớn hơn chăm sóc chúng:::inform
+điều đó đúng:::autoPositive
+tôi không biết:::stalling
+khi bạn xem tất cả những chuyện đáng sợ trên tivi về nơi chăm sóc trẻ:::inform
+và:::turnKeep
+chúa ơi:::inform
+tôi đã từng xem một số thứ trên tivi gần đây về một cô bé kể với mẹ những câu chuyện tồi tệ:::inform
+và:::turnKeep
+tất nhiên mọi người phủ nhận nó:::inform
+và:::turnKeep
+uh:::stalling
+nó thật đáng sợ:::inform
+nó thật sự thế:::inform
+vâng:::turnTake
+cái gì cái gì:::stalling
+điều đáng sợ là bố mẹ thấy những điều bạn thực sự không hiểu:::inform
+điều đó điều đó:::stalling
+huh-uh:::autoPositive
+huh-uh:::autoPositive
+và rồi bạn thực sự không biết chuyện gì xảy ra:::inform
+yeah:::autoPositive
+chúng tôi đã đuổi việc một người trông trẻ vì chúng tôi trở về nhà vào một đêm và tìm thấy một mảnh dây băng:::inform
+um:::stalling
+huh-uh:::autoPositive
+bạn biết đó:::stalling
+:::inform
+huh-uh:::autoPositive
+cột vào ghế:::inform
+nơi mà tất nhiên cô ta:::inform
+đã có đã có:::stallingvoc_breath:::autoPositive:alloPositive
+đi về phía nam và bạn sẽ vượt qua một số vách đá bên phải của bạn:::instruct
+được rồi:::acceptRequest
+đúng rồi:::acceptRequest
+và tiếp tục đi xuống hướng nam:::instruct
+mmhmm:::acceptRequest
+qua một xưởng bên phải bạn:::instruct
+vượt qua gì vậy:::setQuestion
+một cái xưởng:::answer
+được rồi:::turnKeep
+nonvocal tiếp tục đi theo hướng bên phải:::instruct
+phải rồi:::autoPositive:turnTake
+và rồi lại vòng theo hướng đông:::instruct
+đi xuống một cánh đồng lúa mỳ à:::checkQuestion
+vậy tôi có phải đi thẳng không:::checkQuestion
+không phải đi xuống xa vậy vậy đâu:::disconfirm
+không phải xuống xa như vậy:::autoPositive
+không:::alloPositive
+phải rồi:::acceptRequest:autoPositive
+phải đi vòng:::autoPositive
+phải đi vòng:::alloPositive
+và sau đó quay lại:::instruct
+sau đó bạn sẽ đi theo hướng bắc:::instruct
+phải rồi:::acceptRequest
+phải rồi:::autoPositive
+bạn đang ở:::checkQuestion
+và tôi như đang đi giữa những vách núi và rừng thông:::choiceQuestion
+ồ:::autoPositive
+bạn vượt qua rừng thông:::answer
+rừng thông bên phải bạn:::inform
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+và bạn tiếp tục đi qua nó:::instruct
+cho đến khi bạn vừa đi đến đầu của rừng thông:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+và rồi lại đi hướng đông tiếp:::instruct
+đi lại hướng đông:::autoPositive
+đi lại hướng đông:::alloPositive
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+được rồi:::autoPositive:turnRelease
+được rồi:::autoPositive:alloPositive
+được rồi:::autoPositive
+phải rồi:::autoPositive:alloPositive:turnTake
+hướng đông:::instruct
+đi thêm một chút:::inform
+ừmmm:::turnKeep:stalling
+và bắt đầu đi theo hướng nam:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+rừng thông đang ở trên đường của bạn:::inform
+ehm:::autoNegative:turnTake:stalling
+đúng rồi:::agreement
+uh-huh:::agreement
+phải rồi:::autoPositive:alloPositive
+phải rồi:::acceptRequest
+bạn tiếp tục đi xuống tiếp rừng thông:::instruct
+phải rồi:::acceptRequest
+và sau đó bắt đầu đi theo hướng nam:::instruct
+okay:::acceptRequest
+sau đó bạn đi theo lại hướng đông:::instruct
+và:::turnKeep:stalling
+và bạn đi vòng quanh một cái tiệm bánh:::instruct
+yeah:::acceptRequest
+phải rồi:::autoPositive:alloPositive
+tôi sẽ đi theo hướng đông xuống tiệm bánh:::checkQuestion
+xuống tiệm bánh:::confirm
+phải rồi:::autoPositive
+uh-huh phải rồi:::alloPositive
+được rồi:::acceptRequest
+và sau đó đi lại về hướng tây:::instruct
+whoa whoa:::autoNegative
+đợi một chút:::pausing
+phải rồi:::autoPositive
+tôi đi xuống khu rừng thông:::inform
+tôi sẽ đi thẳng xuống hướng phải:::inform
+phải rồi:::agreement
+đi thẳng xuống:::selfCorrection
+rồi bạn:::checkQuestion
+cho đến khi bạn không:::inform
+cho đến đi bạn ở phía trên của tiệm bánh:::inform
+à phải rồi:::autoPositive
+phải rồi:::alloPositive
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+đi vòng một chút cho đến đi bạn ở dưới nó:::instruct
+phải rồi:::autoPositive:turnKeep
+sau đó đi theo hướng tây:::instruct
+phải rồi:::autoPositive
+được rồi tôi đã hiểu:::acceptRequest
+phải rồi:::autoPositive
+và sau đó đi xuống hướng nam:::instruct
+được rồi:::acceptRequest
+nó là một cái nhà hàng:::inform
+yeah:::agreement
+chính là nó:::checkQuestion
+phải rồi:::confirm
+uh-huh:::autoPositive
+và nó có một:::inform
+bạn có thể đi vòng:::propositionalQuestion
+đi vòng theo nhà hàng:::instruct
+yeah:::answer
+phải rồi:::acceptRequest
+vậy bạn sẽ đi theo hướng tây:::checkQuestion
+uh-huh:::acceptRequest
+được:::confirm
+phải rồi:::autoPositive:alloPositive:turnTake
+và bạn sẽ đi theo hướng tây nam:::instruct
+um:::turnKeep:stalling
+mmhmm:::acceptRequest
+ở giữa cánh đồng lúa mỳ và cái nhà kho:::inform
+ở giữa chúng:::inform
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+phải rồi:::autoPositive
+bạn đi đúng đó:::instruct
+yep:::autoPositive:turnAssign
+và sau đó đi theo hướng tây:::instruct
+phải rồi:::acceptRequest
+vậy thì bạn sẽ ở giữa chúng:::checkQuestion
+ở giữa:::confirm:alloPositive
+um:::turnKeep:stalling
+phải rồi:::autoPositive
+mmhmm:::autoPositive:alloPositive
+được rồi:::acceptRequest
+và sau đó đi theo hướng tây nam theo cạnh của bản đồ:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+phải rồi:::autoPositive:alloPositive
+và sau đó là huớng nam:::instruct
+mm:::autoPositive
+phải rồi:::acceptRequest
+và sau đó bạn sẽ đi theo hướng đông:::instruct
+um:::turnKeep:stalling
+bạn sẽ đến một ngọn hải đăng:::instruct
+vậy phải đi xuống các hang động:::checkQuestion
+sau đó đi theo hướng đông cho đến khi bạn đến ngọn hải đăng:::instruct
+phải rồi:::autoPositive
+được rồi:::acceptRequest
+phải rồi:::autoPositive:alloPositive
+đó là kết thúc:::inform
+trên hay dưới:::choiceQuestion
+thật là thú vị:::autoPositive
+ở bên cạnh:::answer
+voc_laugh:::autoPositivephải rồi:::autoPositive:alloPositive:turnKeep:opening
+tôi đang bắt đầu đi từ phía trước nơi cắm trại dành cho xe rv:::interactionStructuring
+phía trước:::selfCorrection
+mmhmm:::autoPositive
+được:::autoPositive:turnTake
+mmhmm:::autoPositive
+phải rồi:::autoPositive:turnTake
+và chúng ta sẽ đi thẳng xuống phía nam:::instruct
+thẳng:::selfCorrection
+với nơi cắm trại dành cho xe rv ở phía bên tay phải:::instruct
+được:::acceptRequest:autoPositive
+được:::autoPositive:turnTake
+và bạn sẽ đi xuống phía dưới và sau đó đi theo hình chữ u:::instruct
+uh-huh:::acceptRequest:autoPositive
+và chúng ta sẽ đi lên:::instruct
+and were going to have the old:::instruct
+ehm:::turnTake:stalling
+có phải chúng ta đang đi:::propositionalQuestion
+có phải chúng ta đang đi tới phía dưới hàng rào:::propositionalQuestion
+có phải chúng ta đang đi:::selfCorrection
+phía dưới của cái gì  cơ:::autoNegative
+cái cọc:::autoPositive:answer
+hàng rào:::checkQuestion:completion
+hàng rào:::autoPositive:alloPositive
+tôi không thấy cái nào cả vì vậy:::inform
+tôi sẽ nói rằng:::inform
+ở đâu có hàng rào:::setQuestion
+hàng rào ở phía dưới cối xay:::answer
+cái mà ở dưới nơi cắm trại dành cho xe rv:::inform
+phải được rồi:::autoPositive:turnTake
+vậy bạn muốn cái cối xay cũ ở phía bên tay phải nên:::instruct
+nếu hàng rào ở phía dưới cái cối xay cũ bạn muốn giữ nó ở phía bên tay phải:::instruct
+nếu cái hàng rào đó ở phái dưới cái cối xay:::instruct
+được rồi:::acceptRequest
+được rồi:::autoPositive:turnTake
+vậy bạn đi lên và sau đó bạn đi lên phía trước cái cối xay cũ:::instruct
+và rẽ phải:::instruct
+cái cối xay cũ:::autoPositive
+cái cối xay cũ:::alloPositive
+ôi phải rồitôi vừa mới tới chỗ cối xay:::inform
+cối xay:::correction:alloNegative
+bạn mới chỉ tới chỗ cối xay:::autoPositive
+phải được rồi:::autoPositive
+uh-huh:::alloPositive
+nhưng cứ tiếp tục vượt qua chỗ đó:::instruct
+vậy tôi sẽ đi xuống phía dưới hàng rào:::propositionalQuestion
+phải rồi:::autoPositive:turnTake
+chúng ta đã đi xuống dưới từ nơi cắm trại dành cho xe rv và chúng tôi đang đi theo hình chữ u:::instruct
+mmhmm:::autoPositive
+mmhmm:::autoPositive
+được rồi:::autoPositive
+và sau đó bạn sẽ tiến về phía bắc đúng không:::instruct
+đúng không:::feedbackElicitation
+chờ đã cái hình dạng ở ngay bên dưới cối xay mà ngay bên dưới nơi cắm trại dành cho xe rv ở đâu:::pausing
+:::setQuestion
+ngay bên dưới cái cối xay:::propositionalQuestion
+ngay bên dưới nơi cắm trại dành cho xe rv:::propositionalQuestion
+không không:::answer
+yeah:::answer
+phải:::autoPositive
+nơi cắm trại dành cho xe rv nằmngay trên nền của chữ u:::inform
+ở trước:::selfCorrection
+ở trước:::autoPositive
+the:::selfCorrection
+phải:::autoPositive
+được rồi phải phải phải:::autoPositive
+phải được rồi:::autoPositive
+và bạn đi lên:::instruct
+và cái cối xay cũ:::inform
+vâng cái cối xay cũ của tôi ở bên phải nên cái cối xay của bạn và hàng rào sẽ ở bên phía tay phải:::inform
+nên cái cối xay của bạn và hàng rào sẽ ở bên phía tay phải:::inform
+phải:::agreement:autoPositive
+được rồi phải phải phải:::feedbackElicitation
+uh-huh:::autoPositive

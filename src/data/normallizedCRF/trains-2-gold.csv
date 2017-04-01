@@ -1,0 +1,79 @@
+Data
+<offer>tôi có thể giúp gì cho anh ạ</offer>
+<acceptOffer>vâng</acceptOffer>
+<inform>tôi có chút vẫn đề tôi cần chuyển 2 tàu nước cam đến avon và 3 thùng đựng chuối đến elmira</inform>
+<inform>số chuối phải đến elmira trước 9 giờ tối</inform>
+<autoPositive>được ạ</autoPositive>
+<turnTake>um</turnTake>
+<inform>tôi chỉ muốn dùng động cơ loại hai</inform>
+<autoPositive>dạ vâng</autoPositive>
+<turnTake>nên ... voc_noise</turnTake>
+<inform>và tôi chỉ có thể sử dụng động cơ loại hai</inform>
+<turnKeep>và</turnKeep>
+<inform>hai tàu chở nước cam từ avon tôi dùng độgn cơ hai và đưa lên hai t(hùng)- từ elmira và mang chúng đến và chuyển lên hai thùng và mang chúng trả lại elmira để đổ nước cam</inform>
+<turnKeep>voc_click</turnKeep>
+<autoPositive>mm hm</autoPositive>
+<turnKeep>voc_click</turnKeep>
+<autoPositive>được rồi ạ</autoPositive>
+<propositionalQuestion>anh có muốn chất thùng hàng lên khi ở corning không</propositionalQuestion>
+<answer>tôi có</answer>
+<autoPositive>vâng</autoPositive>
+<turnTake>và</turnTake>
+<instruct>sau đó số nước cam ở elmira với động cơ 2 và đưa chúng từ elmira tới corning tới dansville tới avon</instruct>
+<autoPositive>vâng</autoPositive>
+<choiceQuestion>anh muốn mang số thùng hàng theo người hay muốn để chúng ở elmira</choiceQuestion>
+<turnAccept>uh</turnAccept>
+<answer>tôi sẽ mang chúng theo người</answer>
+<autoPositive>okay</autoPositive>
+<checkQuestion>vậy anh muốn đi từ elmira</checkQuestion>
+<autoPositive>okay</autoPositive>
+<setQuestion>bằng chuyến nào ạ</setQuestion>
+<turnTake>uh</turnTake>
+<stalling>tới</stalling>
+<answer>tới corning</answer>
+<pausing>để tôi xem đã</pausing>
+<pausing>để tôi nghĩ chút</pausing>
+<stalling>voc_mumble ... voc_click</stalling>
+<answer>vâng tới corning tới dansville với avon</answer>
+<autoPositive>okay</autoPositive>
+<autoPositive>vâng theo đường đó</autoPositive>
+<inform>trưa anh sẽ tới avon</inform>
+<autoPositive>okay thế cũng được</autoPositive>
+<inform>tôi nghĩ tôi còn tận 9 tiếng</inform>
+<autoPositive>okay</autoPositive>
+<turnTake>um</turnTake>
+<pausing>oh oh từ từ</pausing>
+<inform>tôi vẫn còn vài thứ muốn nói</inform>
+<selfCorrection>khi tôi tới- khi tôi đến</selfCorrection>
+<stalling>khi tôi đến khi tôi đến</stalling>
+<inform>khi tôi đến dansville tôi muốn đưa lên thêm một thùng hàng nữa</inform>
+<autoPositive>mm-hm</autoPositive>
+<turnTake>được- ... uh</turnTake>
+<autoPositive>okay</autoPositive>
+<turnKeep>và</turnKeep>
+<inform>tôi sẽ mang thùng đó cùng 2 thùng còn lại tới avon</inform>
+<autoPositive>được thôi</autoPositive>
+<turnKeep>sau đó</turnKeep>
+<inform>ở avon tôi muốn dỡ 3 thùng- trả lại động cơ trả lại tàu chở hai tàu chở nước cam</inform>
+<selfCorrection>một tàu chở hai tàu chở</selfCorrection>
+<selfCorrection>cam ... nước cam</selfCorrection>
+<inform>đã mang 3 thùng đó</inform>
+<autoPositive>mm-hm</autoPositive>
+<inform>hai tàu</inform>
+<stalling>chở</stalling>
+<turnKeep>và</turnKeep>
+<inform>sẽ chất lên 3 thùng hàng đựng chuối</inform>
+<autoPositive>okay</autoPositive>
+<turnKeep>và</turnKeep>
+<inform>mang chúng trở lại elmira</inform>
+<setQuestion>anh muốn đi theo chuyến nào</setQuestion>
+<turnTake>uh</turnTake>
+<answer>từ dansville qua corning qua elmira</answer>
+<autoPositive>okay</autoPositive>
+<turnKeep>để xem nào</turnKeep>
+<inform>bốn giờ tối</inform>
+<inform>bốn giờ tối</inform>
+<turnKeep>được</turnKeep>
+<inform>anh sẽ đến đó vào lúc 7 giờ tối</inform>
+<interactionStructuring>okay tốt quá</interactionStructuring>
+<inform>tôi đã xong</inform>

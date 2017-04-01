@@ -1,0 +1,103 @@
+Data
+<turnKeep>uh</turnKeep>
+<inform>thực ra tôi sống ở châu âu trong vài năm</inform>
+<inform>tôi sống ở Đức</inform>
+<inform>và ở Đức họ không có hệ thống bồi thẩm đoàn</inform>
+<inform>về cơ bản họ chỉ có ba bồi thẩm đoàn</inform>
+<stalling>uh</stalling>
+<inform>khi bạn đến đây</inform>
+<inform>các luật sư công tố sẽ đưa ra bằng chứng của mình</inform>
+<inform>bạn phủ nhận luật sư công tố các bằng chứng của họ</inform>
+<inform>ba người họ sẽ đưa ra bằng chứng đi xuống chỉ ra nó và sau đó quay lại và nói cho dù bạn có phạm tội hay không</inform>
+<turnTake>ou ou our</turnTake>
+<inform>hệ thống luật lệ của chúng tôi hỗn loạn hơn cả vậy</inform>
+<autoPositive>voc_laugh</autoPositive>
+<inform>tôi nghĩ rằng những gì họ cần làm là họ cần phải bằng cách nào đó để lấy tiền</inform>
+<stalling>voc_breath</stalling>
+<stalling>ý tôi là</stalling>
+<inform>khi một người đàn ông đã ký một tuyên bố nói rằng anh ta có tội</inform>
+<stalling>a a a</stalling>
+<inform>họ có một tập thể gọi là all day</inform>
+<stalling>a a</stalling>
+<inform>họ đều là tội phạm</inform>
+<autoPositive>uh-huh</autoPositive>
+<inform>tất cả bọn họ đều thú tội</inform>
+<inform>họ đi đến một nơi thử nghiệm bởi bồi thẩm đoàn</inform>
+<inform>họ thử những người đó trong vòng 22 năm kể từ khi tôi còn là một đứa trẻ</inform>
+<autoPositive>wow</autoPositive>
+<turnTake>và</turnTake>
+<inform>những gì họ làm được là họ đã mua những chiếc xe mercedes rồi lại xe mercedes</inform>
+<inform>không có điều gì được thực hiện bằng công lý cho dù bất kì điều gì</inform>
+<turnTake>voc_breath</turnTake>
+<stalling>voc_breath đó nó là vậy đó</stalling>
+<autoPositive>nó là một trong những thứ</autoPositive>
+<stalling>ý tôi là uh uh</stalling>
+<inform>tôi phải nhìn vào nó</inform>
+<stalling>nếu mà</stalling>
+<selfCorrection>chỉ là</selfCorrection>
+<stalling>uh</stalling>
+<inform>nếu họ đã làm điều đó chỉ với các thẩm phán cảnh sát phải làm việc tốt hơn rất nhiều và đảm bảo rằng bằng chứng của họ là kín</inform>
+<inform>vì các thẩm phán ngồi trong các loại công cụ ngày qua ngày họ biết tất cả các thủ tục</inform>
+<inform>họ sẽ biết điều gì là tốt điều gì không</inform>
+<inform>họ có khả năng để nói tôi xin lỗi</inform>
+<inform>bạn không thể sử dụng chúng như là một bằng chứng</inform>
+<stalling>uh</stalling>
+<stalling>bạn biết đó</stalling>
+<inform>bởi vì nó có thể là hợp pháp hoặc không</inform>
+<turnKeep>và</turnKeep>
+<stalling>bạn biết</stalling>
+<inform>bạn sẽ không phải trình bày mà luật sư sẽ đứng lên và trình bày với bồi thẩm đoàn</inform>
+<stalling>uh uh</stalling>
+<stalling>về</stalling>
+<stalling>oh</stalling>
+<inform>và sau đó bồi thẩm đoàn nói không bỏ qua nó</inform>
+<stalling>bỏ qua</stalling>
+<inform>và bồi thẩm đoàn sẽ không bỏ qua các bằng chứng đó</inform>
+<stalling>uh</stalling>
+<agreement>đúng rồi</agreement>
+<turnKeep>tôi tôi tôi</turnKeep>
+<inform>tôi nghĩ hệ thống luật lệ là để bảo vệ lợi ích của mình</inform>
+<agreement>nó có thể rất tốt</agreement>
+<turnKeep>tôi tôi</turnKeep>
+<inform>tôi rất là coi thường nó</inform>
+<turnTake>uh</turnTake>
+<stalling>uh</stalling>
+<inform>điều tôi thích thú là sở cảnh sát</inform>
+<inform>voc_breath họ không tập trung vào những tên tội phạm</inform>
+<inform>hệ thống luật lệ là để tập trung vào người dân</inform>
+<inform>bởi vì tôi và bạn đều có lịch làm việc</inform>
+<inform>chúng ta có thể gọi nó là làm việc</inform>
+<inform>chúng ta có số an sinh xã hội</inform>
+<inform>họ có thể theo dõi chúng ta</inform>
+<inform>chúng ta có điện thoại</inform>
+<inform>sau đó chúng ta có phiếu sec</inform>
+<inform>tội phạm thì không có những thứ đó</inform>
+<inform>chúng thực sự rất khó để bắt</inform>
+<inform>và nếu họ làm bắt chúng họ không nhận được bất kỳ khoản tiền nào từ chúng trong khi chúng tôi sẽ viết một tấm séc</inform>
+<selfCorrection>chúng ta</selfCorrection>
+<agreement>đúng vậy</agreement>
+<inform>vậy bạn nghĩ họ sẽ tập trung nỗ lực vào những nơi nào</inform>
+<agreement>đúng rồi</agreement>
+<inform>họ tập trung vào người dân không phải là tội phạm</inform>
+<turnGrab>ồ</turnGrab>
+<setQuestion>bạn sẽ thay đổi nó thế nào</setQuestion>
+<turnTake>voc_throat_clearing</turnTake>
+<stalling>voc_throat_clearing bạn biết đó</stalling>
+<retraction>nó là</retraction>
+<inform>tôi sẽ giải quyết vấn đề đó</inform>
+<inform>nhưng tôi</inform>
+<autoPositive>voc_laugh</autoPositive>
+<alloPositive>voc_laugh</alloPositive>
+<completion>để chi tiết cho người khác cũng được</completion>
+<checkQuestion>huh</checkQuestion>
+<confirm>đúng rồi</confirm>
+<inform>rồi sẽ để lại chi tiết bạn sẽ làm gì</inform>
+<inform>tôi nghĩ sẽ bắt đầu với những gì bạn muốn</inform>
+<inform>như ở vùng atlanta tỉ lệ tội phạm là con số rất lớn</inform>
+<inform>bạn ra ngoài phố và họ sẽ đưa cho bạn tấm vé phạt tốc độ</inform>
+<inform>tôi nghĩ một cách nào đó bạn phải đi ra khỏi đó</inform>
+<turnGrab>ừm thì</turnGrab>
+<stalling>bạn biết đấy uh</stalling>
+<inform>nói chuyện với luật sư nó có thể rất tốt nhưng nó sẽ mất một khoản phí</inform>
+<stalling>bạn biết đáy</stalling>
+<stalling>a uh a</stalling>

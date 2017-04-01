@@ -1,0 +1,74 @@
+Data
+<autoPositive>phải rồi</autoPositive>
+<interactionStructuring>tôi đang bắt đầu đi từ phía trước nơi cắm trại dành cho xe rv</interactionStructuring>
+<selfCorrection>phía trước</selfCorrection>
+<autoPositive>mmhmm</autoPositive>
+<autoPositive>được</autoPositive>
+<autoPositive>mmhmm</autoPositive>
+<autoPositive>phải rồi</autoPositive>
+<instruct>và chúng ta sẽ đi thẳng xuống phía nam</instruct>
+<selfCorrection>thẳng</selfCorrection>
+<instruct>với nơi cắm trại dành cho xe rv ở phía bên tay phải</instruct>
+<acceptRequest>được</acceptRequest>
+<autoPositive>được</autoPositive>
+<instruct>và bạn sẽ đi xuống phía dưới và sau đó đi theo hình chữ u</instruct>
+<acceptRequest>uh-huh</acceptRequest>
+<instruct>và chúng ta sẽ đi lên</instruct>
+<instruct>and were going to have the old</instruct>
+<turnTake>ehm</turnTake>
+<propositionalQuestion>có phải chúng ta đang đi</propositionalQuestion>
+<propositionalQuestion>có phải chúng ta đang đi tới phía dưới hàng rào</propositionalQuestion>
+<selfCorrection>có phải chúng ta đang đi</selfCorrection>
+<autoNegative>phía dưới của cái gì  cơ</autoNegative>
+<autoPositive>cái cọc</autoPositive>
+<checkQuestion>hàng rào</checkQuestion>
+<autoPositive>hàng rào</autoPositive>
+<inform>tôi không thấy cái nào cả vì vậy</inform>
+<inform>tôi sẽ nói rằng</inform>
+<setQuestion>ở đâu có hàng rào</setQuestion>
+<answer>hàng rào ở phía dưới cối xay</answer>
+<inform>cái mà ở dưới nơi cắm trại dành cho xe rv</inform>
+<autoPositive>phải được rồi</autoPositive>
+<instruct>vậy bạn muốn cái cối xay cũ ở phía bên tay phải nên</instruct>
+<instruct>nếu hàng rào ở phía dưới cái cối xay cũ bạn muốn giữ nó ở phía bên tay phải</instruct>
+<instruct>nếu cái hàng rào đó ở phái dưới cái cối xay</instruct>
+<acceptRequest>được rồi</acceptRequest>
+<autoPositive>được rồi</autoPositive>
+<instruct>vậy bạn đi lên và sau đó bạn đi lên phía trước cái cối xay cũ</instruct>
+<instruct>và rẽ phải</instruct>
+<autoPositive>cái cối xay cũ</autoPositive>
+<alloPositive>cái cối xay cũ</alloPositive>
+<inform>ôi phải rồitôi vừa mới tới chỗ cối xay</inform>
+<correction>cối xay</correction>
+<autoPositive>bạn mới chỉ tới chỗ cối xay</autoPositive>
+<autoPositive>phải được rồi</autoPositive>
+<alloPositive>uh-huh</alloPositive>
+<instruct>nhưng cứ tiếp tục vượt qua chỗ đó</instruct>
+<propositionalQuestion>vậy tôi sẽ đi xuống phía dưới hàng rào</propositionalQuestion>
+<autoPositive>phải rồi</autoPositive>
+<instruct>chúng ta đã đi xuống dưới từ nơi cắm trại dành cho xe rv và chúng tôi đang đi theo hình chữ u</instruct>
+<autoPositive>mmhmm</autoPositive>
+<autoPositive>mmhmm</autoPositive>
+<autoPositive>được rồi</autoPositive>
+<instruct>và sau đó bạn sẽ tiến về phía bắc đúng không</instruct>
+<feedbackElicitation>đúng không</feedbackElicitation>
+<pausing>chờ đã cái hình dạng ở ngay bên dưới cối xay mà ngay bên dưới nơi cắm trại dành cho xe rv ở đâu</pausing>
+<propositionalQuestion>ngay bên dưới cái cối xay</propositionalQuestion>
+<propositionalQuestion>ngay bên dưới nơi cắm trại dành cho xe rv</propositionalQuestion>
+<answer>không không</answer>
+<answer>yeah</answer>
+<autoPositive>phải</autoPositive>
+<inform>nơi cắm trại dành cho xe rv nằmngay trên nền của chữ u</inform>
+<selfCorrection>ở trước</selfCorrection>
+<autoPositive>ở trước</autoPositive>
+<selfCorrection>the</selfCorrection>
+<autoPositive>phải</autoPositive>
+<autoPositive>được rồi phải phải phải</autoPositive>
+<autoPositive>phải được rồi</autoPositive>
+<instruct>và bạn đi lên</instruct>
+<inform>và cái cối xay cũ</inform>
+<inform>vâng cái cối xay cũ của tôi ở bên phải nên cái cối xay của bạn và hàng rào sẽ ở bên phía tay phải</inform>
+<inform>nên cái cối xay của bạn và hàng rào sẽ ở bên phía tay phải</inform>
+<agreement>phải</agreement>
+<feedbackElicitation>được rồi phải phải phải</feedbackElicitation>
+<autoPositive>uh-huh</autoPositive>

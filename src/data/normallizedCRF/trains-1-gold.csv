@@ -1,0 +1,104 @@
+Data
+<offer>tôi có thể giúp gì cho anh</offer>
+<acceptOffer>vâng</acceptOffer>
+<stalling>tôi muốn</stalling>
+<inform>tôi muốn xác định số lượng tối đa toa chở cam tôi có thể lấy từ bath lúc 7 giờ sáng mai</inform>
+<turnKeep>nên</turnKeep>
+<stalling>voc_breath hm ... nên</stalling>
+<inform>tôi đoán tất cả các toa đều phải đi qua corning</inform>
+<inform>vì nhà máy nước cam ở đó</inform>
+<turnKeep>voc_breath</turnKeep>
+<selfCorrection>nhà máy cam</selfCorrection>
+<turnKeep>so</turnKeep>
+<setQuestion>thế từ corning cách bath bao nhiêu cây</setQuestion>
+<answer>2 tiếng đồng hồ</answer>
+<checkQuestion>và sẽ mất thêm 1 tiếng để chất hàng lên toa đúng không</checkQuestion>
+<confirm>phải rồi</confirm>
+<autoPositive>okay</autoPositive>
+<turnKeep>thế</turnKeep>
+<stalling>hm thế</stalling>
+<checkQuestion>mỗi chuyến sẽ mất ít nhất tầm 3 tiếng đồng hồ rồi</checkQuestion>
+<turnKeep>um</turnKeep>
+<confirm>vâng</confirm>
+<inform>chúng tôi có thể dỡ số lượng hàng từ tàu trong một giờ</inform>
+<turnKeep>vì vậy</turnKeep>
+<inform>chúng tôi tối đa dỡ được 3 toa hàng trong một giờ</inform>
+<autoPositive>vâng</autoPositive>
+<autoPositive>okay</autoPositive>
+<autoPositive>okay</autoPositive>
+<turnKeep>thế</turnKeep>
+<suggest>ta có thể làm một việc</suggest>
+<selfError>oh</selfError>
+<turnKeep>voc_breath thế voc_breath</turnKeep>
+<suggest>tôi nghĩ chúng ta nên xem số toa ta sẽ thực sự lấy từ corning trong 4 tiếng</suggest>
+<turnKeep>um</turnKeep>
+<setQuestion>từ corning trong 4 tiếng um bao xa từ avon đến bath</setQuestion>
+<selfCorrection>đến corning</selfCorrection>
+<autoPositive>voc_click voc_breath</autoPositive>
+<answer>tầm 6 tiếng</answer>
+<inform>sẽ nhanh hơn qua dansville</inform>
+<autoPositive>okay</autoPositive>
+<autoPositive>từ avon</autoPositive>
+<selfError>ôi không</selfError>
+<inform>tôi đã nghĩ ta có thể nhận 2 toa khi ở bath</inform>
+<autoPositive>mm</autoPositive>
+<inform>nhưng tôi nghĩ rằng ta không thể đưa chúng lên</inform>
+<turnKeep>voc_breath</turnKeep>
+<inform>chúng sẽ không đến</inform>
+<retraction>nếu không</retraction>
+<setQuestion>từ elmira cách bath bao xa voc_breath</setQuestion>
+<answer>hai tiếng đồng hồ</answer>
+<autoPositive>ôi thật àh</autoPositive>
+<turnKeep>thế</turnKeep>
+<inform>tôi có thể lấy động cơ e</inform>
+<turnKeep>voc_breath</turnKeep>
+<inform>nó sẽ đến bath lấy hai toa hàng</inform>
+<retraction>đưa đến corn</retraction>
+<setQuestion>bao lâu từ bath đến corning</setQuestion>
+<checkQuestion>tôi đoán chắc tầm 1 tiếng</checkQuestion>
+<answer>hai tiếng ạ</answer>
+<autoPositive>ồ đợi một chút</autoPositive>
+<setQuestion>tôi nghĩ từ elmira qua đến corning đến bath bao lâu</setQuestion>
+<stalling>voc_breath</stalling>
+<answer>4 tiếng ạ</answer>
+<autoPositive>ồ 4 tiếng cơ à</autoPositive>
+<inform>vậy chúng tôi sẽ bó tay khi hai toa đó ở bath</inform>
+<inform>tôi không nghĩ ta lấy số toa lớn nhất chở cam đến bath vào lúc 7 giờ sáng tôi không nghĩ ta có thể dùng hai toa đó ở bath</inform>
+<turnKeep>voc_breath</turnKeep>
+<inform>bởi vì tàu sẽ không đến bath đúng giờ được</inform>
+<agreement>chính xác ạ</agreement>
+<autoPositive>được rồi</autoPositive>
+<turnKeep>voc_breath</turnKeep>
+<inform>chúng tôi có 3 toa hàng ở dansville</inform>
+<turnKeep>thế</turnKeep>
+<setQuestion>từ avon đến dansville bao xa vậy</setQuestion>
+<answer>3 tiếng ạ</answer>
+<autoPositive>3 tiếng</autoPositive>
+<setQuestion>thế từ dansville đến corning</setQuestion>
+<answer>1 tiếng</answer>
+<autoPositive>vâng</autoPositive>
+<checkQuestion>thế chúng tôi có thể dùng 3 toa hàng đúng không</checkQuestion>
+<confirm>mm-hm</confirm>
+<autoPositive>okay</autoPositive>
+<inform>vậy là 3 toa</inform>
+<turnKeep>okay</turnKeep>
+<inform>vậy động cơ e 1 từ avon sẽ đi dansville lấy 3 toa hàng rồi đến corning chất chúng lên và đưa chúng trở lại bath</inform>
+<turnKeep>được đấy</turnKeep>
+<inform>nghe có vẻ tốt đấy</inform>
+<turnKeep>voc_breath so</turnKeep>
+<inform>thế tôi nghĩ chúng tôi muốn lấy luôn động cơ e hai với hai toa hàng từ elmira và đưa đến corning</inform>
+<checkQuestion>vậy từ elmira đến corning là hai tiếng</checkQuestion>
+<confirm>mm-hm</confirm>
+<autoPositive>okay</autoPositive>
+<turnKeep>voc_breath và</turnKeep>
+<turnKeep>okay</turnKeep>
+<turnKeep>voc_breath thế</turnKeep>
+<inform>yeah nghe được đấy</inform>
+<agreement>mm hm</agreement>
+<turnTake>thế</turnTake>
+<request>anh nhắc lại giúp tôi với</request>
+<acceptRequest>okay</acceptRequest>
+<inform>động cơ 1 đến dansville lây ba toa đến corning sẽ được chất cam và đến bath động cơ e hai lấy hai toa ở elmira đến corning nơi chúng sẽ được chất cam và sẽ đưa trở về bath</inform>
+<alloPositive>okay</alloPositive>
+<inform>thế là tối đa được 5 toa</inform>
+<interactionStructuring>okay</interactionStructuring>

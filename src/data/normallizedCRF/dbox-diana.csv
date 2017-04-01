@@ -1,0 +1,108 @@
+Data
+<opening>chào cậu</opening>
+<turnTake>uh</turnTake>
+<setQuestion>cậu tên gì thế</setQuestion>
+<answer>tớ tên là gregor linn</answer>
+<autoPositive>rất vui được gặp cậu</autoPositive>
+<autoPositive>tớ cũng rất vui khi gặp cậu</autoPositive>
+<turnTake>uh</turnTake>
+<setQuestion>hôm nay cậu thế nào</setQuestion>
+<turnAccept>mh</turnAccept>
+<answer>tớ cũng ổn</answer>
+<autoPositive>tớ cũng thế</autoPositive>
+<turnKeep>uh</turnKeep>
+<suggest>chơi trò chơi đi</suggest>
+<inform>đầu tiên tớ sẽ nói luật chơi cho cậu</inform>
+<inform>tớ là một người rất nổi tiếng</inform>
+<autoPositive>ờ</autoPositive>
+<turnKeep>uh</turnKeep>
+<instruct>cậu phải đoán tên của tớ</instruct>
+<autoPositive>được thôi</autoPositive>
+<instruct>cậu có thể hỏi bao nhiêu câu tùy ý ngoại trừ hỏi tên tớ là gì</instruct>
+<autoPositive>hiểu rồi</autoPositive>
+<instruct>cậu không nhất thiết phải hỏi câu hỏi lựa chọn</instruct>
+<instruct>cậu có thể hỏi câu hỏi mở cũng được</instruct>
+<inform>tớ hiểu rồi</inform>
+<inform>cậu được thử 10 lần</inform>
+<inform>và sau 10 lần hoặc ít hơn nếu cậu đoán đúng tên tớ</inform>
+<inform>cậu sẽ thắng trò chơi</inform>
+<inform>còn không thì cậu thua</inform>
+<autoPositive>okay</autoPositive>
+<turnGrab>và</turnGrab>
+<autoPositive>mhm</autoPositive>
+<setQuestion>cậu vừa nói gì àh</setQuestion>
+<turnKeep>ừh là</turnKeep>
+<selfCorrection>là</selfCorrection>
+<turnAccept>uhm</turnAccept>
+<autoNegative>cậu nhắc lại câu hỏi được không</autoNegative>
+<autoNegative>cậu nói rõ lại câu hỏi được không</autoNegative>
+<turnTake>uhm</turnTake>
+<choiceQuestion>cậu sẽ trả lời có hoặc không hoặc</choiceQuestion>
+<turnKeep>uh</turnKeep>
+<answer>không</answer>
+<inform>tớ sẽ trả lời có hoặc không nói cậu hỏi câu hỏi lựa chọn</inform>
+<selfCorrection>tớ chắc chắn</selfCorrection>
+<autoPositive>okay</autoPositive>
+<turnKeep>uhm</turnKeep>
+<inform>nếu cậu hỏi câu hỏi mở tớ sẽ cố trả lời nó</inform>
+<turnKeep>uh</turnKeep>
+<inform>mặc dù tớ không nhất thiết phải trả lời câu đấy</inform>
+<autoPositive>okay</autoPositive>
+<turnKeep>uhm</turnKeep>
+<interactionStructuring>được rồi</interactionStructuring>
+<propositionalQuestion>cậu hiểu luật chưa</propositionalQuestion>
+<confirm>yup</confirm>
+<offer>cậu muốn tớ nhắc lại gì không</offer>
+<selfCorrection>muốn không</selfCorrection>
+<declineOffer>thôi</declineOffer>
+<inform>tớ nghĩ là tớ hiểu hết rồi</inform>
+<turnKeep>mh</turnKeep>
+<autoPositive>tốt</autoPositive>
+<interactionStructuring>và một điều quan trọng nữa</interactionStructuring>
+<inform>và một điều quan trọng nữa</inform>
+<inform>tớ sẽ chỉ trở thành người nổi tiếng nữ giới</inform>
+<turnKeep>uh</turnKeep>
+<autoPositive>àh ok</autoPositive>
+<alloPositive>mhm</alloPositive>
+<autoPositive>được rồi</autoPositive>
+<turnKeep>được rồi uh</turnKeep>
+<stalling>uh</stalling>
+<suggest>thế bắt đầu nào</suggest>
+<setQuestion>câu hỏi đầu tiên là gì</setQuestion>
+<propositionalQuestion>cậu còn sống không</propositionalQuestion>
+<answer>không tớ không còn</answer>
+<autoPositive>mhm</autoPositive>
+<turnKeep>uhm</turnKeep>
+<turnTake>uh</turnTake>
+<propositionalQuestion>cậu là người nước đức à</propositionalQuestion>
+<answer>không tớ không phải người đức</answer>
+<turnTake>uhm</turnTake>
+<propositionalQuestion>cậu có phải là người mỹ không</propositionalQuestion>
+<answer>không tớ không phải người mỹ</answer>
+<turnTake>uh</turnTake>
+<setQuestion>cậu làm gì khi còn sống</setQuestion>
+<turnTake>ehm</turnTake>
+<pausing>để tớ nghĩ một chút</pausing>
+<turnKeep>uhm</turnKeep>
+<answer>tớ là</answer>
+<answer>tớ là công chúa</answer>
+<selfCorrection>tớ đã</selfCorrection>
+<answer>khi tớ còn sống</answer>
+<setQuestion>và cậu đến từ đâu</setQuestion>
+<answer>tớ là người anh</answer>
+<autoPositive>okay</autoPositive>
+<turnKeep>uhm</turnKeep>
+<turnKeep>uh</turnKeep>
+<setQuestion>cậu mất ở đâu</setQuestion>
+<turnKeep>chờ tý</turnKeep>
+<turnKeep>uhm</turnKeep>
+<answer>tớ mất ở paris</answer>
+<autoPositive>mhm</autoPositive>
+<turnKeep>uhm</turnKeep>
+<turnKeep>uhm</turnKeep>
+<guess>cậu là công chúa diana đúng không</guess>
+<turnKeep>uh</turnKeep>
+<confirm>đúng rồi</confirm>
+<inform>đó là câu trả lời chính xác</inform>
+<alloPositive>giỏi lắm</alloPositive>
+<autoPositive>okay</autoPositive>

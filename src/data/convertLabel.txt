@@ -1,0 +1,8 @@
+chunk=b-non:i-non:non
+chunk=b-fear:i-fear:fear
+chunk=b-angry:i-angry:angry
+chunk=b-joy:i-joy:joy
+chunk=b-sad:i-sad:sad
+chunk=b-supprise:i-supprise:supprise
+chunk=b-disgust:i-disgust:disgust
+chunk=b-confused:i-confused:confused

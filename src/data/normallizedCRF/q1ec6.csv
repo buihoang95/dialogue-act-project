@@ -1,0 +1,147 @@
+Data
+<autoPositive>voc_breath</autoPositive>
+<instruct>đi về phía nam và bạn sẽ vượt qua một số vách đá bên phải của bạn</instruct>
+<acceptRequest>được rồi</acceptRequest>
+<acceptRequest>đúng rồi</acceptRequest>
+<instruct>và tiếp tục đi xuống hướng nam</instruct>
+<acceptRequest>mmhmm</acceptRequest>
+<instruct>qua một xưởng bên phải bạn</instruct>
+<setQuestion>vượt qua gì vậy</setQuestion>
+<answer>một cái xưởng</answer>
+<turnKeep>được rồi</turnKeep>
+<instruct>voc_breath tiếp tục đi theo hướng bên phải</instruct>
+<autoPositive>phải rồi</autoPositive>
+<instruct>và rồi lại vòng theo hướng đông</instruct>
+<checkQuestion>đi xuống một cánh đồng lúa mỳ à</checkQuestion>
+<checkQuestion>vậy tôi có phải đi thẳng không</checkQuestion>
+<disconfirm>không phải đi xuống xa vậy vậy đâu</disconfirm>
+<autoPositive>không phải xuống xa như vậy</autoPositive>
+<alloPositive>không</alloPositive>
+<acceptRequest>phải rồi</acceptRequest>
+<autoPositive>phải đi vòng</autoPositive>
+<alloPositive>phải đi vòng</alloPositive>
+<instruct>và sau đó quay lại</instruct>
+<instruct>sau đó bạn sẽ đi theo hướng bắc</instruct>
+<acceptRequest>phải rồi</acceptRequest>
+<autoPositive>phải rồi</autoPositive>
+<checkQuestion>bạn đang ở</checkQuestion>
+<choiceQuestion>và tôi như đang đi giữa những vách núi và rừng thông</choiceQuestion>
+<autoPositive>ồ</autoPositive>
+<answer>bạn vượt qua rừng thông</answer>
+<inform>rừng thông bên phải bạn</inform>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<instruct>và bạn tiếp tục đi qua nó</instruct>
+<instruct>cho đến khi bạn vừa đi đến đầu của rừng thông</instruct>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<instruct>và rồi lại đi hướng đông tiếp</instruct>
+<autoPositive>đi lại hướng đông</autoPositive>
+<alloPositive>đi lại hướng đông</alloPositive>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<autoPositive>được rồi</autoPositive>
+<autoPositive>được rồi</autoPositive>
+<autoPositive>được rồi</autoPositive>
+<autoPositive>phải rồi</autoPositive>
+<instruct>hướng đông</instruct>
+<inform>đi thêm một chút</inform>
+<turnKeep>ừmmm</turnKeep>
+<instruct>và bắt đầu đi theo hướng nam</instruct>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<inform>rừng thông đang ở trên đường của bạn</inform>
+<autoNegative>ehm</autoNegative>
+<agreement>đúng rồi</agreement>
+<agreement>uh-huh</agreement>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>phải rồi</acceptRequest>
+<instruct>bạn tiếp tục đi xuống tiếp rừng thông</instruct>
+<acceptRequest>phải rồi</acceptRequest>
+<instruct>và sau đó bắt đầu đi theo hướng nam</instruct>
+<acceptRequest>okay</acceptRequest>
+<instruct>sau đó bạn đi theo lại hướng đông</instruct>
+<turnKeep>và</turnKeep>
+<instruct>và bạn đi vòng quanh một cái tiệm bánh</instruct>
+<acceptRequest>yeah</acceptRequest>
+<autoPositive>phải rồi</autoPositive>
+<checkQuestion>tôi sẽ đi theo hướng đông xuống tiệm bánh</checkQuestion>
+<confirm>xuống tiệm bánh</confirm>
+<autoPositive>phải rồi</autoPositive>
+<alloPositive>uh-huh phải rồi</alloPositive>
+<acceptRequest>được rồi</acceptRequest>
+<instruct>và sau đó đi lại về hướng tây</instruct>
+<autoNegative>whoa whoa</autoNegative>
+<pausing>đợi một chút</pausing>
+<autoPositive>phải rồi</autoPositive>
+<inform>tôi đi xuống khu rừng thông</inform>
+<inform>tôi sẽ đi thẳng xuống hướng phải</inform>
+<agreement>phải rồi</agreement>
+<selfCorrection>đi thẳng xuống</selfCorrection>
+<checkQuestion>rồi bạn</checkQuestion>
+<inform>cho đến khi bạn không</inform>
+<inform>cho đến đi bạn ở phía trên của tiệm bánh</inform>
+<autoPositive>à phải rồi</autoPositive>
+<alloPositive>phải rồi</alloPositive>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<instruct>đi vòng một chút cho đến đi bạn ở dưới nó</instruct>
+<autoPositive>phải rồi</autoPositive>
+<instruct>sau đó đi theo hướng tây</instruct>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi tôi đã hiểu</acceptRequest>
+<autoPositive>phải rồi</autoPositive>
+<instruct>và sau đó đi xuống hướng nam</instruct>
+<acceptRequest>được rồi</acceptRequest>
+<inform>nó là một cái nhà hàng</inform>
+<agreement>yeah</agreement>
+<checkQuestion>chính là nó</checkQuestion>
+<confirm>phải rồi</confirm>
+<autoPositive>uh-huh</autoPositive>
+<inform>và nó có một</inform>
+<propositionalQuestion>bạn có thể đi vòng</propositionalQuestion>
+<instruct>đi vòng theo nhà hàng</instruct>
+<answer>yeah</answer>
+<acceptRequest>phải rồi</acceptRequest>
+<checkQuestion>vậy bạn sẽ đi theo hướng tây</checkQuestion>
+<acceptRequest>uh-huh</acceptRequest>
+<confirm>được</confirm>
+<autoPositive>phải rồi</autoPositive>
+<instruct>và bạn sẽ đi theo hướng tây nam</instruct>
+<turnKeep>um</turnKeep>
+<acceptRequest>mmhmm</acceptRequest>
+<inform>ở giữa cánh đồng lúa mỳ và cái nhà kho</inform>
+<inform>ở giữa chúng</inform>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<autoPositive>phải rồi</autoPositive>
+<instruct>bạn đi đúng đó</instruct>
+<autoPositive>yep</autoPositive>
+<instruct>và sau đó đi theo hướng tây</instruct>
+<acceptRequest>phải rồi</acceptRequest>
+<checkQuestion>vậy thì bạn sẽ ở giữa chúng</checkQuestion>
+<confirm>ở giữa</confirm>
+<turnKeep>um</turnKeep>
+<autoPositive>phải rồi</autoPositive>
+<autoPositive>mmhmm</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<instruct>và sau đó đi theo hướng tây nam theo cạnh của bản đồ</instruct>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<autoPositive>phải rồi</autoPositive>
+<instruct>và sau đó là huớng nam</instruct>
+<autoPositive>mm</autoPositive>
+<acceptRequest>phải rồi</acceptRequest>
+<instruct>và sau đó bạn sẽ đi theo hướng đông</instruct>
+<turnKeep>um</turnKeep>
+<instruct>bạn sẽ đến một ngọn hải đăng</instruct>
+<checkQuestion>vậy phải đi xuống các hang động</checkQuestion>
+<instruct>sau đó đi theo hướng đông cho đến khi bạn đến ngọn hải đăng</instruct>
+<autoPositive>phải rồi</autoPositive>
+<acceptRequest>được rồi</acceptRequest>
+<autoPositive>phải rồi</autoPositive>
+<inform>đó là kết thúc</inform>
+<choiceQuestion>trên hay dưới</choiceQuestion>
+<autoPositive>thật là thú vị</autoPositive>
+<answer>ở bên cạnh</answer>
+<autoPositive>voc_laugh</autoPositive>

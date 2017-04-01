@@ -1,0 +1,129 @@
+Data
+<opening>xin chào</opening>
+<turnTake>uhm</turnTake>
+<initialGreeting>chào buổi chiều chút là buổi tối</initialGreeting>
+<turnKeep>uhm</turnKeep>
+<setQuestion>cậu tên là gì</setQuestion>
+<answer>tớ tên là nikolina</answer>
+<initialGreeting>chào nikolina rất vui khi gặp cậu</initialGreeting>
+<selfCorrection>nikolina</selfCorrection>
+<returnGreeting>rất vui khi gặp cậu</returnGreeting>
+<turnTake>uhm</turnTake>
+<stalling>thế</stalling>
+<setQuestion>cậu hôm này thế nào</setQuestion>
+<answer>tốt</answer>
+<thanking>cảm ơn</thanking>
+<autoPositive>được rồi</autoPositive>
+<interactionStructuring>được rồi vậy</interactionStructuring>
+<inform>hôm nay chúng ta sẽ chơi một trò chơi và sau đây là luật chơi</inform>
+<inform>tớ là một người rất nổi tiếng</inform>
+<inform>và cậu cần phải đoán đúng tên của tớ</inform>
+<instruct>cậu có thể hỏi câu hỏi nào cậu muốn cũng được trừ hỏi trực tiếp tên tớ là gì</instruct>
+<turnKeep>uhm</turnKeep>
+<inform>cậu có tối đa 10 lần hỏi</inform>
+<instruct>và cậu phải đoán trúng tên tớ</instruct>
+<instruct>cậu có thể hỏi bất cứ câu nào cậu muốn</instruct>
+<instruct>nhưng cậu chỉ có một lần đoán tên tớ thôi</instruct>
+<turnKeep>uhm</turnKeep>
+<inform>nếu cậu đoán trúng thì cậu sẽ thắng</inform>
+<inform>nếu cậu đoán không trúng hoặc chọn chuyển qua thì sẽ thua</inform>
+<turnKeep>uhm</turnKeep>
+<inform>và ta sẽ chuyển tới vòng tiếp theo</inform>
+<propositionalQuestion>cậu có hiểu và cảm thấy thoải mái với luật chơi này không</propositionalQuestion>
+<turnKeep>uh</turnKeep>
+<answer>yeah yeah</answer>
+<checkQuestion>thế tên cậu là tên của một người nổi tiếng</checkQuestion>
+<feedbackElicitation>yeah</feedbackElicitation>
+<autoPositive>okay</autoPositive>
+<confirm>ừh</confirm>
+<inform>tớ là một người nổi tiếng và</inform>
+<inform>tớ không chắc tớ chơi giỏi đâu</inform>
+<turnGrab>tớ không chắc</turnGrab>
+<turnGrab>tớ trong mảng này</turnGrab>
+<inform>và tớ luôn là con trai</inform>
+<autoPositive>okay okay</autoPositive>
+<autoPositive>tốt tốt</autoPositive>
+<turnTake>được rồi</turnTake>
+<turnKeep>thế uhm</turnKeep>
+<suggest>bắt đầu thôi</suggest>
+<request>và câu hỏi đầu tiên của cậu</request>
+<setQuestion>câu hỏi đầu tiên của cậu là gì</setQuestion>
+<autoPositive>câu hỏi đầu tiên à</autoPositive>
+<turnKeep>vậy</turnKeep>
+<setQuestion>cậu làm nghề gì</setQuestion>
+<answer>tớ là một nhà lãnh đạo</answer>
+<autoPositive>một nhà lãnh đạo à</autoPositive>
+<turnKeep>uhm</turnKeep>
+<setQuestion>quốc tịch của cậu là gì</setQuestion>
+<answer>tớ là người mỹ</answer>
+<autoPositive>người mỹ</autoPositive>
+<propositionalQuestion>cậu còn sống không</propositionalQuestion>
+<answer>tớ không còn sống đâu</answer>
+<autoPositive>cậu không còn sống</autoPositive>
+<autoPositive>okay</autoPositive>
+<turnKeep>thế</turnKeep>
+<propositionalQuestion>cậu có phải là</propositionalQuestion>
+<propositionalQuestion>cậu có phải là người lãnh đạo một công ty không</propositionalQuestion>
+<selfCorrection>có phải cậu dẫn đầu</selfCorrection>
+<answer>tớ không lãnh đạo một công ty</answer>
+<instruct>và tớ muốn cậu biết rằng cậu không bị giới hạn là chỉ hỏi câu hỏi đúng sai</instruct>
+<instruct>cậu có thể hỏi cái gì cũng được</instruct>
+<autoPositive>okay</autoPositive>
+<turnKeep>so</turnKeep>
+<autoPositive>cậu không lãnh đạo một công ty</autoPositive>
+<turnKeep>vậy</turnKeep>
+<turnKeep>hm</turnKeep>
+<setQuestion>cậu sinh ra lúc nào</setQuestion>
+<answer>tớ sinh vào ngày 22 tháng 2 năm 1732</answer>
+<autoPositive>1732</autoPositive>
+<autoPositive>ok</autoPositive>
+<turnKeep>eehm</turnKeep>
+<propositionalQuestion>có phải là nhà chính trị không</propositionalQuestion>
+<answer>tớ là một nhà chính trị</answer>
+<autoPositive>okay</autoPositive>
+<inform>vậy thì không phải khoản của tớ rồi</inform>
+<promise>nhưng tớ vẫn sẽ thử đoán nhé</promise>
+<autoPositive>một nhà chính trị</autoPositive>
+<stalling>vậy</stalling>
+<turnTake>vậy</turnTake>
+<setQuestion>khi nào cậu ở trong chính phủ</setQuestion>
+<turnAccept>uhm</turnAccept>
+<turnKeep>xem nào</turnKeep>
+<turnKeep>uh</turnKeep>
+<answer>nó chắc là</answer>
+<autoPositive>okay</autoPositive>
+<turnKeep>uhm</turnKeep>
+<answer>tớ về hưu tổng thống vào năm 1797</answer>
+<selfCorrection>tớ hết nhiệm kỳ</selfCorrection>
+<autoPositive>97</autoPositive>
+<guess>george washington</guess>
+<propositionalQuestion>đó là câu trả lời cuối cùng của cậu chưa</propositionalQuestion>
+<turnAccept>uhm</turnAccept>
+<autoPositive>97</autoPositive>
+<turnKeep>uhm</turnKeep>
+<guess>washington hoặc bill clinton</guess>
+<inform>tớ không chắc bà ấy còn sống không</inform>
+<request>thế thì hãy thử đoán xem</request>
+<request>hoặc hỏi thêm câu hỏi</request>
+<inform>cậu còn bốn câu nữa</inform>
+<turnKeep>thế</turnKeep>
+<propositionalQuestion>cậu có từng có tình cảm với monica lewinsky không</propositionalQuestion>
+<answer>tớ không hề</answer>
+<guess>thế cậu không phải là bill clinton</guess>
+<turnAccept>uhm</turnAccept>
+<disconfirm>tớ không phải là bill clinton</disconfirm>
+<autoPositive>chính xác uuh</autoPositive>
+<inform>tớ là george washington</inform>
+<autoPositive>oh</autoPositive>
+<inform>lần đầu tớ đoán đúng rồi</inform>
+<autoPositive>ok</autoPositive>
+<agreement>ừh</agreement>
+<inform>cậu làm tớ bối rối</inform>
+<apology>tớ xin lỗi nhưng</apology>
+<selfCorrection>tớ xin lỗi nhưng</selfCorrection>
+<apology>tớ xin lỗi</apology>
+<inform>nhưng cậu sẽ làm tốt hơn vào các lần tiếp theo</inform>
+<closing>cậu sẽ làm tốt hơn chúng ta còn nhiều vòng mà</closing>
+<inform>chúng ta còn nhiều vòng lắm</inform>
+<autoPositive>okay mong là vậy mong là vậy</autoPositive>
+<acceptApology>okay</acceptApology>

@@ -1,0 +1,8 @@
+non
+fear
+angry
+joy
+sad
+supprise
+disgust
+confused
